@@ -93,21 +93,21 @@
       "summary": "Forscher lassen große Modelle die Gewichte eines kleinen Modells gezielt umschreiben. Schon winzige Änderungen hoben dessen Mathe-Ergebnis stark an.",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "source": "AINews (Latent Space)",
-      "category": "Forschung"
+      "category": "Forschung & Deep Tech"
     },
     {
       "title": "Stanford: Fast die Hälfte bekannter LLM-Befunde ist veraltet",
       "summary": "50 oft zitierte Aussagen über Sprachmodelle wurden mit 20 aktuellen Modellen neu getestet. Vor allem Aussagen über Schwächen der Modelle gelten oft nicht mehr.",
       "url": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
       "source": "The Decoder",
-      "category": "Forschung"
+      "category": "Forschung & Deep Tech"
     },
     {
       "title": "KI-Agenten steuern ein Teleskop bei der Suche nach Außerirdischen",
       "summary": "Beim SETI Institute bedienen Agenten das Allen Telescope Array und werten Funksignale aus. Dabei sollen sie erstmals einen Pulsar in Echtzeit erkannt haben.",
       "url": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
       "source": "The Decoder",
-      "category": "Forschung"
+      "category": "Forschung & Deep Tech"
     }
   ]
 }

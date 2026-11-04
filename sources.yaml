@@ -9,30 +9,75 @@ categories:
   - Modelle & Releases
   - Claude & Anthropic
   - Tools & Agenten
+  - KI im Alltag & Beruf
   - Business & Funding
   - Regulierung & Politik
-  - Forschung
+  - Forschung & Deep Tech
 
+# Alle Quellen am 2026-11-04 geprüft (erreichbar, aktuell).
 sources:
-  # Täglicher Sammel-Digest (Reddit, X, Discord, Blogs). Hauptquelle.
-  # news.smol.ai ist umgezogen, der alte RSS-Feed endet im September 2026.
-  - name: AINews (Latent Space)
-    url: https://latent.space/news/
-    type: blog-index
-    focus: "Nur die neueste Ausgabe öffnen. Daraus die echten Neuigkeiten des Tages ziehen, keine Diskussionen oder Memes. Als Link möglichst die Original-Ankündigung nehmen, die in der Ausgabe verlinkt ist."
-
-  # Newsletter, kommt dienstags und donnerstags per Mail (Gmail-Connector der Routine).
-  - name: Ben's Bites
-    type: gmail
-    query: "from:bensbites@substack.com newer_than:2d"
-    focus: "Praxisnahe Tools und Anwendungen. Link nur auf die Web-Version des Beitrags (bensbites.com/p/…) oder direkt auf das Tool, nie auf substack.com/redirect-Links aus der Mail."
-
+  # --- Hersteller: Original-Ankündigungen, als Link bevorzugen ---
   - name: Anthropic News
     url: https://www.anthropic.com/news
     type: blog-index
     focus: "Neue Claude-Modelle, Funktionen, Claude Code, Produkt-Updates"
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    type: rss
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    type: rss
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    type: rss
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    type: rss
+    focus: "Nur wichtige offene Modelle und Werkzeuge, keine Tutorials"
 
+  # --- Nachrichten, englisch ---
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    type: rss
+    focus: "Finanzierungen, Übernahmen, Produktstarts"
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    type: rss
+    focus: "KI in Alltagsprodukten (Handy, Suche, Assistenten)"
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    type: rss
+    focus: "Einordnung, Gesellschaft, Forschung"
+
+  # --- Nachrichten, deutsch ---
+  - name: heise online
+    url: https://www.heise.de/rss/heise-Rubrik-IT-atom.xml
+    type: rss
+    focus: "Nur Meldungen mit KI-Bezug. Datenschutz, EU, deutsche Unternehmen"
+  - name: t3n
+    url: https://t3n.de/tag/kuenstliche-intelligenz/rss.xml
+    type: rss
+    focus: "KI im Beruf, Tools für den Arbeitsalltag"
   - name: The Decoder
     url: https://the-decoder.de/feed/
     type: rss
-    focus: "Deutsche Sicht, EU-Regulierung, große Ankündigungen. Nur zur Ergänzung."
+
+  # --- Digests und Kommentare ---
+  - name: AINews (Latent Space)
+    url: https://www.latent.space/feed
+    type: rss
+    focus: "Nur die neueste AINews-Ausgabe. Daraus die echten Neuigkeiten ziehen, als Link die verlinkte Original-Ankündigung nehmen."
+  - name: Ben's Bites
+    url: https://www.bensbites.com/feed
+    type: rss
+    focus: "Praxisnahe Tools und Anwendungen"
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    type: rss
+    focus: "Nur wenn es ein neues Modell oder Werkzeug konkret einordnet"
+
+  # --- Newsletter per Mail (Gmail-Connector der Routine) ---
+  - name: Impossible Founders
+    type: gmail
+    query: "from:impossible-founders.com newer_than:3d"
+    focus: "Deep-Tech-Briefing aus Hamburg (alle zwei Wochen). Nur Inhalte mit KI- oder Deep-Tech-Bezug, Rubrik Forschung & Deep Tech. Link nur auf öffentliche Seiten, nie auf Links aus der Mail."
