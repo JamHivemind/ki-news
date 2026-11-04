@@ -3,6 +3,9 @@ on:
   push:
     paths: ['content.json', 'template.html', 'scripts/**', 'assets/**']
   schedule:
+    # Feeds vor dem Morgenlauf der Routine holen (06:30 Berlin im Winter; Routine 07:00).
+    # Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
+    - cron: '30 5 * * *'
     # Kennzahlen auch an Tagen ohne neue Ausgabe nachziehen (09:15 Berlin im Winter)
     - cron: '15 8 * * *'
   workflow_dispatch:
@@ -24,6 +27,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Feeds holen (für die Routine)
+        run: node scripts/feeds.mjs
+
       - name: Kennzahlen holen (arXiv, Börse, Hugging Face)
         run: node scripts/metrics.mjs
 
@@ -34,7 +40,7 @@ jobs:
         run: |
           git config user.name "ki-news[bot]"
           git config user.email "ki-news[bot]@users.noreply.github.com"
-          git add index.html archive/ seen.json data/
+          git add index.html archive/ seen.json data/ feeds.json
           git diff --cached --quiet && exit 0
           git commit -m "seite: $(node -p 'require("./content.json").date')"
           # GitHub lehnt Pushes gelegentlich mit "Internal Server Error" ab: bis zu 4 Versuche

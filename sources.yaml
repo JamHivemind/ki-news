@@ -17,10 +17,11 @@ categories:
 # Alle Quellen am 2026-11-04 geprüft (erreichbar, aktuell).
 sources:
   # --- Hersteller: Original-Ankündigungen, als Link bevorzugen ---
-  - name: Anthropic News
-    url: https://www.anthropic.com/news
-    type: blog-index
-    focus: "Neue Claude-Modelle, Funktionen, Claude Code, Produkt-Updates"
+  # Anthropic hat keinen RSS-Feed: Google News nach Anthropic/Claude (via = Originalseite)
+  - name: Anthropic (Google News)
+    url: https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+Code%22+when:2d&hl=en-US&gl=US&ceid=US:en
+    type: rss
+    focus: "Neue Claude-Modelle, Funktionen, Claude Code, Produkt-Updates. Bevorzugt Einträge von anthropic.com"
   - name: OpenAI News
     url: https://openai.com/news/rss.xml
     type: rss
