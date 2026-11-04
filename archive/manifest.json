@@ -4,7 +4,25 @@
       "date": "2026-11-04",
       "file": "2026-11-04.html",
       "headline": "Claude Code verweigert jetzt den Nachbau bekannter Spiele",
-      "count": 14
+      "count": 14,
+      "sources": 3,
+      "cats": {
+        "Claude & Anthropic": 2,
+        "Modelle & Releases": 2,
+        "Tools & Agenten": 3,
+        "Business & Funding": 2,
+        "Regulierung & Politik": 2,
+        "Forschung & Deep Tech": 3
+      },
+      "firms": {
+        "Anthropic": 4,
+        "Google": 1,
+        "Alibaba/Qwen": 1,
+        "DeepSeek": 1,
+        "Microsoft": 1,
+        "OpenAI": 2,
+        "Nvidia": 1
+      }
     }
   ],
   "site": {

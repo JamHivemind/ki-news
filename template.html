@@ -23,10 +23,14 @@
     </div>
   </header>
 
+  {{KPIS}}
+
   {{INTRO}}
 
-  <h2>Top 3 des Tages</h2>
-  <div class="top">{{TOP}}</div>
+  <h2>{{TOP_TITLE}}</h2>
+  {{TOP}}
+
+  {{DASHBOARD}}
 
   {{SECTIONS}}
 
@@ -35,8 +39,11 @@
   <footer>
     Automatisch zusammengefasst mit Claude. Quellen: {{SOURCES}}.
     Alle Texte sind eigene Kurzfassungen, das Original steht jeweils hinter „Zur Quelle“.
+    Kennzahlen: eigene Zählung, arXiv, Yahoo Finance, Hugging Face.
   </footer>
 </div>
+<div class="tooltip" id="tooltip" role="status" hidden></div>
 <script src="{{ROOT}}assets/vorlesen.js"></script>
+<script src="{{ROOT}}assets/dashboard.js"></script>
 </body>
 </html>
