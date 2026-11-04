@@ -16,6 +16,11 @@
     <h1>{{DATE_LONG}}</h1>
     <div class="sub">{{STATS}}</div>
     <nav class="nav">{{NAV}}</nav>
+    <div class="vorlesen" id="vorlesen" hidden>
+      <button type="button" data-play>🔊 Vorlesen</button>
+      <button type="button" data-stop hidden>⏹ Stopp</button>
+      <span data-label></span>
+    </div>
   </header>
 
   {{INTRO}}
@@ -32,5 +37,6 @@
     Alle Texte sind eigene Kurzfassungen, das Original steht jeweils hinter „Zur Quelle“.
   </footer>
 </div>
+<script src="{{ROOT}}assets/vorlesen.js"></script>
 </body>
 </html>
