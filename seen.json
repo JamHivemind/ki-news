@@ -1,0 +1,72 @@
+{
+  "https://the-decoder.de/anthropic-reagiert-auf-klon-welle-und-sperrt-spielenachbauten-in-claude-code/": {
+    "title": "Claude Code verweigert jetzt den Nachbau bekannter Spiele",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/": {
+    "title": "Anthropic: „Message Threads“ machen lange Agenten-Läufe schneller",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://x.com/SemiAnalysis_/status/2117075900575477855": {
+    "title": "Neuer Test GDPx: Selbst das beste Modell löst nur 12 Prozent",
+    "source": "AINews (Latent Space)",
+    "first_seen": "2026-11-04"
+  },
+  "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/": {
+    "title": "Qwen bleibt Open Source",
+    "source": "AINews (Latent Space)",
+    "first_seen": "2026-11-04"
+  },
+  "https://x.com/DeepSeekHarness/status/2116857257245987236": {
+    "title": "DeepSeek zeigt Architektur für „Super-Agenten“",
+    "source": "AINews (Latent Space)",
+    "first_seen": "2026-11-04"
+  },
+  "https://x.com/karpathy/status/2116957135661945283": {
+    "title": "Karpathy baut in zwei Stunden ein Video-Archiv aus Hacker News",
+    "source": "AINews (Latent Space)",
+    "first_seen": "2026-11-04"
+  },
+  "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont": {
+    "title": "Hex: kostenlose Diktier-App für Mac, Windows und Linux",
+    "source": "Ben's Bites",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/goldman-sachs-schraenkt-ki-coding-tools-fuer-trader-und-banker-wieder-ein/": {
+    "title": "Goldman Sachs nimmt Tradern die KI-Coding-Tools wieder weg",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/": {
+    "title": "OpenAI vervierfacht die Prämien für Sicherheitslücken",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/": {
+    "title": "OpenAI holt früheren US-Heeresminister",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/nvidia-draengt-cloud-kunden-zu-weniger-china-geschaeft/": {
+    "title": "Nvidia drängt Cloud-Kunden zu weniger China-Geschäft",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://rikiyat.github.io/blog/weight-space-programming/": {
+    "title": "Sprachmodelle verändern direkt die Gewichte anderer Netze",
+    "source": "AINews (Latent Space)",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/": {
+    "title": "Stanford: Fast die Hälfte bekannter LLM-Befunde ist veraltet",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  },
+  "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/": {
+    "title": "KI-Agenten steuern ein Teleskop bei der Suche nach Außerirdischen",
+    "source": "The Decoder",
+    "first_seen": "2026-11-04"
+  }
+}

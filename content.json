@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-04",
+  "site": {
+    "title": "KI-News",
+    "description": "Die wichtigsten Neuigkeiten aus der KI-Welt, jeden Morgen kurz auf Deutsch",
+    "lang": "de"
+  },
+  "intro": "Ein Tag der Agenten: Anthropic beschleunigt lange Agenten-Läufe, DeepSeek zeigt eine eigene Agenten-Architektur, und ein neuer Test zeigt, wie weit Agenten bei echter Wirtschaftsarbeit noch zurückliegen.",
+  "top": [
+    {
+      "title": "Claude Code verweigert jetzt den Nachbau bekannter Spiele",
+      "text": "Nach einer Welle von Klonen bekannter Videospiele hat Anthropic Claude Code neue Grenzen gesetzt. Nutzer berichten, dass Opus 5.5 zusätzlich manche Reverse-Engineering-Aufgaben ablehnt. Wer Claude Code für Analyse fremder Software nutzt, sollte mit mehr Ablehnungen rechnen.",
+      "url": "https://the-decoder.de/anthropic-reagiert-auf-klon-welle-und-sperrt-spielenachbauten-in-claude-code/",
+      "source": "The Decoder",
+      "category": "Claude & Anthropic"
+    },
+    {
+      "title": "Anthropic: „Message Threads“ machen lange Agenten-Läufe schneller",
+      "text": "Mit Message Threads schicken Agenten pro Runde nur noch die neuen Nachrichten statt des ganzen Verlaufs an die API. Bei sehr langen Anfragen kommt die erste Antwort laut Anthropic rund 35 Prozent schneller. Das betrifft vor allem Entwickler, die eigene Agenten über die Claude-API bauen.",
+      "url": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
+      "source": "The Decoder",
+      "category": "Claude & Anthropic"
+    },
+    {
+      "title": "Neuer Test GDPx: Selbst das beste Modell löst nur 12 Prozent",
+      "text": "SemiAnalysis hat einen Benchmark mit 206 Agenten-Aufgaben aus 11 wirtschaftlich wichtigen Bereichen vorgestellt. Opus 5.5 liegt mit 12 Prozent vorn, Gemini 4 Carbon folgt mit 10,9 Prozent. Der Test zeigt, dass Agenten bei echter, mehrstufiger Facharbeit noch weit von Menschen entfernt sind.",
+      "url": "https://x.com/SemiAnalysis_/status/2117075900575477855",
+      "source": "AINews (Latent Space)",
+      "category": "Modelle & Releases"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Qwen bleibt Open Source",
+      "summary": "Die Qwen-Führung hat Gerüchten widersprochen, künftige Modelle gäbe es nur noch per API: Qwen 4.0 und 5.0 sollen offen bleiben.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+      "source": "AINews (Latent Space)",
+      "category": "Modelle & Releases"
+    },
+    {
+      "title": "DeepSeek zeigt Architektur für „Super-Agenten“",
+      "summary": "Ein langlebiger Verteiler gibt Arbeit an mehrere isolierte Helfer parallel ab. Im eigenen Test halbierte sich damit die Laufzeit langer Aufgaben fast.",
+      "url": "https://x.com/DeepSeekHarness/status/2116857257245987236",
+      "source": "AINews (Latent Space)",
+      "category": "Tools & Agenten"
+    },
+    {
+      "title": "Karpathy baut in zwei Stunden ein Video-Archiv aus Hacker News",
+      "summary": "Mit Claude Code und Opus 5.5 hat Andrej Karpathy 43 Millionen Kommentare nach oft empfohlenen Videos durchsucht und daraus eine Seite mit rund 6.500 Videos gebaut.",
+      "url": "https://x.com/karpathy/status/2116957135661945283",
+      "source": "AINews (Latent Space)",
+      "category": "Tools & Agenten",
+      "tipp": "Gutes Beispiel, wie man große Textmengen mit einem Agenten auswertet: erst filtern lassen, dann das Ergebnis als kleine Webseite bauen."
+    },
+    {
+      "title": "Hex: kostenlose Diktier-App für Mac, Windows und Linux",
+      "summary": "Ben's Bites empfiehlt Hex, ein freies Werkzeug, das Sprache direkt in Text umwandelt, in jeder Anwendung.",
+      "url": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
+      "source": "Ben's Bites",
+      "category": "Tools & Agenten",
+      "tipp": "Statt Prompts zu tippen, einfach einsprechen. Gerade lange Anweisungen an Claude werden so oft genauer."
+    },
+    {
+      "title": "Goldman Sachs nimmt Tradern die KI-Coding-Tools wieder weg",
+      "summary": "Claude Code und GitHub Copilot dürfen bei Goldman nur noch Entwickler nutzen. Begründung: Produktivität und Risikokontrolle.",
+      "url": "https://the-decoder.de/goldman-sachs-schraenkt-ki-coding-tools-fuer-trader-und-banker-wieder-ein/",
+      "source": "The Decoder",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "OpenAI vervierfacht die Prämien für Sicherheitslücken",
+      "summary": "Wer Schwachstellen meldet, bekommt deutlich mehr Geld. Parallel startet OpenAI intern einen Sicherheits-Sprint.",
+      "url": "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/",
+      "source": "The Decoder",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "OpenAI holt früheren US-Heeresminister",
+      "summary": "Dan Driscoll wird Berater bei OpenAI und soll vor allem beim Geschäft mit Militär und Geheimdiensten helfen.",
+      "url": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
+      "source": "The Decoder",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "Nvidia drängt Cloud-Kunden zu weniger China-Geschäft",
+      "summary": "Laut Berichten hat Nvidia einige Cloud-Anbieter gebeten, ihre Geschäfte mit chinesischen Firmen zu verringern.",
+      "url": "https://the-decoder.de/nvidia-draengt-cloud-kunden-zu-weniger-china-geschaeft/",
+      "source": "The Decoder",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "Sprachmodelle verändern direkt die Gewichte anderer Netze",
+      "summary": "Forscher lassen große Modelle die Gewichte eines kleinen Modells gezielt umschreiben. Schon winzige Änderungen hoben dessen Mathe-Ergebnis stark an.",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "source": "AINews (Latent Space)",
+      "category": "Forschung"
+    },
+    {
+      "title": "Stanford: Fast die Hälfte bekannter LLM-Befunde ist veraltet",
+      "summary": "50 oft zitierte Aussagen über Sprachmodelle wurden mit 20 aktuellen Modellen neu getestet. Vor allem Aussagen über Schwächen der Modelle gelten oft nicht mehr.",
+      "url": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
+      "source": "The Decoder",
+      "category": "Forschung"
+    },
+    {
+      "title": "KI-Agenten steuern ein Teleskop bei der Suche nach Außerirdischen",
+      "summary": "Beim SETI Institute bedienen Agenten das Allen Telescope Array und werten Funksignale aus. Dabei sollen sie erstmals einen Pulsar in Echtzeit erkannt haben.",
+      "url": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
+      "source": "The Decoder",
+      "category": "Forschung"
+    }
+  ]
+}

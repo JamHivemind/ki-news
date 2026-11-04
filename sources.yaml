@@ -1,0 +1,38 @@
+site:
+  title: "KI-News"
+  description: "Die wichtigsten Neuigkeiten aus der KI-Welt, jeden Morgen kurz auf Deutsch"
+  lang: de
+  timezone: Europe/Berlin
+
+# Feste Reihenfolge der Rubriken auf der Seite
+categories:
+  - Modelle & Releases
+  - Claude & Anthropic
+  - Tools & Agenten
+  - Business & Funding
+  - Regulierung & Politik
+  - Forschung
+
+sources:
+  # Täglicher Sammel-Digest (Reddit, X, Discord, Blogs). Hauptquelle.
+  # news.smol.ai ist umgezogen, der alte RSS-Feed endet im September 2026.
+  - name: AINews (Latent Space)
+    url: https://latent.space/news/
+    type: blog-index
+    focus: "Nur die neueste Ausgabe öffnen. Daraus die echten Neuigkeiten des Tages ziehen, keine Diskussionen oder Memes. Als Link möglichst die Original-Ankündigung nehmen, die in der Ausgabe verlinkt ist."
+
+  # Newsletter, kommt dienstags und donnerstags per Mail (Gmail-Connector der Routine).
+  - name: Ben's Bites
+    type: gmail
+    query: "from:bensbites@substack.com newer_than:2d"
+    focus: "Praxisnahe Tools und Anwendungen. Link nur auf die Web-Version des Beitrags (bensbites.com/p/…) oder direkt auf das Tool, nie auf substack.com/redirect-Links aus der Mail."
+
+  - name: Anthropic News
+    url: https://www.anthropic.com/news
+    type: blog-index
+    focus: "Neue Claude-Modelle, Funktionen, Claude Code, Produkt-Updates"
+
+  - name: The Decoder
+    url: https://the-decoder.de/feed/
+    type: rss
+    focus: "Deutsche Sicht, EU-Regulierung, große Ankündigungen. Nur zur Ergänzung."
