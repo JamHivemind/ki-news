@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-04T12:14:25.633Z",
+ "fetched": "2026-11-04T12:15:49.235Z",
  "hours": 48,
  "sources": [
   {
@@ -22,18 +22,18 @@
      "via": "Business Insider"
     },
     {
+     "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI - ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
+     "date": "2026-11-04T06:49:37.000Z",
+     "text": "FTC opens probe into safety of AI, including Anthropic and OpenAI ABC News - Breaking News, Latest News and Videos",
+     "via": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
      "title": "Progress on provable inference for large language models - Anthropic",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
      "date": "2026-11-03T04:43:45.000Z",
      "text": "Progress on provable inference for large language models Anthropic",
      "via": "Anthropic"
-    },
-    {
-     "title": "My Claude Code Workflow: Lessons From Rebuilding a Website in Two Days - HackerNoon",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY21zb0NvZUNfVXpkY0p1TG9HWTRnRm9QbXN0cUY4MDAtSXNOa0RmX2ZsY1hmbHVoNTFRU3ZqRzE3bXYxNHVRVTQtb09CMV9tWFpLS2NIUUpGVUVzNUNDX1NQZV9rNGstYzFlcV9YMUZPS25hZEdXWFFEYUVBUlQ3MDNjMk1TY3dCTW5Tblp5WnY1N1NUM29F?oc=5",
-     "date": "2026-11-04T08:05:06.000Z",
-     "text": "My Claude Code Workflow: Lessons From Rebuilding a Website in Two Days HackerNoon",
-     "via": "HackerNoon"
     },
     {
      "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
@@ -43,18 +43,25 @@
      "via": "Yahoo Finance"
     },
     {
+     "title": "My Claude Code Workflow: Lessons From Rebuilding a Website in Two Days - HackerNoon",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY21zb0NvZUNfVXpkY0p1TG9HWTRnRm9QbXN0cUY4MDAtSXNOa0RmX2ZsY1hmbHVoNTFRU3ZqRzE3bXYxNHVRVTQtb09CMV9tWFpLS2NIUUpGVUVzNUNDX1NQZV9rNGstYzFlcV9YMUZPS25hZEdXWFFEYUVBUlQ3MDNjMk1TY3dCTW5Tblp5WnY1N1NUM29F?oc=5",
+     "date": "2026-11-04T08:05:06.000Z",
+     "text": "My Claude Code Workflow: Lessons From Rebuilding a Website in Two Days HackerNoon",
+     "via": "HackerNoon"
+    },
+    {
+     "title": "Claude's new smart reports tell bosses when workers are 'off-topic' - Mashable",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHNYSEJlZEQtclhFUk1CZjRKWkFhVk1SM1pmcEJkajl5LWgtSHVfaDNkWUtKazRRUUh2YjZ1UVB0M1owMEdOdnlLc0FOdmdDbWdQanZqUjdELS1lVHFHMktfcHVXbXRaZmUtcXdaTncyTlBrdU5MVEN3NURjR1c4Mg?oc=5",
+     "date": "2026-11-04T01:17:38.000Z",
+     "text": "Claude's new smart reports tell bosses when workers are 'off-topic' Mashable",
+     "via": "Mashable"
+    },
+    {
      "title": "Why Seeking Anthropic Exposure Via a Fund or ETF Probably Isn’t Worth It - Morningstar",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTdPSDJSbXVPRmRnUWNxSkJrdVFMYzlvRDVTbXJ4SEpSbHZHVWwwU1JZSDFzYzk4M3VPb296V0x2TGcyRkdySGd5dGt6VlFoVHhmdTY0Qy1QNGhNSEJpaWpVaUJMUTN4UUxJSFlNQ3pYRHhaTU1FWm5QbHJ6ck9kWmJvZjd2MHhEWEFKSFZiVFhFWVREQjdhY0lzbWl4eWNVUlBhdjN3?oc=5",
      "date": "2026-11-04T12:02:39.000Z",
      "text": "Why Seeking Anthropic Exposure Via a Fund or ETF Probably Isn’t Worth It Morningstar",
      "via": "Morningstar"
-    },
-    {
-     "title": "3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic - The Motley Fool",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWpuUllPUGZ0UE0yUDROYkNsRURYQlUyT3EwcWZZTlNTWXNmNjFDS2lfalNNWERrTTE3Zml5aXJ6cm1MU0gwZDdYdzRLY3hQSDZweHhuMmUwZE5Yc2ZnTzRmNWZFQWp4NDNjWnMwT3ZwV0lydGRZcVBvNmlLTHVaWE1UQ3F4REU3QWQwWC1adUh3Ul9LT2FOQjJhSkdIaEQ5U2lvTDJLRzVNNVhvVGJEa25wR0FUMlc1b216dnZXMHdiUQ?oc=5",
-     "date": "2026-11-04T09:00:00.000Z",
-     "text": "3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic The Motley Fool",
-     "via": "The Motley Fool"
     },
     {
      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
@@ -78,6 +85,13 @@
      "via": "TechCrunch"
     },
     {
+     "title": "3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic - The Motley Fool",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWpuUllPUGZ0UE0yUDROYkNsRURYQlUyT3EwcWZZTlNTWXNmNjFDS2lfalNNWERrTTE3Zml5aXJ6cm1MU0gwZDdYdzRLY3hQSDZweHhuMmUwZE5Yc2ZnTzRmNWZFQWp4NDNjWnMwT3ZwV0lydGRZcVBvNmlLTHVaWE1UQ3F4REU3QWQwWC1adUh3Ul9LT2FOQjJhSkdIaEQ5U2lvTDJLRzVNNVhvVGJEa25wR0FUMlc1b216dnZXMHdiUQ?oc=5",
+     "date": "2026-11-04T09:00:00.000Z",
+     "text": "3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic The Motley Fool",
+     "via": "The Motley Fool"
+    },
+    {
      "title": "Amodei Beats Musk for CIO Who Saw ‘Catastrophic’ SpaceX Risks - Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU215T2xNSktKZ3V1WGdvSjdjYWNqZkdJMU5lWk1ZbW9NM05BVWdPNzdrWEQ4N2o3aS0tSEhmUXlEdzR1eXBEcTF4dU5lR0MtNjBnZnoxN3F2eXpXdjgyX1JjTGoyNy1TZlhpcHgxZTBEYWxpaWt0VnozNW1YNGxHNURkb3hXX3JPamNkTGNfLVNEaDIzVzl5ekNMRm9yXzVDVlFHMlF3M0NXbmFBbFRJ?oc=5",
      "date": "2026-11-04T07:00:00.000Z",
@@ -85,18 +99,18 @@
      "via": "Bloomberg.com"
     },
     {
-     "title": "Anthropic is an opportunity to rethink IPO rules - Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5cDVEUkRxQnRYNVFuXzFUUmhUZDVxazZBYVRmN0hnX3YxTm1LWHo5TE53Z1NXRG5nTXhldlhQa2ZKdVFOM0JfODV2clN1WndfODZtNjYyYVlkTlNwU3FtREdlVWRBTlc3eWg4RGl4d08?oc=5",
-     "date": "2026-11-04T11:38:48.000Z",
-     "text": "Anthropic is an opportunity to rethink IPO rules Financial Times",
-     "via": "Financial Times"
-    },
-    {
      "title": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street - CNN",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY2gxUHV5VzhJcUoyWkFHdG9vZUdRT1VYZ0hfcjRJOU8xa3otZVpYbWNib1Q0WnJ2UUhhekFRNng1Z2tKWTB2aFBva2ZUN0Vzc3lRT0VuXzZ6LURoRDAxNUI4SzVYdVdXOVIw?oc=5",
      "date": "2026-11-03T10:00:15.000Z",
      "text": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street CNN",
      "via": "CNN"
+    },
+    {
+     "title": "Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+     "date": "2026-11-04T01:10:12.000Z",
+     "text": "Anthropic says its AI models hacked 3 organizations on their own during tests ABC News - Breaking News, Latest News and Videos",
+     "via": "ABC News - Breaking News, Latest News and Videos"
     },
     {
      "title": "Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says - Yahoo Finance",
@@ -111,13 +125,6 @@
      "date": "2026-11-04T11:12:12.000Z",
      "text": "Anthropic’s IPO to Cast Long Shadow Over Private AI Stocks Morningstar",
      "via": "Morningstar"
-    },
-    {
-     "title": "RBA Faces an Uncertain Path After Hiking Rates to 18-Year High - Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDJIOXp0SFBTeENPY21BSVI3YzdjbjlibnI2ZnhURmF4QzNPTDZUaHZrTWhTZC1LTW5KcGpFak5KMGN5eFlFTDhqcEE0VXFoY0ZHZS10WTA1Q3hnZmU2UmtOSjNwdUxVSGhoQXkxZjJGSEhtd3EtSmlTRW04S0w4OHlWLUJaUm9LR0JhUE4wU2pCMkpuTUkxMVlXeFZ2T2F6cnNPdURnWDFzdTVzRFpaNUpJakZaNmpPRFV3?oc=5",
-     "date": "2026-11-04T09:39:40.000Z",
-     "text": "RBA Faces an Uncertain Path After Hiking Rates to 18-Year High Bloomberg.com",
-     "via": "Bloomberg.com"
     },
     {
      "title": "Anthropic’s third-quarter results mean IPO math and history are not on its side, analysts say - Fortune",
@@ -141,11 +148,32 @@
      "via": "Yahoo Finance"
     },
     {
+     "title": "Anthropic is an opportunity to rethink IPO rules - Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5cDVEUkRxQnRYNVFuXzFUUmhUZDVxazZBYVRmN0hnX3YxTm1LWHo5TE53Z1NXRG5nTXhldlhQa2ZKdVFOM0JfODV2clN1WndfODZtNjYyYVlkTlNwU3FtREdlVWRBTlc3eWg4RGl4d08?oc=5",
+     "date": "2026-11-04T11:38:48.000Z",
+     "text": "Anthropic is an opportunity to rethink IPO rules Financial Times",
+     "via": "Financial Times"
+    },
+    {
+     "title": "RBA Faces an Uncertain Path After Hiking Rates to 18-Year High - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDJIOXp0SFBTeENPY21BSVI3YzdjbjlibnI2ZnhURmF4QzNPTDZUaHZrTWhTZC1LTW5KcGpFak5KMGN5eFlFTDhqcEE0VXFoY0ZHZS10WTA1Q3hnZmU2UmtOSjNwdUxVSGhoQXkxZjJGSEhtd3EtSmlTRW04S0w4OHlWLUJaUm9LR0JhUE4wU2pCMkpuTUkxMVlXeFZ2T2F6cnNPdURnWDFzdTVzRFpaNUpJakZaNmpPRFV3?oc=5",
+     "date": "2026-11-04T09:39:40.000Z",
+     "text": "RBA Faces an Uncertain Path After Hiking Rates to 18-Year High Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
      "title": "How Much Should Anthropic Pop? - Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcU9ORloxdFByUnNyZTRrNFZpS3R6ZTBKUkZQd3dTY21lb29wYUloX0hnUG53bGpzUVFOVlB3TGhBZlpIZ3J4MGpVSDd2X21rd2pVcWF0UGx2WFQ0QldpZzV1Q3FwUVYwXzRoRV9NeUNCOThpSV9NZl9Nem9NVVlBUWdNN3BWVTNSdnVkQW9Lbw?oc=5",
      "date": "2026-11-03T19:31:31.000Z",
      "text": "How Much Should Anthropic Pop? Bloomberg.com",
      "via": "Bloomberg.com"
+    },
+    {
+     "title": "How to deploy a website from Claude Code in 8 steps - Hostinger",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbk12VURuY0N4Vy1lMmtieDJ4MUJQeUMxbk9VbUlNd1dmZ2xhZ3dRczRkNjFZRW5aOGtQc0xVclQ1UFpzVHVMUjJ3dzFfM01WSkQ3Y00wek1JQk11TkNtQ1NhN0NzQ19hd2g1UTdRTHJHRHFQVUNVM3J0eHVNUlZ4RTZ1Y3ZGRUE?oc=5",
+     "date": "2026-11-04T08:49:27.000Z",
+     "text": "How to deploy a website from Claude Code in 8 steps Hostinger",
+     "via": "Hostinger"
     },
     {
      "title": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models - Help Net Security",
@@ -155,11 +183,11 @@
      "via": "Help Net Security"
     },
     {
-     "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? - The Motley Fool",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY3ZXVFE4MElyUkJnUy1BejRYZkxlVFJyQ0ZyTE5wUFQ0TTZCT25iN1ZFZTZxSFpLN3dGNTBfLWVLMWp4X0M3M2VZQUd1REhzQkw2MXhCVVFqVldUcUtnRE1MM0RDV1MxWTdIc1A1R05mWGxPZEdOWDF6dlYtTWxUdnhjbF9yUHJKTjZLMklvZXFUMFBCNnpXMGxidEFzcFFNTkFJMFM3Szh6ODdHWHYtYjZHbTF5TWpsY3pCSERKenE5Q0dGZzRGQktlbndZa0ZX?oc=5",
-     "date": "2026-11-04T01:23:00.000Z",
-     "text": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? The Motley Fool",
-     "via": "The Motley Fool"
+     "title": "The IPO Market Is Open For Anthropic. Not For Everyone Else. - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUl9Idk9HS21XSzJpc0NwdVlmSXU1X0xlZnZVMWlWY2c4eGVFMGJpNGVMSl81Y1djWUVvZl81RkFpUXh4aFZCRnVxel8yckF1cjhKZmJhc2tvSWlDVmtiZWtsZW1CeHJVX2Z3S0FyMER0TFZxaGFPWS1PNjZnam1SWG1uMzAtOTNyc0RWcUI1d1pxOXN2MGFvVWRPTQ?oc=5",
+     "date": "2026-11-03T17:00:00.000Z",
+     "text": "The IPO Market Is Open For Anthropic. Not For Everyone Else. WSJ",
+     "via": "WSJ"
     },
     {
      "title": "New York Angels' Peck Says Anthropic IPO Could Lift Tech After AI Selloffs - Yahoo Finance",
@@ -169,27 +197,6 @@
      "via": "Yahoo Finance"
     },
     {
-     "title": "Korean brokerages sit out Anthropic IPO after SpaceX setback - The Korea Herald",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YT1hCNlVvSm5GdDMyZDREWG5pOEtLRW93U01HMEYyOWNQbjlzdHJmUzJlV2U1X1IwN0R2SjZsbjBvTnZkT1FLU3k1dVQwZzFRaVhmN2VXYw?oc=5",
-     "date": "2026-11-04T05:51:16.000Z",
-     "text": "Korean brokerages sit out Anthropic IPO after SpaceX setback The Korea Herald",
-     "via": "The Korea Herald"
-    },
-    {
-     "title": "Key facts: Anthropic Weighs $100B IPO; Amazon's $6.2B Notes - TradingView",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0NyWXRSU0VVQ3lLZGtGbmpaWXhrTUJsQ3VPYzRfLUtWMHJSZDJTSmFOc2hoVWV1bElVYmZZMFNKWTBIUjFIWDBwZXZPRi1ZNEZ1Q1A4dTN0Nl83UE93Q21wUlpGTTNhZWVYV0lFb1pPTnBWVE85RXJrTldEYXBkZF9xbkk3ZkpiejZzTjRpLW0xQXVUSE1CdnJGR1YwOFI5dThid1NGUmZObE9GX1IzUWUzWmF0d1NQ?oc=5",
-     "date": "2026-11-04T08:00:00.000Z",
-     "text": "Key facts: Anthropic Weighs $100B IPO; Amazon's $6.2B Notes TradingView",
-     "via": "TradingView"
-    },
-    {
-     "title": "The IPO Market Is Open For Anthropic. Not For Everyone Else. - WSJ",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUl9Idk9HS21XSzJpc0NwdVlmSXU1X0xlZnZVMWlWY2c4eGVFMGJpNGVMSl81Y1djWUVvZl81RkFpUXh4aFZCRnVxel8yckF1cjhKZmJhc2tvSWlDVmtiZWtsZW1CeHJVX2Z3S0FyMER0TFZxaGFPWS1PNjZnam1SWG1uMzAtOTNyc0RWcUI1d1pxOXN2MGFvVWRPTQ?oc=5",
-     "date": "2026-11-03T17:00:00.000Z",
-     "text": "The IPO Market Is Open For Anthropic. Not For Everyone Else. WSJ",
-     "via": "WSJ"
-    },
-    {
      "title": "Anthropic swings to loss as massive compute bill looms over IPO - Euronews.com",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzgzUTdESU9ZQzhxRGJKalU0SFdZUUh3QTQ4Rnd1ZW42R3prZC1pUVB5YVVXR1h1Nkk0eXR6bG1faWl5Q1RCWk42X29ia3psZnlfZXE0VENtMEgxeDJJTWdEaHh4N29HTF9mVlJHemwtTjBGaGZRMzJ5MlRNQzcyXzdPeEFrV1V5VWFpMEQ4WmZEQThhSnp0bTQ0X1hMZ0lPdUxsX1J5c3p1ZFVhSC1oQWVOenEwZ3ZPQlE?oc=5",
      "date": "2026-11-03T13:24:19.000Z",
@@ -197,25 +204,18 @@
      "via": "Euronews.com"
     },
     {
-     "title": "Anthropic’s Biology Work Spotlights Researchers’ Need for Advanced AI Access - The Scientist",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEpqZ19fbm1kaXZ1YUlJZWwxMDQ1MkRYM1ZlVDh0WDBLVEJ0OGNDZ2pYUDF1YkdOTnNndlVNT2szNEpXbFZKclJ1ajZYS3Y3ak9xNmpNVlZBS0NyOS00TWhCdE9BaktQOHFMZTczZFlBWDZYdWZ5S1VWQWJJY3dBV0tpWWo3NVJwdE5LaVRMaENBLXlaeUZrVVFmc1pnOGdZNGlDRVV6SmtfVTAxNHFqQg?oc=5",
-     "date": "2026-11-04T05:16:19.000Z",
-     "text": "Anthropic’s Biology Work Spotlights Researchers’ Need for Advanced AI Access The Scientist",
-     "via": "The Scientist"
-    },
-    {
-     "title": "The Anthropic Feedback Loop: The Cost of Capital Delusion and Diversion! - Musings on Markets",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONERTTm9wOVQtMkNncjVBX1BwVVpwQU93M2FzUEpST3hmd2FQUE1PdGxIVWNPUUhJaXp3SDB5QUVseEJyamVrSmp3OVgyOWlIMDRiNzFkVm1pYXZCMVlvV0ZyS24xNnNZdUh3WXRudU1mYmhpY0syQm1JMHp6YkhlS2xYSnQ2Yjl4MkQ3S2NB?oc=5",
-     "date": "2026-11-03T20:11:00.000Z",
-     "text": "The Anthropic Feedback Loop: The Cost of Capital Delusion and Diversion! Musings on Markets",
-     "via": "Musings on Markets"
-    },
-    {
      "title": "Anthropic plans Australian share offer in IPO, CommSec says - Reuters",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemZuN3Ria3VJdnlTMFphelNDSWFHeUpvM2dVa3JHNkdUQlZuWjRvZEdWS0c5c3BVQktYc2dkYWJERnVRblgwNUZOcjFpNTBIWTgxREtFazR0emkybTFIeVpaTmVnLTZ0YUZZUUtPX1Q1bEtRSzNnVy1rMDNPdUNzQVg2QTQ3MnJCeDgyLWdudi16ZVRqVGlIWHZXR3FDTF9CZkFKa25ESXVVVFJP?oc=5",
      "date": "2026-11-03T01:01:00.000Z",
      "text": "Anthropic plans Australian share offer in IPO, CommSec says Reuters",
      "via": "Reuters"
+    },
+    {
+     "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? - The Motley Fool",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY3ZXVFE4MElyUkJnUy1BejRYZkxlVFJyQ0ZyTE5wUFQ0TTZCT25iN1ZFZTZxSFpLN3dGNTBfLWVLMWp4X0M3M2VZQUd1REhzQkw2MXhCVVFqVldUcUtnRE1MM0RDV1MxWTdIc1A1R05mWGxPZEdOWDF6dlYtTWxUdnhjbF9yUHJKTjZLMklvZXFUMFBCNnpXMGxidEFzcFFNTkFJMFM3Szh6ODdHWHYtYjZHbTF5TWpsY3pCSERKenE5Q0dGZzRGQktlbndZa0ZX?oc=5",
+     "date": "2026-11-04T01:23:00.000Z",
+     "text": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? The Motley Fool",
+     "via": "The Motley Fool"
     }
    ]
   },
