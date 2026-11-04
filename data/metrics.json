@@ -1065,13 +1065,13 @@
  "hf": [
   {
    "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-   "likes": 844,
+   "likes": 861,
    "downloads": 44939,
    "task": "automatic-speech-recognition"
   },
   {
    "id": "LiquidAI/LFM3-1.7B",
-   "likes": 1443,
+   "likes": 1445,
    "downloads": 54959,
    "task": "text-generation"
   },
@@ -1083,23 +1083,23 @@
   },
   {
    "id": "mistralai/Mistral-Large-4-1T-A52B",
-   "likes": 1565,
+   "likes": 1566,
    "downloads": 8200,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 547,
+   "likes": 550,
    "downloads": 14613,
    "task": "image-to-3d"
   },
   {
    "id": "Pika-Labs/Pika-H3-Flex",
-   "likes": 405,
+   "likes": 407,
    "downloads": 749,
    "task": "image-to-video"
   }
  ],
- "updated": "2026-11-04T10:47:39.053Z",
+ "updated": "2026-11-04T10:53:27.550Z",
  "updatedDay": "2026-11-04"
 }
