@@ -1065,13 +1065,13 @@
  "hf": [
   {
    "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-   "likes": 825,
+   "likes": 844,
    "downloads": 44939,
    "task": "automatic-speech-recognition"
   },
   {
    "id": "LiquidAI/LFM3-1.7B",
-   "likes": 1442,
+   "likes": 1443,
    "downloads": 54959,
    "task": "text-generation"
   },
@@ -1100,6 +1100,6 @@
    "task": "image-to-video"
   }
  ],
- "updated": "2026-11-04T10:42:00.060Z",
+ "updated": "2026-11-04T10:47:39.053Z",
  "updatedDay": "2026-11-04"
 }
