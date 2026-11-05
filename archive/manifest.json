@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-05",
+      "file": "2026-11-05.html",
+      "headline": "Claude zeigt Chefs, wie Mitarbeiter die KI nutzen",
+      "count": 18,
+      "sources": 7,
+      "cats": {
+        "Claude & Anthropic": 3,
+        "Modelle & Releases": 1,
+        "Regulierung & Politik": 3,
+        "Business & Funding": 4,
+        "Tools & Agenten": 2,
+        "Forschung & Deep Tech": 3,
+        "KI im Alltag & Beruf": 2
+      },
+      "firms": {
+        "Anthropic": 3,
+        "OpenAI": 3,
+        "Google": 2,
+        "Alibaba/Qwen": 1,
+        "Meta": 1,
+        "Nvidia": 1
+      }
+    },
+    {
       "date": "2026-11-04",
       "file": "2026-11-04.html",
       "headline": "Claude Code verweigert jetzt den Nachbau bekannter Spiele",

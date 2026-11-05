@@ -68,5 +68,95 @@
     "title": "KI-Agenten steuern ein Teleskop bei der Suche nach Außerirdischen",
     "source": "The Decoder",
     "first_seen": "2026-11-04"
+  },
+  "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html": {
+    "title": "Claude zeigt Chefs, wie Mitarbeiter die KI nutzen",
+    "source": "heise online",
+    "first_seen": "2026-11-05"
+  },
+  "https://openai.com/index/introducing-images-2-6": {
+    "title": "ChatGPT erstellt jetzt animierte GIFs",
+    "source": "OpenAI News",
+    "first_seen": "2026-11-05"
+  },
+  "https://the-decoder.de/wer-googles-ki-in-der-schule-abschaltet-verliert-ab-2027-auch-die-suche/": {
+    "title": "Google schaltet KI in Schulprodukten ab 2027 standardmäßig ab",
+    "source": "The Decoder",
+    "first_seen": "2026-11-05"
+  },
+  "https://www.heise.de/news/Wer-spricht-da-Anthropic-stellt-Identitaetsnachweis-fuer-KI-Modelle-vor-11511036.html": {
+    "title": "Anthropic will KI-Antworten überprüfbar machen",
+    "source": "heise online",
+    "first_seen": "2026-11-05"
+  },
+  "https://www.heise.de/news/Saudi-Aramco-uebernimmt-knapp-die-Haelfte-des-KI-Unternehmens-Humain-11512647.html": {
+    "title": "Saudi Aramco übernimmt knapp die Hälfte von Humain",
+    "source": "heise online",
+    "first_seen": "2026-11-05"
+  },
+  "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html": {
+    "title": "EU fördert Chipdesign-Plattform mit 525 Millionen Euro",
+    "source": "heise online",
+    "first_seen": "2026-11-05"
+  },
+  "https://openai.com/index/openai-to-acquire-pierre": {
+    "title": "OpenAI übernimmt Pierre Computer",
+    "source": "OpenAI News",
+    "first_seen": "2026-11-05"
+  },
+  "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/": {
+    "title": "Anthropics Text-Wasserzeichen lässt sich bei älteren Modellen umgehen",
+    "source": "The Decoder",
+    "first_seen": "2026-11-05"
+  },
+  "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/": {
+    "title": "GPT-6 Astra kann KI-Gewichte lesen und umschreiben",
+    "source": "The Decoder",
+    "first_seen": "2026-11-05"
+  },
+  "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/": {
+    "title": "Neuer Test: KI-Agenten scheitern oft bei Cloud-Wartung",
+    "source": "The Decoder",
+    "first_seen": "2026-11-05"
+  },
+  "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/": {
+    "title": "Fal verdoppelt Bewertung auf 16 Milliarden Dollar",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-05"
+  },
+  "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/": {
+    "title": "Meta kauft Coding-Start-up Conductor",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-05"
+  },
+  "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/": {
+    "title": "Uber: Nur vier Fahrten kamen von KI-Agenten",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-05"
+  },
+  "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/": {
+    "title": "Netflix testet KI-Tab für Empfehlungen nach Stimmung",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-05"
+  },
+  "https://www.theverge.com/policy/1026365/data-centers-midterms-results": {
+    "title": "Rechenzentren gehören zu den Verlierern der US-Zwischenwahlen",
+    "source": "The Verge AI",
+    "first_seen": "2026-11-05"
+  },
+  "https://t3n.de/news/tensordyne-chip-startup-nvidia-konkurrenz-1771073": {
+    "title": "Start-up Tensordyne will KI-Chips sparsamer machen",
+    "source": "t3n",
+    "first_seen": "2026-11-05"
+  },
+  "https://t3n.de/news/ki-schulden-tech-konzerne-1771696": {
+    "title": "Versteckte KI-Schulden der Tech-Konzerne wachsen auf 3,2 Billionen Dollar",
+    "source": "t3n",
+    "first_seen": "2026-11-05"
+  },
+  "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+    "title": "Google DeepMind zeigt KI-Agenten für die Wirkstoffsuche",
+    "source": "Google DeepMind",
+    "first_seen": "2026-11-05"
   }
 }

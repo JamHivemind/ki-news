@@ -1069,42 +1069,42 @@
  },
  "hf": [
   {
-   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-   "likes": 3026,
-   "downloads": 44939,
-   "task": "automatic-speech-recognition"
-  },
-  {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 666,
-   "downloads": 797,
+   "likes": 736,
+   "downloads": 11658,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 655,
-   "downloads": 14613,
+   "likes": 670,
+   "downloads": 17180,
    "task": "image-to-3d"
   },
   {
-   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "likes": 5307,
-   "downloads": 221621,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "mistralai/Mistral-Large-4-1T-A52B",
-   "likes": 1594,
-   "downloads": 8200,
+   "likes": 1600,
+   "downloads": 9592,
    "task": "image-text-to-text"
   },
   {
-   "id": "LiquidAI/LFM3-1.7B",
-   "likes": 1496,
-   "downloads": 54959,
-   "task": "text-generation"
+   "id": "Pika-Labs/Pika-H3-Flex",
+   "likes": 446,
+   "downloads": 863,
+   "task": "image-to-video"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "likes": 10658,
+   "downloads": 2561845,
+   "task": "image-to-video"
+  },
+  {
+   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "likes": 3038,
+   "downloads": 57297,
+   "task": "automatic-speech-recognition"
   }
  ],
- "updated": "2026-11-05T09:10:12.493Z",
+ "updated": "2026-11-05T12:03:51.973Z",
  "updatedDay": "2026-11-05"
 }
