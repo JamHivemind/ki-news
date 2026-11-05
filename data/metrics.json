@@ -4,14 +4,15 @@
    "cs.AI": 115,
    "cs.LG": 148,
    "cs.CL": 53
+  },
+  "2026-11-05": {
+   "cs.AI": 93,
+   "cs.LG": 110,
+   "cs.CL": 61
   }
  },
  "stocks": {
   "NVDA": [
-   [
-    "2026-08-04",
-    211.94
-   ],
    [
     "2026-08-05",
     219.22
@@ -267,13 +268,13 @@
    [
     "2026-11-03",
     206.69
+   ],
+   [
+    "2026-11-04",
+    200.13
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-04",
-    492.81
-   ],
    [
     "2026-08-05",
     487.46
@@ -529,13 +530,13 @@
    [
     "2026-11-03",
     520.99
+   ],
+   [
+    "2026-11-04",
+    555.8
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-04",
-    377.65
-   ],
    [
     "2026-08-05",
     362.43
@@ -791,13 +792,13 @@
    [
     "2026-11-03",
     280.03
+   ],
+   [
+    "2026-11-04",
+    288.93
    ]
   ],
   "META": [
-   [
-    "2026-08-04",
-    587.94
-   ],
    [
     "2026-08-05",
     588.77
@@ -1053,6 +1054,10 @@
    [
     "2026-11-03",
     621.03
+   ],
+   [
+    "2026-11-04",
+    630
    ]
   ]
  },
@@ -1065,41 +1070,41 @@
  "hf": [
   {
    "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-   "likes": 1130,
+   "likes": 3010,
    "downloads": 44939,
    "task": "automatic-speech-recognition"
   },
   {
-   "id": "LiquidAI/LFM3-1.7B",
-   "likes": 1451,
-   "downloads": 54959,
-   "task": "text-generation"
-  },
-  {
-   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "likes": 5223,
-   "downloads": 221621,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "mistralai/Mistral-Large-4-1T-A52B",
-   "likes": 1569,
-   "downloads": 8200,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "speridlabs/idol",
-   "likes": 557,
+   "likes": 640,
    "downloads": 14613,
    "task": "image-to-3d"
   },
   {
-   "id": "Pika-Labs/Pika-H3-Flex",
-   "likes": 410,
-   "downloads": 749,
-   "task": "image-to-video"
+   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "likes": 5294,
+   "downloads": 221621,
+   "task": "image-text-to-text"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "likes": 604,
+   "downloads": 797,
+   "task": "image-text-to-text"
+  },
+  {
+   "id": "LiquidAI/LFM3-1.7B",
+   "likes": 1495,
+   "downloads": 54959,
+   "task": "text-generation"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "likes": 1592,
+   "downloads": 8200,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-04T12:15:55.204Z",
- "updatedDay": "2026-11-04"
+ "updated": "2026-11-05T06:26:16.597Z",
+ "updatedDay": "2026-11-05"
 }

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-04T12:15:49.235Z",
+ "fetched": "2026-11-05T06:26:11.061Z",
  "hours": 48,
  "sources": [
   {
@@ -8,6 +8,27 @@
    "ok": true,
    "items": [
     {
+     "title": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
+     "date": "2026-11-05T00:57:00.000Z",
+     "text": "A top Anthropic product leader has been poached by OpenAI Business Insider",
+     "via": "Business Insider"
+    },
+    {
+     "title": "Should You Buy Anthropic's IPO on Day 1? - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNThSS3huTEZBQUtJQWtHaHJkQng1MlNYd3FfdmhNNVVER3BiSFdHSmhaakg0N0pObXJxYzRIMXlCMmFwR2ZPZ1JBNXg5VEtLZFFIbl9VUS1wWmZZMUQ2V0JSd3E2bFZYWS12RU5xOW5KT0R4TERzMmFpUDlHYk0wa3JRNzlOc28xazJJUFhXNHBSVms?oc=5",
+     "date": "2026-11-04T19:29:00.000Z",
+     "text": "Should You Buy Anthropic's IPO on Day 1? Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "Opinion: Anthropic’s stark warning makes the case for taking AI out of Silicon Valley’s hands - Crain's Chicago Business",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZm5yalE3Ylc4bTdXaDN6SnFRRUE2NzJPcVJOeUlwQzlxSlRpLXlneGZ5RzZEVlFCSnE2RURpUEd1dWJLZzVWVkhMeDIwSzFxcU0tQy1OVVBOVDJHQmVPWUFZQWtWU1BGcmVNSEZRZXNJOURla25aQkxDdVRCcDdZSVVYTmgtczVXYXpmd0VQX1NYeDU4UWtZVEQ5NUJoeFhGNEVZUHFWeDhlQWF6X0N6T0c1TDVmN2RwS01qTg?oc=5",
+     "date": "2026-11-05T02:46:36.000Z",
+     "text": "Opinion: Anthropic’s stark warning makes the case for taking AI out of Silicon Valley’s hands Crain's Chicago Business",
+     "via": "Crain's Chicago Business"
+    },
+    {
      "title": "Dario Amodei wants 'a country of geniuses in a data center.' Realizing that vision requires risky financial mechanics, Anthropic's IPO filing shows - Fortune",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFFMNDA5anVlblVzc3RXbklSOWFsZnpmQjdDU2lCY0lJMGJCYWQ5bTl0RmFRRU9uOUVKTjhVYjdWWGJLYXhLNzIzeGU0VndaanRKbzkxaTVZWkRfbHpSaDhMSnZvbjIyYU1MMl9XRXpobGNYRzBQTlRPRDYxWEo3QXluWTlOb2lNMURkSHN5LU9xVk9IamJORk5rd2hkU2puMFJIbG9JdmhMQUcwN29YSC1VWHN4bGZGQU5hUDJpZ1RNUGlaQlVNSkJ1ZlRzd3BRX3JvRll2TXRUdWVoR2owOXpLSWpzQ0VYcG1RSmRfemFjVU03aFBUdVdDSmQ2YVUzVTQtVkp3?oc=5",
      "date": "2026-11-04T11:22:00.000Z",
@@ -15,172 +36,144 @@
      "via": "Fortune"
     },
     {
-     "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup - Business Insider",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
-     "date": "2026-11-03T23:55:00.000Z",
-     "text": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup Business Insider",
-     "via": "Business Insider"
+     "title": "Music publishers suffer setback in copyright case against Anthropic - Courthouse News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTm41eXFubWtUby1QYU9PSGlhQjF6SnBoRWQtVTVTN2YzZGdaUjVway0yTi1FeEFCX1VlN1NxSFlUZ0dkbmpxR1ZjYTl4azZSY3ZUVkh5UkpselVyQWRta1JCaXNiMXpLbzh6aW9BR1kxLS11c3NkT284TGI0V2FuMXpUWElPUGJ0YmV2UXdjX3REbUlwWjc3M0I2M2puN2M?oc=5",
+     "date": "2026-11-04T22:56:45.000Z",
+     "text": "Music publishers suffer setback in copyright case against Anthropic Courthouse News",
+     "via": "Courthouse News"
     },
     {
-     "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI - ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
-     "date": "2026-11-04T06:49:37.000Z",
-     "text": "FTC opens probe into safety of AI, including Anthropic and OpenAI ABC News - Breaking News, Latest News and Videos",
-     "via": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "title": "Progress on provable inference for large language models - Anthropic",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
-     "date": "2026-11-03T04:43:45.000Z",
-     "text": "Progress on provable inference for large language models Anthropic",
-     "via": "Anthropic"
-    },
-    {
-     "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
-     "date": "2026-11-03T17:43:55.000Z",
-     "text": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance",
-     "via": "Yahoo Finance"
-    },
-    {
-     "title": "My Claude Code Workflow: Lessons From Rebuilding a Website in Two Days - HackerNoon",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY21zb0NvZUNfVXpkY0p1TG9HWTRnRm9QbXN0cUY4MDAtSXNOa0RmX2ZsY1hmbHVoNTFRU3ZqRzE3bXYxNHVRVTQtb09CMV9tWFpLS2NIUUpGVUVzNUNDX1NQZV9rNGstYzFlcV9YMUZPS25hZEdXWFFEYUVBUlQ3MDNjMk1TY3dCTW5Tblp5WnY1N1NUM29F?oc=5",
-     "date": "2026-11-04T08:05:06.000Z",
-     "text": "My Claude Code Workflow: Lessons From Rebuilding a Website in Two Days HackerNoon",
-     "via": "HackerNoon"
-    },
-    {
-     "title": "Claude's new smart reports tell bosses when workers are 'off-topic' - Mashable",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHNYSEJlZEQtclhFUk1CZjRKWkFhVk1SM1pmcEJkajl5LWgtSHVfaDNkWUtKazRRUUh2YjZ1UVB0M1owMEdOdnlLc0FOdmdDbWdQanZqUjdELS1lVHFHMktfcHVXbXRaZmUtcXdaTncyTlBrdU5MVEN3NURjR1c4Mg?oc=5",
-     "date": "2026-11-04T01:17:38.000Z",
-     "text": "Claude's new smart reports tell bosses when workers are 'off-topic' Mashable",
-     "via": "Mashable"
-    },
-    {
-     "title": "Why Seeking Anthropic Exposure Via a Fund or ETF Probably Isn’t Worth It - Morningstar",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTdPSDJSbXVPRmRnUWNxSkJrdVFMYzlvRDVTbXJ4SEpSbHZHVWwwU1JZSDFzYzk4M3VPb296V0x2TGcyRkdySGd5dGt6VlFoVHhmdTY0Qy1QNGhNSEJpaWpVaUJMUTN4UUxJSFlNQ3pYRHhaTU1FWm5QbHJ6ck9kWmJvZjd2MHhEWEFKSFZiVFhFWVREQjdhY0lzbWl4eWNVUlBhdjN3?oc=5",
-     "date": "2026-11-04T12:02:39.000Z",
-     "text": "Why Seeking Anthropic Exposure Via a Fund or ETF Probably Isn’t Worth It Morningstar",
-     "via": "Morningstar"
-    },
-    {
-     "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
-     "date": "2026-11-03T18:00:07.000Z",
-     "text": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections The New York Times",
-     "via": "The New York Times"
-    },
-    {
-     "title": "Cat Wu Steps Down as Claude Code Product Chief After Two Years - Unite.AI",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjc2VjlTUWh3WWFsVzkwWFVCVjRmNkNna1RESHVvVDBIeHhxbzNqYXRNTkEyWE9pZ1U3N3BwdHF6bUJnQVRvRmxneERyeXNPNFNyaTc3WXhfY21QeVhyOVY0cDdBZmx6dzRnSlRkUHl1dXRwWDlUelpLTFQ0VHpGSlYySmJyWnJNZDZrcA?oc=5",
-     "date": "2026-11-04T01:11:03.000Z",
-     "text": "Cat Wu Steps Down as Claude Code Product Chief After Two Years Unite.AI",
-     "via": "Unite.AI"
-    },
-    {
-     "title": "Anthropic is working on a system to prove AI models’ identity - TechCrunch",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
-     "date": "2026-11-03T22:41:03.000Z",
-     "text": "Anthropic is working on a system to prove AI models’ identity TechCrunch",
-     "via": "TechCrunch"
-    },
-    {
-     "title": "3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic - The Motley Fool",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWpuUllPUGZ0UE0yUDROYkNsRURYQlUyT3EwcWZZTlNTWXNmNjFDS2lfalNNWERrTTE3Zml5aXJ6cm1MU0gwZDdYdzRLY3hQSDZweHhuMmUwZE5Yc2ZnTzRmNWZFQWp4NDNjWnMwT3ZwV0lydGRZcVBvNmlLTHVaWE1UQ3F4REU3QWQwWC1adUh3Ul9LT2FOQjJhSkdIaEQ5U2lvTDJLRzVNNVhvVGJEa25wR0FUMlc1b216dnZXMHdiUQ?oc=5",
-     "date": "2026-11-04T09:00:00.000Z",
-     "text": "3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic The Motley Fool",
-     "via": "The Motley Fool"
-    },
-    {
-     "title": "Amodei Beats Musk for CIO Who Saw ‘Catastrophic’ SpaceX Risks - Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU215T2xNSktKZ3V1WGdvSjdjYWNqZkdJMU5lWk1ZbW9NM05BVWdPNzdrWEQ4N2o3aS0tSEhmUXlEdzR1eXBEcTF4dU5lR0MtNjBnZnoxN3F2eXpXdjgyX1JjTGoyNy1TZlhpcHgxZTBEYWxpaWt0VnozNW1YNGxHNURkb3hXX3JPamNkTGNfLVNEaDIzVzl5ekNMRm9yXzVDVlFHMlF3M0NXbmFBbFRJ?oc=5",
-     "date": "2026-11-04T07:00:00.000Z",
-     "text": "Amodei Beats Musk for CIO Who Saw ‘Catastrophic’ SpaceX Risks Bloomberg.com",
-     "via": "Bloomberg.com"
-    },
-    {
-     "title": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street - CNN",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY2gxUHV5VzhJcUoyWkFHdG9vZUdRT1VYZ0hfcjRJOU8xa3otZVpYbWNib1Q0WnJ2UUhhekFRNng1Z2tKWTB2aFBva2ZUN0Vzc3lRT0VuXzZ6LURoRDAxNUI4SzVYdVdXOVIw?oc=5",
-     "date": "2026-11-03T10:00:15.000Z",
-     "text": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street CNN",
-     "via": "CNN"
+     "title": "TeraWulf gets credit backstop from Google for Anthropic data-center project - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRnZlVlY01kVjVYczh3YzN1N3ZrLWlLRFVURERNQ0lFcDFURElfOVJ3OXpvR3RodUpvaWZWaGtQMDBaNUFYVUNDZFFicC1DclF1aWl0dERFYkJXMVhFZnAwWE1uV0t2VUhkQmhYajRlWjZjWHpiRUJJR1ZtakdPQjNRWXRBRzFOLTRZZktDSldPcjFNa0ZSQm5yUWdOWGNHTFVvVGduOUQ5SlB3NHhHV2gtSQ?oc=5",
+     "date": "2026-11-04T14:11:15.000Z",
+     "text": "TeraWulf gets credit backstop from Google for Anthropic data-center project Reuters",
+     "via": "Reuters"
     },
     {
      "title": "Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-     "date": "2026-11-04T01:10:12.000Z",
+     "date": "2026-11-04T11:43:32.000Z",
      "text": "Anthropic says its AI models hacked 3 organizations on their own during tests ABC News - Breaking News, Latest News and Videos",
      "via": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-     "title": "Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says - Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGRldDd0Z05xZVFSNHMweWV3eXBubzRXRHB1dTNhSjVEUVJVS1UzQ1E1eklnZ1ZsY0poNlp1U291SmIyWGJHWjhqTzFkazd2cTJfeE1hYXRfLWlyYWZUNUE4V3gzMkszWHBab3Y1dUJPZ0x6NkE3YVBiRkNmN2twcE1NMDdsRGY1LXhxcHdTaWY5MGQ5U1FoZWtqYlZ0Smc?oc=5",
-     "date": "2026-11-03T15:35:47.000Z",
-     "text": "Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says Yahoo Finance",
-     "via": "Yahoo Finance"
+     "title": "SpaceX Stock Can Get a Lift From the Anthropic IPO, but SPCX Remains Unappealing - Barchart.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmZ3VnNuMUZ5VVB3R1FGaU8zQVF5dmhPWW5rT0EwM3Z3UlF6VFg5Q2MyeW9xMWVudDFVQ2xHWjRxLTl4WFRoN2hHLXpyUjE0bkdrdVA5VXRBbjVvM0N1eW9LQ1kyY3FjNnl6UU15THJ5QUI2TWFzM1QtVmRRd0hsY3ppYlRzNTRWWkFfWV9JMk8ybzVmS1BxS1YtM0NadHV2S2pBNWNkeVFzSWlFSmJqWXZxYUsxTmlIN2t3bTVpaF8?oc=5",
+     "date": "2026-11-04T19:12:11.000Z",
+     "text": "SpaceX Stock Can Get a Lift From the Anthropic IPO, but SPCX Remains Unappealing Barchart.com",
+     "via": "Barchart.com"
     },
     {
-     "title": "Anthropic’s IPO to Cast Long Shadow Over Private AI Stocks - Morningstar",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZm5QbUZJSUpVUWdmUE1ZTFdnZ1Q1bzJRWEJMMjZNVDdmVmJVQ01tblZ5Mnc5WW5qTmJDYzRacEZKYlE3V3c1Vm51cjIzZVpENlVnQzZuc3FESzJENG1KdFhibm04UEk0VUdUVmk0YkZNTUtJNXp4amstMmhHMVFoU2Y0QzJUSW9JLXRUNm1HdHlDb29aMllUVWJCLUdWZ0J1R1pWUjhn?oc=5",
-     "date": "2026-11-04T11:12:12.000Z",
-     "text": "Anthropic’s IPO to Cast Long Shadow Over Private AI Stocks Morningstar",
+     "title": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage - ADWEEK",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWDRDT0pHemRFaFNQWnlJaUR2NU9VdjV1bmllSGMxR0NFWFJLMU9fUm1hU28yUzBZdURGOVFUQ1RscGptV3lDdmJGT1JySWtrUWVUNmdsRHQwdi0wWEhyLUFPZDFiOEZDV2hKaGNad3hxTTNw?oc=5",
+     "date": "2026-11-05T00:00:00.000Z",
+     "text": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage ADWEEK",
+     "via": "ADWEEK"
+    },
+    {
+     "title": "What to Know Ahead of Anthropic’s IPO (NASDAQ: ANT) - NerdWallet",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFNBR2Q0SFRtdTdYRW90WUJnX0dDSGhEVHhlSTdRSjBVX3JzQ1ltbEtFb3VuakNSY0dLSlJrei1iS3dPTm1ZWGk2M0hKTHJvdC1PbmhPZFE3dDZNcE1CU252cG0tWUtNdXkyc05OazVkbXFxM01LSldyc1B3MjJlQ0hDSi1MNTQ?oc=5",
+     "date": "2026-11-04T08:00:00.000Z",
+     "text": "What to Know Ahead of Anthropic’s IPO (NASDAQ: ANT) NerdWallet",
+     "via": "NerdWallet"
+    },
+    {
+     "title": "Anthropic: After the IPO, Who Controls the Company? - Morningstar",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbENXckpXTkMtc0F6RkZmamgwbzJsNzZKcURvX3E0TlBrbkhlUTgzVFh6LWV5MUZhdzExWHJzUWZFOEJ1OUM4ZUtZZTdMNHEzeVpQdGpkcEJJaWVWbWYwSHctTnc5NkRGakQzdXN4Q3dvTmdISVdBWXJLRVdabGd3cw?oc=5",
+     "date": "2026-11-04T21:32:42.000Z",
+     "text": "Anthropic: After the IPO, Who Controls the Company? Morningstar",
      "via": "Morningstar"
     },
     {
-     "title": "Anthropic’s third-quarter results mean IPO math and history are not on its side, analysts say - Fortune",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXZGRmN4Mm9UUjBzdnVOMHEwVlJTNkpVZE1Odi1keFhfQm15VmdEUTBiRkdoV1l3SnpmWER6elZiYjZ2UTN2WTFoeEZOVTI0dXhwbnN5eEs2Q05IcUFyY054ME5qel93dkpQV1haWGJDbWx1dFhNQUxBYlozenB3UUVkNDYxRG5qT0JiMFNQQUN0Z1lwQm1yczlqWjlmLW9VTFNhRk9SS1VlNG9mZERQV21tVWo5Q1BueUlrcW5lZDk?oc=5",
-     "date": "2026-11-03T11:04:00.000Z",
-     "text": "Anthropic’s third-quarter results mean IPO math and history are not on its side, analysts say Fortune",
-     "via": "Fortune"
+     "title": "I let Claude Code debloat my 4-year-old Windows laptop, and it found 30 GB of junk I never needed - XDA",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNk96OVhPQXZTX3lXWlhsb3pTaHZzSFo4TGpOZ09BblRfRk91YVpTOE9TQ21LSjZLVmlWSW5jSWxSeXlXYk1vSVFWX3J0TVhRRmVOZWRjU2VSa2w0cG9KdGtxY3JBRGRtY092WElJVkdWVWcwNU5GWTNwRV9KVXA5X195OHAwdzJGS0RxWVNXaHIyYlJUWHpfcW90RWhlS1l6Vkc2cGJNZ3Jna0ZkSmZ2dmxobVk3VGZBNmFkYThtOTUzRlZSMFNF?oc=5",
+     "date": "2026-11-05T00:01:00.000Z",
+     "text": "I let Claude Code debloat my 4-year-old Windows laptop, and it found 30 GB of junk I never needed XDA",
+     "via": "XDA"
     },
     {
-     "title": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns - Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3pqQUdkS1dvLXh4N2w5Yl81dEZ3MFNLWjJSWHktYjRjR1FBRHBBOWZYenprdHRxM0JlcmZRTFVnTVZKbXlFWnVXVER1RGJYRkFzWFRzV1lPMDh4SE1WbTMyT01QZzY0a2FfVW9vNnllc015UVRCWF9DTTZtOC1mbC1DTk9JWW9QUzlmYnVPSE1DSW9wNGdxN01aalRmLXNwakZF?oc=5",
-     "date": "2026-11-04T10:45:06.000Z",
-     "text": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns Yahoo Finance",
+     "title": "Anthropic pays for news for the first time, licensing AP election data for Claude - Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW1RamJwT0lPeGNuNHNTNFRmMjdhZjJqS0JzV3pTU08waEMyM21XS3NsRVR0MjU3YUhVbUdreDlqSGZtdVhvSXZQRVRTdnV3NkY5Wmc3NWZyY3VCR0VoQU9MaXV3UW9qc1JVZDdvekJwWXY2Tk91WnVnTDVCYXBBYmhBVTA0TlE1eHl5ZF9IVWNLNHcyVFpQaE9sRXdESWEwaVU5RkFacE9UTGlHTkdWb2ZXU2k?oc=5",
+     "date": "2026-11-05T05:17:05.000Z",
+     "text": "Anthropic pays for news for the first time, licensing AP election data for Claude Dealroom",
+     "via": "Dealroom"
+    },
+    {
+     "title": "Latest Fundraising Efforts Show OpenAI & Anthropic on Divergent Paths - Newcomer | Substack",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kYTllN19OWlNXeVRtYUpaUW9HZ01HWXl1NUt2V3oyeGJTZm9McGZTMWE0VWcya0FkRGFCR2tBZWlqRWxQUWtUb0k3QXFOWW5xUmR0RklWenJid1FsbkVfWUdnOU1jMTZVSWRMM0QtMjBIUQ?oc=5",
+     "date": "2026-11-04T21:15:13.000Z",
+     "text": "Latest Fundraising Efforts Show OpenAI & Anthropic on Divergent Paths Newcomer | Substack",
+     "via": "Newcomer | Substack"
+    },
+    {
+     "title": "Are We Ready For A World Without Managers? Anthropic’s Vision Of The Future - Forbes",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXRuRGhtcHJWS1YySjZMc3U2YzlVZTZZZE1OMFFlbWFkSlQ2N0plT0VQMXJyczlHbGJkQVBYZE92Mk5SdTFMSlJSWk16ZVIzcjJqUDZIcnd3ZElncVhkQVpEbVd2d1dvQXIyUU54cmJyM3QzVFM0d1E0UmdwOW45RV9rQnlGMXhTUEcxaTlpSjJvU1ZKTHhCY01mSmJjT0Z1UHliRWZtOS1hNk5aM1RtcXNmNHBkRFVkMWEzRS1xVkZ3TzdqbTNB?oc=5",
+     "date": "2026-11-04T23:09:59.000Z",
+     "text": "Are We Ready For A World Without Managers? Anthropic’s Vision Of The Future Forbes",
+     "via": "Forbes"
+    },
+    {
+     "title": "Anthropic Develops Tools to Confirm AI Models’ Identities - PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHhWLVF6WmpYalZHbnpFM1NMU1FDbUI1M084cGNIS3M1WHg1RkI5TjN4WmVMZEVFS1NJSXZQR19EcTRVTU5idDNRM3RXYlJYMDZGWE1rNzZ2Z3dNYUNrc0Z3Rl9lSVFJaUdjaGNVOEVqZU04UGJ0SXU4bDNQaWFXekwtX2U0dENsTmVMUHFRQjJ5T2loc3YtREZNRHBWR3ZTdWtRS0lXZGw0cjFYTXFSZ0xqMXI?oc=5",
+     "date": "2026-11-04T20:34:50.000Z",
+     "text": "Anthropic Develops Tools to Confirm AI Models’ Identities PYMNTS.com",
+     "via": "PYMNTS.com"
+    },
+    {
+     "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
+     "date": "2026-11-04T15:54:28.000Z",
+     "text": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance",
      "via": "Yahoo Finance"
     },
     {
-     "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? - Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFJZSVJJRjBSQnRQM0haUi1zWF9GOGwtcnlSdHM0MFgxOU5BWm5jT3BmMTR5aXFNNlg5R0drejhFa0lqc2tuVGNTOFVXalZkbGkwcWpsODhINHByT0hXc3lhbTJGVVB0MFpKd1E4cnZSWk9NekhOTzBNc2tfZWdQTHpjZjl2LTE0VVFSbUJhQm9BV01ac3ZjUktzaXFJWHR2ZXc?oc=5",
-     "date": "2026-11-04T01:43:00.000Z",
-     "text": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? Yahoo Finance",
+     "title": "'Safety Risk:' Anthropic Warns AI Could Soon Start Improving Itself at ‘Dramatically Accelerated’ Pace — '2026...Last Normal Year,' Says Expert - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0tOLVBvNVk0cWVneF92eVU0NlFVcE5kdDdSNjBiZ20tYndJSWVvX20zenVfQ3RQSTJWdVF1ZF9MYVhGYTg3SXozelhza1JuT0NoZUxQQmRqVHNrRG5DM1JtOHJSUUZyQ2l4TmRvRHMzQW9wU0RIaFRRODFqcW9fRHFyWFVxakhVd2NGdk5IUF9Vc2w0T05DRHJn?oc=5",
+     "date": "2026-11-05T03:30:00.000Z",
+     "text": "'Safety Risk:' Anthropic Warns AI Could Soon Start Improving Itself at ‘Dramatically Accelerated’ Pace — '2026...Last Normal Year,' Says Expert Yahoo Finance",
      "via": "Yahoo Finance"
     },
     {
-     "title": "Anthropic is an opportunity to rethink IPO rules - Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5cDVEUkRxQnRYNVFuXzFUUmhUZDVxazZBYVRmN0hnX3YxTm1LWHo5TE53Z1NXRG5nTXhldlhQa2ZKdVFOM0JfODV2clN1WndfODZtNjYyYVlkTlNwU3FtREdlVWRBTlc3eWg4RGl4d08?oc=5",
-     "date": "2026-11-04T11:38:48.000Z",
-     "text": "Anthropic is an opportunity to rethink IPO rules Financial Times",
-     "via": "Financial Times"
+     "title": "Amazon Owns a $6.2 Billion Piece of Anthropic's AI Boom — Here's What's at Stake - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzk5Qmg3c1FldFFTX2t1a0ZEYzl0SGN0QjVTOFJJTE9tR0VzUmVieDZSRWo4eEFoSVRKNDR5VFBuZ0tSbzlweXlyRmQwaXNuV1RXVl9fRENtTW5mYmdmeUhGalp6WEFMYm9yYkRMTEhQRjVBdkx2cEpEUVlRWFhqR0tJLUsyaHRiZ3RBM05DRk8?oc=5",
+     "date": "2026-11-05T01:30:00.000Z",
+     "text": "Amazon Owns a $6.2 Billion Piece of Anthropic's AI Boom — Here's What's at Stake Yahoo Finance",
+     "via": "Yahoo Finance"
     },
     {
-     "title": "RBA Faces an Uncertain Path After Hiking Rates to 18-Year High - Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDJIOXp0SFBTeENPY21BSVI3YzdjbjlibnI2ZnhURmF4QzNPTDZUaHZrTWhTZC1LTW5KcGpFak5KMGN5eFlFTDhqcEE0VXFoY0ZHZS10WTA1Q3hnZmU2UmtOSjNwdUxVSGhoQXkxZjJGSEhtd3EtSmlTRW04S0w4OHlWLUJaUm9LR0JhUE4wU2pCMkpuTUkxMVlXeFZ2T2F6cnNPdURnWDFzdTVzRFpaNUpJakZaNmpPRFV3?oc=5",
-     "date": "2026-11-04T09:39:40.000Z",
-     "text": "RBA Faces an Uncertain Path After Hiking Rates to 18-Year High Bloomberg.com",
-     "via": "Bloomberg.com"
+     "title": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right. - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVliTmhzdU9Uanp1SVN0SnBrczgwekJjb2lJRFQyYkx1aFZaZWxScHNUMWpvNWdrTEFRQ1BWdi1LejBoTjBoZnlhLVFwS2RlR2pHWFlTNk9LT2ZvYUJFa3NJczNhSFYxOEdBM0xLLW9jNEpuYmhqMEhVRDNPNmpNbklzVExTM3hxLTV1NjdYVDNVWnNtb3F3?oc=5",
+     "date": "2026-11-04T15:30:00.000Z",
+     "text": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right. Yahoo Finance",
+     "via": "Yahoo Finance"
     },
     {
-     "title": "How Much Should Anthropic Pop? - Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcU9ORloxdFByUnNyZTRrNFZpS3R6ZTBKUkZQd3dTY21lb29wYUloX0hnUG53bGpzUVFOVlB3TGhBZlpIZ3J4MGpVSDd2X21rd2pVcWF0UGx2WFQ0QldpZzV1Q3FwUVYwXzRoRV9NeUNCOThpSV9NZl9Nem9NVVlBUWdNN3BWVTNSdnVkQW9Lbw?oc=5",
-     "date": "2026-11-03T19:31:31.000Z",
-     "text": "How Much Should Anthropic Pop? Bloomberg.com",
-     "via": "Bloomberg.com"
+     "title": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch - The New Stack",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zSW5kdFVUNkRvRU1obnVOOHRKNjY1Q053UHlWMmJ2M0hUdXhzWkJIem5yTTlIZy1XYkNDTXJ3Yk9KRUdDRTUzc3JXcnl6YmVMVXk3S2MxcEI4ZDhFamZCUVZDcEZWODFXcjhVX3FMWkM?oc=5",
+     "date": "2026-11-04T22:51:08.000Z",
+     "text": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch The New Stack",
+     "via": "The New Stack"
     },
     {
-     "title": "How to deploy a website from Claude Code in 8 steps - Hostinger",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbk12VURuY0N4Vy1lMmtieDJ4MUJQeUMxbk9VbUlNd1dmZ2xhZ3dRczRkNjFZRW5aOGtQc0xVclQ1UFpzVHVMUjJ3dzFfM01WSkQ3Y00wek1JQk11TkNtQ1NhN0NzQ19hd2g1UTdRTHJHRHFQVUNVM3J0eHVNUlZ4RTZ1Y3ZGRUE?oc=5",
-     "date": "2026-11-04T08:49:27.000Z",
-     "text": "How to deploy a website from Claude Code in 8 steps Hostinger",
-     "via": "Hostinger"
+     "title": "Should You Buy Anthropic's IPO on Day 1? - The Motley Fool",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU3ZhSlRXNmUzTmpkTllkSUVic1VQdHRxb2FvVnZCYWE1N2J0SkZ1TXlFSkpPaDBGbEtiX1hUOF9rbHVFZzMzT3BuS1ZFZXhSM0lhOXNlQU9HN2xWMXNldTB0bjRyMHNMd2FCUzlUWmVzaTE3VmF5UEU5czJCaS14bC03QXoxaUhh?oc=5",
+     "date": "2026-11-04T19:09:00.000Z",
+     "text": "Should You Buy Anthropic's IPO on Day 1? The Motley Fool",
+     "via": "The Motley Fool"
     },
     {
-     "title": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models - Help Net Security",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0FjaG5qNXFTVzRua2cxd3JybWU3ckM0Z05yaFVhbGh3bElwZjhYeWZSVk5XdTV0U2hpS29VQUxJU1Rfb1hIQ3Z6UjBCSVdLLVl5WUU2MnY4ZkZIdmFKNndLcXJzVDNORHNXYm4xLUcxTnN2VWJtbEFDcVFqd3lvbWxweXQxRVg3Yl9N?oc=5",
-     "date": "2026-11-04T04:36:14.000Z",
-     "text": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models Help Net Security",
-     "via": "Help Net Security"
+     "title": "Cat Wu, Former Head Of Product For Claude Code At Anthropic, Joins OpenAI To Lead Product Management For Core Products - X Post - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYjQ1dWpBVzVnOGo3NEMyc0I3Y0hlcS0wamVISmZFZkQ5WXdkWEhBYVVmdlp4endVOEI1aHo4MlkyOWZacW9zUW9SZGM0d19KWnNYbmxtZWNKNFFJUm1XX2hud2VtcmhsOTBOZGoxRnZEdGZnQV9QY3ZyRWdESW5tM1Y3eHNHYWU4V2NFLVZUSVA4V1Ytai1idE51dDVMeW03NkthbU1sMlB0WTVtOERzNzNQZ3p3dEdKWFJfbEJ3bDYyQWRyLVFzN3NlWjFkN3BvZVR4MzJwTHFxdUQzU0huVUtUMFh3UkFnQTZlanFOWXZvWV9kRFhhdTRfUm5DNmZuWXZITGczaldaRF95Y0xHbzZFNVFfZnRWVDFuNl93?oc=5",
+     "date": "2026-11-05T01:13:00.000Z",
+     "text": "Cat Wu, Former Head Of Product For Claude Code At Anthropic, Joins OpenAI To Lead Product Management For Core Products - X Post TradingView",
+     "via": "TradingView"
+    },
+    {
+     "title": "Anthropic’s Amended Prospectus Form S-1/A: 3rd Quarter Results & More Questions - Cassandra Unchained | Michael Burry",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NbWRTeFNJMTBBajhhSkVobkdNeUxNZy00UlNacjV2RV8tdmNsTjdMeGxQcWJlSW5sNTE1UUdBWFFrZGtQcVRNNEpiLXZvQmRRa2xOYzd6SEdkVDVReVNwTktUY3NDWm9RZHJUYjhPLVdrYXN0S3dRbE1DTQ?oc=5",
+     "date": "2026-11-04T20:50:33.000Z",
+     "text": "Anthropic’s Amended Prospectus Form S-1/A: 3rd Quarter Results & More Questions Cassandra Unchained | Michael Burry",
+     "via": "Cassandra Unchained | Michael Burry"
     },
     {
      "title": "The IPO Market Is Open For Anthropic. Not For Everyone Else. - WSJ",
@@ -190,32 +183,39 @@
      "via": "WSJ"
     },
     {
-     "title": "New York Angels' Peck Says Anthropic IPO Could Lift Tech After AI Selloffs - Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQnp2V0hDX2tWSkkybWY0OEdTRGx3d1RLSUVwX0RLOGlDQXdmUVpaZUVGQ0sxM0tQTlNfTlRLUkd2d0pTMlYydHlycjVWdFMxaWtWa213QmFFRGxGcGl2TGxmRjl5aDh6MlFIcVhPRjNPOFRwTk5MNlgtTG1sRXVzY3cycGF2WWxZTnN0M1JPdktabTlCMHlFLXJBOA?oc=5",
-     "date": "2026-11-04T01:28:00.000Z",
-     "text": "New York Angels' Peck Says Anthropic IPO Could Lift Tech After AI Selloffs Yahoo Finance",
-     "via": "Yahoo Finance"
+     "title": "Anthropic maps world’s first 3D bacterial vault with 96 copies of one protein - Interesting Engineering",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRU5LUFZjbDlhZlVZRF9ESUZaWWhxbnlaUXJSOW5CdnItNWpOQS14MkctYXlDZ3FITjFia2YwRlctZmtMbHpOb3piRUtKRkhqclJJUmdRRjFEZjVDaTJQU2E1bWhEckhJdWtxUldZcndNT1dEYl94Y0FhODE1T0VVWXRiUnN2Ym9HUTRGal9R?oc=5",
+     "date": "2026-11-04T23:25:00.000Z",
+     "text": "Anthropic maps world’s first 3D bacterial vault with 96 copies of one protein Interesting Engineering",
+     "via": "Interesting Engineering"
     },
     {
-     "title": "Anthropic swings to loss as massive compute bill looms over IPO - Euronews.com",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzgzUTdESU9ZQzhxRGJKalU0SFdZUUh3QTQ4Rnd1ZW42R3prZC1pUVB5YVVXR1h1Nkk0eXR6bG1faWl5Q1RCWk42X29ia3psZnlfZXE0VENtMEgxeDJJTWdEaHh4N29HTF9mVlJHemwtTjBGaGZRMzJ5MlRNQzcyXzdPeEFrV1V5VWFpMEQ4WmZEQThhSnp0bTQ0X1hMZ0lPdUxsX1J5c3p1ZFVhSC1oQWVOenEwZ3ZPQlE?oc=5",
-     "date": "2026-11-03T13:24:19.000Z",
-     "text": "Anthropic swings to loss as massive compute bill looms over IPO Euronews.com",
-     "via": "Euronews.com"
+     "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup - Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
+     "date": "2026-11-03T23:55:00.000Z",
+     "text": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup Business Insider",
+     "via": "Business Insider"
     },
     {
-     "title": "Anthropic plans Australian share offer in IPO, CommSec says - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemZuN3Ria3VJdnlTMFphelNDSWFHeUpvM2dVa3JHNkdUQlZuWjRvZEdWS0c5c3BVQktYc2dkYWJERnVRblgwNUZOcjFpNTBIWTgxREtFazR0emkybTFIeVpaTmVnLTZ0YUZZUUtPX1Q1bEtRSzNnVy1rMDNPdUNzQVg2QTQ3MnJCeDgyLWdudi16ZVRqVGlIWHZXR3FDTF9CZkFKa25ESXVVVFJP?oc=5",
-     "date": "2026-11-03T01:01:00.000Z",
-     "text": "Anthropic plans Australian share offer in IPO, CommSec says Reuters",
-     "via": "Reuters"
+     "title": "Anthropic is racing to obtain the AI boom’s most vital resource - San Juan Daily Star",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkJIZFpxaERvRm8wSWhlcjdyZE5ZRzVxVkRjUUN1ZXFyWFB2SUNIbnR5T1cwYTJLV3dwS053VTZkOWtFSXdOOFNweTZCLUZnU2pqNUFtbmVfa1dzUnJFYlJhbDdZSlhvU3lYQ1d5SEpKS2o1MFNwRXM2NzJ5NnBjRk1SMnpkTlVkT05ER1NZd2xYZDJFRmMwVEZ6QWlOMVB2YV9V?oc=5",
+     "date": "2026-11-05T05:37:19.000Z",
+     "text": "Anthropic is racing to obtain the AI boom’s most vital resource San Juan Daily Star",
+     "via": "San Juan Daily Star"
     },
     {
-     "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? - The Motley Fool",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY3ZXVFE4MElyUkJnUy1BejRYZkxlVFJyQ0ZyTE5wUFQ0TTZCT25iN1ZFZTZxSFpLN3dGNTBfLWVLMWp4X0M3M2VZQUd1REhzQkw2MXhCVVFqVldUcUtnRE1MM0RDV1MxWTdIc1A1R05mWGxPZEdOWDF6dlYtTWxUdnhjbF9yUHJKTjZLMklvZXFUMFBCNnpXMGxidEFzcFFNTkFJMFM3Szh6ODdHWHYtYjZHbTF5TWpsY3pCSERKenE5Q0dGZzRGQktlbndZa0ZX?oc=5",
-     "date": "2026-11-04T01:23:00.000Z",
-     "text": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion? The Motley Fool",
-     "via": "The Motley Fool"
+     "title": "Anthropic's text watermark is easy to bypass on several older Claude models - The Decoder",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON21xVHlTUEVsSW5hLTUyWkg4dmlDVmVBX3lQaXJTSVhYZUR5anhxVDBHbkpZUnV1SWFydi04S1pUSUQzMk9OSnJIQnJqalZiZ3M5Z3JLX2JROUVZUEsxZTNiZkNyRzgzRFFLZTg1ay1tY0RESk4xWmFVSU82Mk1iVFRvSzFXWUxiVkJJQnJhR3FGYVpaZ0RESVk0MTFNNEdU?oc=5",
+     "date": "2026-11-04T19:07:53.000Z",
+     "text": "Anthropic's text watermark is easy to bypass on several older Claude models The Decoder",
+     "via": "The Decoder"
+    },
+    {
+     "title": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street - CNN",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY2gxUHV5VzhJcUoyWkFHdG9vZUdRT1VYZ0hfcjRJOU8xa3otZVpYbWNib1Q0WnJ2UUhhekFRNng1Z2tKWTB2aFBva2ZUN0Vzc3lRT0VuXzZ6LURoRDAxNUI4SzVYdVdXOVIw?oc=5",
+     "date": "2026-11-03T10:00:15.000Z",
+     "text": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street CNN",
+     "via": "CNN"
     }
    ]
   },
@@ -223,6 +223,36 @@
    "name": "OpenAI News",
    "ok": true,
    "items": [
+    {
+     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+     "url": "https://openai.com/index/openai-to-acquire-pierre",
+     "date": "2026-11-04T14:30:00.000Z",
+     "text": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+    },
+    {
+     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+     "date": "2026-11-04T07:00:00.000Z",
+     "text": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+     "title": "A thousand fewer paths to root",
+     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+     "date": "2026-11-04T08:00:00.000Z",
+     "text": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
+     "title": "Introducing Images 2.6",
+     "url": "https://openai.com/index/introducing-images-2-6",
+     "date": "2026-11-04T00:00:00.000Z",
+     "text": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+    },
+    {
+     "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+     "url": "https://openai.com/index/devrev-enterprise-self-service",
+     "date": "2026-11-04T00:00:00.000Z",
+     "text": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+    },
     {
      "title": "Accelerating engineering for the physical world",
      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
@@ -240,50 +270,13 @@
      "url": "https://openai.com/index/heimstaden",
      "date": "2026-11-03T08:00:00.000Z",
      "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-     "date": "2026-11-03T00:00:00.000Z",
-     "text": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
-    },
-    {
-     "title": "Scaling Git at OpenAI",
-     "url": "https://openai.com/index/scaling-git-at-openai",
-     "date": "2026-11-02T15:30:00.000Z",
-     "text": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
-    },
-    {
-     "title": "Introducing the Grid Protectors Program",
-     "url": "https://openai.com/index/grid-protectors-program",
-     "date": "2026-11-02T15:00:00.000Z",
-     "text": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-    },
-    {
-     "title": "Preparing our next security sprint to harden OpenAI",
-     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-     "date": "2026-11-02T18:00:00.000Z",
-     "text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
-    },
-    {
-     "title": "Rewarding defenders with bigger bug bounties",
-     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-     "date": "2026-11-02T18:00:00.000Z",
-     "text": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
     }
    ]
   },
   {
    "name": "Google AI Blog",
    "ok": true,
-   "items": [
-    {
-     "title": "The latest AI news we announced in October 2026",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-     "date": "2026-11-02T17:45:00.000Z",
-     "text": "Here are Google’s latest AI updates from October 2026"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Google DeepMind",
@@ -303,6 +296,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+     "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+     "date": "2026-11-04T17:50:10.000Z",
+     "text": ""
+    },
+    {
      "title": "StateBench: Testing how language models track state changes over long documents",
      "url": "https://huggingface.co/blog/allenai/statebench",
      "date": "2026-11-03T17:15:21.000Z",
@@ -313,18 +312,6 @@
      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
      "date": "2026-11-03T16:35:36.000Z",
      "text": ""
-    },
-    {
-     "title": "CWE-bench v2: More coverage, quality, and transparency",
-     "url": "https://huggingface.co/blog/cwe-bench",
-     "date": "2026-11-03T00:00:00.000Z",
-     "text": ""
-    },
-    {
-     "title": "Transformers Model Integration Contracts",
-     "url": "https://huggingface.co/blog/transformers-mic",
-     "date": "2026-11-03T00:00:00.000Z",
-     "text": ""
     }
    ]
   },
@@ -333,6 +320,84 @@
    "focus": "Finanzierungen, Übernahmen, Produktstarts",
    "ok": true,
    "items": [
+    {
+     "title": "Apple is reportedly cutting budgets for its internal AI usage",
+     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+     "date": "2026-11-05T01:26:22.000Z",
+     "text": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+    },
+    {
+     "title": "After the midterms, a bigger clash over data centers could be coming",
+     "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+     "date": "2026-11-05T01:02:14.000Z",
+     "text": "Data center opposition crossed party lines in Tuesday’s midterms."
+    },
+    {
+     "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+     "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+     "date": "2026-11-04T22:45:09.000Z",
+     "text": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+    },
+    {
+     "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+     "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+     "date": "2026-11-04T22:13:16.000Z",
+     "text": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+    },
+    {
+     "title": "Almost no one uses AI agents to book their Uber, company says",
+     "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+     "date": "2026-11-04T21:56:01.000Z",
+     "text": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+    },
+    {
+     "title": "OpenAI is already trying to shape the 2028 election",
+     "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+     "date": "2026-11-04T21:25:44.000Z",
+     "text": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+    },
+    {
+     "title": "Meta acquires AI coding startup Conductor",
+     "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+     "date": "2026-11-04T21:10:56.000Z",
+     "text": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+    },
+    {
+     "title": "Open source AI is booming. Hugging Face explains who profits.",
+     "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+     "date": "2026-11-04T19:30:04.000Z",
+     "text": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]"
+    },
+    {
+     "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+     "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+     "date": "2026-11-04T19:29:52.000Z",
+     "text": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+    },
+    {
+     "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+     "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+     "date": "2026-11-04T18:44:57.000Z",
+     "text": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]"
+    },
+    {
+     "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+     "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+     "date": "2026-11-04T16:51:35.000Z",
+     "text": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+    },
+    {
+     "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+     "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+     "date": "2026-11-04T16:17:22.000Z",
+     "text": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+    },
+    {
+     "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+     "date": "2026-11-04T13:00:00.000Z",
+     "text": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+    },
     {
      "title": "Anthropic is working on a system to prove AI models’ identity",
      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -374,84 +439,6 @@
      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
      "date": "2026-11-03T17:07:01.000Z",
      "text": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
-    },
-    {
-     "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-     "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-     "date": "2026-11-03T16:30:34.000Z",
-     "text": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-    },
-    {
-     "title": "Apple restricts dating apps and AI companions to users 18 and up",
-     "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-     "date": "2026-11-03T15:38:27.000Z",
-     "text": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-    },
-    {
-     "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-     "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-     "date": "2026-11-03T14:30:00.000Z",
-     "text": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
-    },
-    {
-     "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-     "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-     "date": "2026-11-03T14:00:00.000Z",
-     "text": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
-    },
-    {
-     "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-     "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-     "date": "2026-11-03T07:20:00.000Z",
-     "text": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-    },
-    {
-     "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-     "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-     "date": "2026-11-03T03:30:00.000Z",
-     "text": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
-    },
-    {
-     "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-     "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-     "date": "2026-11-03T01:49:52.000Z",
-     "text": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
-    },
-    {
-     "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-     "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-     "date": "2026-11-03T00:35:52.000Z",
-     "text": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
-    },
-    {
-     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-     "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-     "date": "2026-11-02T23:13:53.000Z",
-     "text": "The one-year-old startup is now valued at $300 million."
-    },
-    {
-     "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-     "date": "2026-11-02T22:14:50.000Z",
-     "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
-    },
-    {
-     "title": "Web host Squarespace lays off 19% of its employees",
-     "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-     "date": "2026-11-02T19:25:59.000Z",
-     "text": "The website builder said that the job losses are part of a broader restructuring of its organization."
-    },
-    {
-     "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-     "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-     "date": "2026-11-02T19:19:17.000Z",
-     "text": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
-    },
-    {
-     "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-     "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-     "date": "2026-11-02T16:30:00.000Z",
-     "text": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
     }
    ]
   },
@@ -461,64 +448,64 @@
    "ok": true,
    "items": [
     {
+     "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+     "date": "2026-11-04T22:42:15.000Z",
+     "text": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]"
+    },
+    {
+     "title": "17 better ways Elon Musk could have wasted $446 million",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+     "date": "2026-11-04T21:45:00.000Z",
+     "text": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]"
+    },
+    {
+     "title": "Gemini for Home now plugs into AT&T’s smart security system",
+     "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+     "date": "2026-11-04T20:23:24.000Z",
+     "text": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]"
+    },
+    {
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+     "date": "2026-11-04T18:26:07.000Z",
+     "text": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]"
+    },
+    {
+     "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+     "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+     "date": "2026-11-04T18:00:00.000Z",
+     "text": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and […]"
+    },
+    {
+     "title": "ChatGPT will now make you animated GIFs",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+     "date": "2026-11-04T18:00:00.000Z",
+     "text": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]"
+    },
+    {
+     "title": "Data centers lost the midterms",
+     "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+     "date": "2026-11-04T16:05:39.000Z",
+     "text": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]"
+    },
+    {
+     "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+     "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+     "date": "2026-11-04T15:58:45.000Z",
+     "text": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]"
+    },
+    {
+     "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+     "date": "2026-11-04T14:46:01.000Z",
+     "text": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it […]"
+    },
+    {
      "title": "Google hasn’t figured out how to make AI pay like its search engine",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
      "date": "2026-11-04T12:00:00.000Z",
      "text": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]"
-    },
-    {
-     "title": "The biggest modding site in PC gaming is taking a stance on AI",
-     "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-     "date": "2026-11-04T00:42:10.000Z",
-     "text": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]"
-    },
-    {
-     "title": "Please stop asking me when the AI bubble will pop",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-     "date": "2026-11-03T23:37:45.000Z",
-     "text": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]"
-    },
-    {
-     "title": "Those Jeff Bezos hair transplant photos are very fake",
-     "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-     "date": "2026-11-03T21:01:07.000Z",
-     "text": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]"
-    },
-    {
-     "title": "Apple starts giving Siri AI access to third-party apps",
-     "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-     "date": "2026-11-03T20:16:17.000Z",
-     "text": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […]"
-    },
-    {
-     "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-     "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-     "date": "2026-11-03T18:31:00.000Z",
-     "text": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]"
-    },
-    {
-     "title": "OpenAI says ChatGPT is catching up to Google in search",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-     "date": "2026-11-03T18:30:42.000Z",
-     "text": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]"
-    },
-    {
-     "title": "Indie games are missing launch dates because Steam is backed up",
-     "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-     "date": "2026-11-03T18:14:50.000Z",
-     "text": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]"
-    },
-    {
-     "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-     "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-     "date": "2026-11-03T18:00:00.000Z",
-     "text": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show […]"
-    },
-    {
-     "title": "Google is entirely disabling Search in schools that don’t want AI",
-     "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-     "date": "2026-11-03T17:00:04.000Z",
-     "text": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]"
     }
    ]
   },
@@ -528,28 +515,22 @@
    "ok": true,
    "items": [
     {
+     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+     "date": "2026-11-04T18:50:55.000Z",
+     "text": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
+    },
+    {
+     "title": "Securing the agentic enterprise with data lineage",
+     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+     "date": "2026-11-04T13:00:00.000Z",
+     "text": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…"
+    },
+    {
      "title": "How “reverse game theory” could keep AI agents in check",
      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
      "date": "2026-11-03T10:43:41.000Z",
      "text": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…"
-    },
-    {
-     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-     "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-     "date": "2026-11-03T04:18:47.000Z",
-     "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…"
-    },
-    {
-     "title": "Raising the quality of insights in agentic analytics",
-     "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-     "date": "2026-11-02T17:00:00.000Z",
-     "text": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…"
-    },
-    {
-     "title": "Stop counting tokens, start counting what ships",
-     "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-     "date": "2026-11-02T13:10:32.000Z",
-     "text": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…"
     }
    ]
   },
@@ -559,7 +540,79 @@
    "ok": true,
    "items": [
     {
-     "title": "Nach Gefriertruhen-Attacken: Jetzt Blutbank-Kühlung im Visier",
+     "title": "#heiseshow: Kühlschrank-Cyberangriffe, Internetsteuer, digitaler Führerschein",
+     "url": "https://www.heise.de/news/heiseshow-Kuehlschrank-Cyberangriffe-Internetsteuer-digitaler-Fuehrerschein-11512629.html",
+     "date": "2026-11-05T05:19:00.000Z",
+     "text": "In der #heiseshow: Hacker knacken Supermarkt-Kühlschränke, Frankreich diskutiert eine Gigabyte-Steuer und der digitale Führerschein startet."
+    },
+    {
+     "title": "OpenAI wird mit Übernahme von Pierre Computer zum GitHub-Konkurrenten",
+     "url": "https://www.heise.de/news/OpenAI-wird-mit-Uebernahme-von-Pierre-Computer-zum-GitHub-Konkurrenten-11512804.html",
+     "date": "2026-11-05T04:05:00.000Z",
+     "text": "Entwicklerwerkzeuge von Pierre sollen in Codex integriert werden. Damit baut OpenAI eine Infrastruktur für KI-Coding auf - Konkurrenz zu GitHub und Microsoft?"
+    },
+    {
+     "title": "Chipfertigung: EU investiert Hunderte Millionen in Chipdesign-Plattform",
+     "url": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html",
+     "date": "2026-11-04T20:13:00.000Z",
+     "text": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden."
+    },
+    {
+     "title": "Hier nicht sparen: Der beste Bürostuhl im Test",
+     "url": "https://www.heise.de/bestenlisten/testsieger/viele-stunden-am-schreibtisch-hier-nicht-sparen-der-beste-buerostuhl-im-test/6le25ss",
+     "date": "2026-11-04T19:00:00.000Z",
+     "text": "Ein guter ergonomischer Bürostuhl entlastet den Rücken über lange Arbeitstage. Wir zeigen die besten Modelle aus 33 Tests."
+    },
+    {
+     "title": "Saudi Aramco übernimmt knapp die Hälfte des KI-Unternehmens Humain",
+     "url": "https://www.heise.de/news/Saudi-Aramco-uebernimmt-knapp-die-Haelfte-des-KI-Unternehmens-Humain-11512647.html",
+     "date": "2026-11-04T17:32:00.000Z",
+     "text": "Mit einer Milliardeninvestition in Humain will Saudi Aramco das saudische KI-Geschäft stärken und vom wachsenden Energiebedarf der Rechenzentren profitieren."
+    },
+    {
+     "title": "Bürostuhl Welax S9 Pro für 400 Euro im Test: luftig, wuchtig, gut verstellbar",
+     "url": "https://www.heise.de/bestenlisten/testbericht/buerostuhl-welax-s9-pro-fuer-400-euro-im-test-luftig-wuchtig-gut-verstellbar/t09447n",
+     "date": "2026-11-04T16:14:00.000Z",
+     "text": "Der ergonomische Bürostuhl Welax S9 Pro regelt Sitzhöhe, Sitztiefe und Neigung über einen einzigen Hebel und bringt Mesh, Alu-Fußkreuz und Fußstütze mit."
+    },
+    {
+     "title": "Huawei Watch 6 42 mm im Test: Smartwatch mit EKG läuft über drei Tage",
+     "url": "https://www.heise.de/bestenlisten/testbericht/huawei-watch-6-42-mm-im-test-smartwatch-mit-ekg-laeuft-ueber-drei-tage/r0jlpx8",
+     "date": "2026-11-04T15:00:00.000Z",
+     "text": "Kompakt, leicht und günstiger als die Watch 6 Pro: Die Huawei Watch 6 in 42 mm misst EKG und Blutsauerstoff per Fingerspitze und funkt per LTE."
+    },
+    {
+     "title": "Doku mit Mindesthaltbarkeitsdatum: Wiki.js markiert jetzt veraltete Seiten",
+     "url": "https://www.heise.de/news/Wiki-js-3-0-Gemeinsam-tippen-wie-in-Google-Docs-11511348.html",
+     "date": "2026-11-04T13:52:00.000Z",
+     "text": "Wiki.js 3.0 ist da: Die Wiki-Software wurde komplett neu geschrieben und bietet Echtzeit-Kollaboration, Multi-Site-Verwaltung und mehr."
+    },
+    {
+     "title": "Smart Energy 201: Fritz bringt neue smarte Steckdose mit Verbrauchsmessung",
+     "url": "https://www.heise.de/news/Smart-Energy-201-Fritz-bringt-neue-smarte-Steckdose-mit-Verbrauchsmessung-11511564.html",
+     "date": "2026-11-04T13:23:00.000Z",
+     "text": "Fritz bringt mit der FritzSmart Energy 201 eine neue Schaltsteckdose mit Verbrauchsmessung in den Handel. Sie ist kleiner als die bisherigen Fritz-Lösungen."
+    },
+    {
+     "title": "heise-Angebot: iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
+     "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11492934.html",
+     "date": "2026-11-04T13:00:00.000Z",
+     "text": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken."
+    },
+    {
+     "title": "KI-Boom in den USA: Auch alte Flugzeugtriebwerke sollen jetzt Strom liefern",
+     "url": "https://www.heise.de/news/KI-Boom-in-den-USA-Auch-alte-Flugzeugtriebwerke-sollen-jetzt-Strom-liefern-11511486.html",
+     "date": "2026-11-04T12:57:00.000Z",
+     "text": "In den USA werden mit enormer Geschwindigkeit KI-Rechenzentren aus dem Boden gestampft. Bei der Stromversorgung werden die Verantwortlichen immer kreativer."
+    },
+    {
+     "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+     "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html",
+     "date": "2026-11-04T12:24:00.000Z",
+     "text": "Die neue Claude-Funktion soll Unternehmen helfen, ihre KI-Kosten zu kontrollieren. Gleichzeitig ermöglicht sie, die Leistung ihrer Mitarbeiter zu bewerten."
+    },
+    {
+     "title": "Kühlgeräteangriffe: Bis aufs Blut verwundbar",
      "url": "https://www.heise.de/news/Nach-Gefriertruhen-Attacken-Jetzt-Blutbank-Kuehlung-im-Visier-11511444.html",
      "date": "2026-11-04T12:05:00.000Z",
      "text": "In Frankreich haben Angreifer versucht, die Kühlsteuerung eines Lagers für Blutprodukte zu manipulieren."
@@ -665,78 +718,6 @@
      "url": "https://www.heise.de/news/Linux-Distribution-Fedora-45-KDE-Plasma-6-8-Gnome-51-und-Kmscon-11505699.html",
      "date": "2026-11-03T20:00:00.000Z",
      "text": "Ein Security-Vorfall verzögerte das Release, sodass KDE Plasma 6.8 noch drin landet. Außerdem kommt Fedora 45 mit Gnome 51 und einer aufpolierten Textkonsole."
-    },
-    {
-     "title": "Google legt Botnetz lahm, beschuldigt Hersteller von Android-Set-Top-Boxen",
-     "url": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html",
-     "date": "2026-11-03T16:40:00.000Z",
-     "text": "Ein Botnetz aus über einer Million infizierter Android-Geräte stammte offenbar vom Gerätehersteller selbst. Geräte waren ab Werk mit Malware verseucht."
-    },
-    {
-     "title": "FreeRDP bringt Remote-Desktops in den Browser",
-     "url": "https://www.heise.de/news/FreeRDP-bringt-Remote-Desktops-in-den-Browser-11510187.html",
-     "date": "2026-11-03T16:34:00.000Z",
-     "text": "FreeRDP 3.33.0 unterstützt WebAssembly für den Browser, experimentelle UDP-Verbindungen und verbessert RemoteApp unter SDL."
-    },
-    {
-     "title": "Bye-bye Microsoft: Nextcloud und Ionos starten Bildungsplattform für Schulen",
-     "url": "https://www.heise.de/news/Nextcloud-und-Ionos-Open-Source-Bildungsplattform-fuer-sechs-Bundeslaender-11510231.html",
-     "date": "2026-11-03T16:26:00.000Z",
-     "text": "Microsoft und Google sollen im Schulalltag künftig weniger selbstverständlich sein: Sechs Bundesländer setzen auf eine Open-Source-Plattform."
-    },
-    {
-     "title": "Dieser Bürostuhl massiert, heizt und kühlt per Akku: Hbada X7 im Praxistest",
-     "url": "https://www.heise.de/bestenlisten/testbericht/dieser-buerostuhl-massiert-heizt-und-kuehlt-per-akku-hbada-x7-im-praxistest/s66rpm0",
-     "date": "2026-11-03T14:18:00.000Z",
-     "text": "Der Hbada X7 ist ein ergonomischer Bürostuhl mit Akku, der massiert, heizt, kühlt und seine Lendenstütze selbst nachführt. Wir haben ihn getestet."
-    },
-    {
-     "title": "3D-Druck: Bambu Lab stellt neues Topmodell H3C offiziell vor",
-     "url": "https://www.heise.de/news/3D-Druck-Bambu-Lab-stellt-neues-Topmodell-H3C-offiziell-vor-11509032.html",
-     "date": "2026-11-03T14:03:00.000Z",
-     "text": "Bambu Labs neues Topmodell H3C kommt nicht nur mit gleich neun Werkzeugköpfen, sondern verarbeitet neben gewöhnlichem 1,75-mm- auch 2,85-mm-Filament."
-    },
-    {
-     "title": "Trotz Rekordwachstum: Deutsche Rechenzentren global abgehängt",
-     "url": "https://www.heise.de/news/KI-treibt-Rechenzentren-doch-Deutschland-hinkt-global-hinterher-11509550.html",
-     "date": "2026-11-03T13:26:00.000Z",
-     "text": "KI und Cloud lassen Investitionen in deutsche Rechenzentren 2026 auf Rekordwert steigen. Doch der globale Rückstand wächst."
-    },
-    {
-     "title": "heise-Angebot: iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
-     "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11492922.html",
-     "date": "2026-11-03T13:00:00.000Z",
-     "text": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen."
-    },
-    {
-     "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
-     "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
-     "date": "2026-11-03T12:57:00.000Z",
-     "text": "Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern."
-    },
-    {
-     "title": "Lüfterlose Mini-PC-Barebones mit Intel Core 300 und Thunderbolt 4",
-     "url": "https://www.heise.de/news/Luefterlose-Mini-PC-Barebones-mit-Intel-Core-300-und-Thunderbolt-4-11509687.html",
-     "date": "2026-11-03T12:46:00.000Z",
-     "text": "Zotacs Mini-PC-Barebones mit Core 7 350, Core 5 320 oder Core 3 304 rücken näher. Sie sollen geräuschlos arbeiten und bieten flotte Schnittstellen."
-    },
-    {
-     "title": "Ukrainische Angriffe: Russische Firmen dürfen ausländische Rechenzentren nutzen",
-     "url": "https://www.heise.de/news/Ukrainische-Angriffe-Russische-Firmen-duerfen-auslaendische-Rechenzentren-nutzen-11509124.html",
-     "date": "2026-11-03T12:13:00.000Z",
-     "text": "Mit den Angriffen auf Rechenzentren von Yandex & Co. hat die Ukraine einen wunden Punkt getroffen. Jetzt hat Russlands Präsident Wladimir Putin reagiert."
-    },
-    {
-     "title": "Apple-Heimzentrale: Versteckt sich im HomeView eine HomeKit-Secure-Video-Kamera?",
-     "url": "https://www.heise.de/news/HomeView-Apples-Heimzentrale-koennte-Ueberwachungskamera-werden-11508134.html",
-     "date": "2026-11-03T11:55:00.000Z",
-     "text": "Code in der HomeView Software 27.2 legt nahe, dass Apple eine weitere Funktion für seine Heimzentrale plant, die mit Sicherheit zu tun hat."
-    },
-    {
-     "title": "IoT: Siemens Simatic-IoT2050-Gateways angegriffen",
-     "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
-     "date": "2026-11-03T11:09:00.000Z",
-     "text": "Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen."
     }
    ]
   },
@@ -746,64 +727,64 @@
    "ok": true,
    "items": [
     {
-     "title": "Account-Sharing bei ChatGPT, Claude und Gemini: Diese 6 Risiken drohen dir",
-     "url": "https://t3n.de/news/account-sharing-chatgpt-claude-gemini-6-risiken-1758597",
-     "date": "2026-11-04T11:55:00.000Z",
-     "text": "Teilst du deinen Account für ChatGPT, Claude oder Gemini mit anderen Nutzer:innen? Das spart zwar Geld, kann dir aber ziemlich große Probleme mit den anderen User:innen einbringen. Warum das Account-Sharing bei KI-Tools keine gute Idee ist."
+     "title": "AI Discover: Netflix testet KI-Funktion für persönliche Streaming-Empfehlungen",
+     "url": "https://t3n.de/news/netflix-ki-funktion-empfehlungen-1771705",
+     "date": "2026-11-04T21:18:43.000Z",
+     "text": "Streaminganbieter Netflix testet mit AI Discover eine KI-gestützte Funktion für gezielte Empfehlungen. Die soll Nutzer:innen zur aktuellen Stimmung oder Situation passende Filme oder Serien vorschlagen und aus den Angaben lernen."
     },
     {
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500",
-     "date": "2026-11-04T10:08:55.000Z",
-     "text": "Die neue Claude-Funktion Smart Reports soll Unternehmen dabei helfen, ihre KI-Kosten in den Griff zu bekommen. Gleichzeitig ermöglicht sie Vorgesetzten aber auch, die Leistung ihrer Mitarbeiter:innen zu bewerten."
+     "title": "3,2 Billionen Dollar: Versteckte KI-Schulden der großen Tech-Konzerne in 6 Monaten fast verdoppelt",
+     "url": "https://t3n.de/news/ki-schulden-tech-konzerne-1771696",
+     "date": "2026-11-04T19:49:09.000Z",
+     "text": "Die massiven Investitionen in die KI-Infrastruktur bei zugleich weit dahinter zurückbleibenden Einnahmen haben die finanzielle Schieflage der großen Tech-Konzerne verschärft. Die versteckten KI-Schulden haben sich seit März 2026 fast verdoppelt."
     },
     {
-     "title": "Geht es auch ohne Lightroom? Diese quelloffenen Alternativen gibt es – und das können sie",
-     "url": "https://t3n.de/news/geht-es-auch-ohne-lightroom-diese-quelloffenen-alternativen-gibt-es-und-das-koennen-sie-1771363",
-     "date": "2026-11-04T06:30:04.000Z",
-     "text": "Der Traum der kostenlosen, KI-generierten Lightroom-Alternative entpuppt sich bei genauerer Betrachtung leider doch als Luftschloss. Aber es gibt durchaus einig"
+     "title": "Artcraft: Dieser Entwickler baut eine KI-Alternative zu Adobe Photoshop",
+     "url": "https://t3n.de/news/adobe-photoshop-alternative-artcraft-ki-1767514",
+     "date": "2026-11-04T18:05:00.000Z",
+     "text": "Hohe Kosten, unpraktische Cloud-Anbindung: Viele Kreative wünschen sich schon lange, dass die Creative Cloud von Adobe mehr Konkurrenz bekommt. Artcraft könnte genau das bieten, ist aktuell aber noch in der Entwicklung."
     },
     {
-     "title": "Elektrisch und mit Foil: Wie diese neuen Fähren Tragflächenboote zurückbringen",
-     "url": "https://t3n.de/news/elektrisch-foil-faehren-tragflaechenboote-1770132",
-     "date": "2026-11-04T05:30:00.000Z",
-     "text": "Tschüss, Dieselfähren? Tragflächenboote erleben eine Renaissance: E-Antrieb, KI-Steuerung und Leichtbauweise versprechen maximalen Komfort bei minimalen Emissio"
+     "title": "KI-Bots gegen Telefon-Scam: So werden Betrüger stundenlang beschäftigt",
+     "url": "https://t3n.de/news/i-bots-gegen-telefon-scam-betrueger-stoppen-1767723",
+     "date": "2026-11-04T17:20:00.000Z",
+     "text": "Wie kämpft man am besten gegen die steigende Anzahl von KI-Betrugsfällen an? Laut einigen Sicherheitsexpert:innen lautet die Antwort ebenfalls KI. Sie setzen Bots ein, um Betrüger:innen in Schach zu halten. Wie das funktioniert."
     },
     {
-     "title": "News-Artikel: KI-Chatbots können laut EuGH Urheberrechte von Verlagen verletzen",
-     "url": "https://t3n.de/news/ki-chatbots-eugh-urheberrechte-1771465",
-     "date": "2026-11-03T21:08:36.000Z",
-     "text": "EuGH-Generalanwalt Maciej Szpunar ist zu dem Schluss gekommen, dass KI-Chatbots „unter bestimmten Umständen“ die Rechte von Presseverlagen verletzen können. Ein Urteil ist das noch nicht, oft folgt das Gericht aber solchen Gutachten."
+     "title": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und beobachten sie 30 Stunden",
+     "url": "https://t3n.de/news/mit-experiment-ki-agenten-insel-lernen-1769624",
+     "date": "2026-11-04T16:55:00.000Z",
+     "text": "Im Experiment wurden die KI-Agenten 30 Stunden sich selbst überlassen. Um sich die Zeit zu vertreiben, fingen sie an, sich Spiele auszudenken. Laut der Forschungsgruppe gibt das auch einen Einblick in ihr Lernverhalten."
     },
     {
-     "title": "KI im Gefängnis: Michigan will gefährliche Häftlinge erkennen, bevor etwas passiert",
-     "url": "https://t3n.de/news/ki-gefaengnis-michigan-gewaltrisiko-vorhersagen-1771224",
-     "date": "2026-11-03T14:55:00.000Z",
-     "text": "Die Justizvollzugsbehörde des US-Bundesstaates Michigan will ein KI-System einsetzen, um das potenzielle künftige Gewaltrisiko von Häftlingen besser vorhersagen zu können. Die Behörde erhofft sich eine 30 Prozent genauere Risikoeinschätzung."
+     "title": "Milliardenraub bei Binance: Wie ein falsches Bewerbungsgespräch Angreifern die Tür öffnete",
+     "url": "https://t3n.de/news/milliardenraub-bei-binance-wie-ein-falsches-bewerbungsgespraech-angreifern-die-tuer-oeffnete-1771588",
+     "date": "2026-11-04T16:00:01.000Z",
+     "text": "Beim Diebstahl von 6,3 Milliarden US-Dollar bei der Kryptobörse Binance gingen die Angreifer monatelang planvoll vor. Ein gefälschtes Jobinterview war der entscheidende Schritt."
     },
     {
-     "title": "Digitalgipfel 2026: Was lange währt, wird nicht KI-Nation",
-     "url": "https://t3n.de/news/digitalgipfel-2026-was-lange-waehrt-wird-nicht-marktfuehrer-1771341",
-     "date": "2026-11-03T13:34:07.000Z",
-     "text": "Wieder ein Digitalgipfel, wiederholt große Ziele und Versprechen für ein souveränes Deutschland. KI-Weltspitze möchte man werden. Was es eher braucht, sind realisierbare Ziele, mehr Tempo und Verbindlichkeit."
+     "title": "„Gefundenes Fressen für Hacker“: So sicherst du deine Vibe-Coding-Projekte",
+     "url": "https://t3n.de/news/vibe-coding-sicherheit-hacker-schutz-1770792",
+     "date": "2026-11-04T15:55:00.000Z",
+     "text": "Ben Sufiani kann nicht programmieren. Trotzdem baut er Apps, Websites und einen eigenen KI-Agenten. Im Interview erklärt er, wie er mit Code umgeht, den er nicht selbst prüfen kann. Und er sagt, warum Vibe-Coder ein leichtes Ziel für Hacker sind."
     },
     {
-     "title": "Anthropic IPO: Warum der größte Börsengang aller Zeiten ins Wanken gerät",
-     "url": "https://t3n.de/news/anthropic-ipo-boersengang-wanken-risiken-1771236",
-     "date": "2026-11-03T10:55:00.000Z",
-     "text": "Im Vorfeld des möglicherweise größten Börsengangs aller Zeiten meldet Anthropic ein Umsatzplus von gut 1.100 Prozent. Doch Milliardenverluste und Verpflichtungen für KI-Infrastruktur von fast 900 Milliarden US-Dollar könnten Investor:innen abschrecken."
+     "title": "Konto gesperrt wegen KI-Hardware? Warum Händler bei Bestellungen jetzt genauer hinsehen",
+     "url": "https://t3n.de/news/konto-gesperrt-wegen-ki-hardware-warum-haendler-bei-bestellungen-jetzt-genauer-hinsehen-1771543",
+     "date": "2026-11-04T15:30:20.000Z",
+     "text": "Nick Saraev wollte sieben Nvidia-Spark-PCs kaufen. Stattdessen sperrte Amazon sein Konto. Mit dieser Erfahrung ist er nicht allein. Auch andere berichten von Problem mit ihren Lieferungen. Was steckt dahinter?"
     },
     {
-     "title": "KI-Update sorgt für Frust: Claude verweigert das Nachbauen von Games",
-     "url": "https://t3n.de/news/anthropic-claude-ki-update-game-nachbau-blockade-1771064",
-     "date": "2026-11-03T09:55:00.000Z",
-     "text": "Anthropic will verhindern, dass sich sein KI-Modell Claude weiter zum Nachbau von existierenden Games heranziehen lässt. Eine entsprechende Änderung im Systemprompt sorgt aber offenbar auch bei legitimen Projekten für Probleme."
+     "title": "Weltuntergang am 13. November 2026? Was die Doomsday-Formel mit KI zu tun hat",
+     "url": "https://t3n.de/news/weltuntergang-am-13-november-2026-was-die-doomsday-formel-mit-ki-zu-tun-hat-1771528",
+     "date": "2026-11-04T14:00:50.000Z",
+     "text": "Weltuntergang am 13. November 2026? Eine 1960 in Science veröffentlichte Formel, die für 2026 eine katastrophale Überbevölkerung vorhersagte, hat sich nicht bes"
     },
     {
-     "title": "Zu teuer für alle? Goldman Sachs beschränkt den Zugang zu KI-Tools",
-     "url": "https://t3n.de/news/zu-teuer-fuer-alle-goldman-sachs-beschraenkt-den-zugang-zu-ki-tools-1771271",
-     "date": "2026-11-03T09:37:16.000Z",
-     "text": "Goldman Sachs zieht bei KI-Tools die Zügel an: Claude Code und GitHub bleiben künftig Entwicklern vorbehalten. Was das über den KI-Boom an der Wall Street verrät."
+     "title": "Wie 1.000 Bankangestellte ohne Ausweis: So blind setzen Unternehmen KI-Agenten ein",
+     "url": "https://t3n.de/news/bankangestellte-ausweis-unternehmen-ki-agenten-1771104",
+     "date": "2026-11-04T12:55:00.000Z",
+     "text": "Die EU und US-Behörden fordern Echtzeit-Überwachung bei den Aktivitäten von KI‑Agenten. Allerdings liefern die gängigen Frameworks die dafür nötigen Daten nicht"
     }
    ]
   },
@@ -811,6 +792,42 @@
    "name": "The Decoder",
    "ok": true,
    "items": [
+    {
+     "title": "ChatGPT kann jetzt animierte GIFs erstellen - OpenAI rollt neue Bildfunktion aus",
+     "url": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/",
+     "date": "2026-11-04T19:30:20.000Z",
+     "text": "OpenAI spendiert ChatGPT eine GIF-Funktion: Mit dem neuen Images-2.6-Modell lassen sich animierte GIFs per Textprompt oder Foto erstellen und anschließend in Geschwindigkeit und Einzelframes anpassen. Nutzer generieren inzwischen laut OpenAI mehr als vier Milliarden Bilder pro Woche. Der Artikel ChatGPT kann jetzt animierte GIFs erstellen - OpenAI rollt neue Bildfunktion aus erschien zuerst auf The Decoder ."
+    },
+    {
+     "title": "Anthropic-API-Nutzer können Wasserzeichen bei älteren Claude-Modellen leicht umgehen",
+     "url": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/",
+     "date": "2026-11-04T18:56:55.000Z",
+     "text": "Anthropic weitet sein Text-Wasserzeichen auf vier weitere Claude-Modelle aus, getrieben von der Dezember-Deadline des EU-AI-Acts. Bei älteren Modellen vor der 4.7-Serie genügt allerdings eine kleine Änderung der Sampling-Parameter, um die Markierung zu umgehen. Der Artikel Anthropic-API-Nutzer können Wasserzeichen bei älteren Claude-Modellen leicht umgehen erschien zuerst auf The Decoder ."
+    },
+    {
+     "title": "OpenAI übernimmt Entwickler-Tool-Firma Pierre für bessere KI-Coding-Werkzeuge",
+     "url": "https://the-decoder.de/openai-uebernimmt-entwickler-tool-firma-pierre-fuer-bessere-ki-coding-werkzeuge/",
+     "date": "2026-11-04T18:41:03.000Z",
+     "text": "OpenAI übernimmt das Entwickler-Toolunternehmen Pierre Computer Company, dessen Bibliotheken \"Trees\" und \"Diffs\" bereits im Coding-Agenten Codex zum Einsatz kommen. Zusammen mit dem kürzlich vorgestellten Git-Backend Pando baut OpenAI damit seine Infrastruktur für die Zusammenarbeit zwischen Entwicklern und KI-Agenten systematisch aus. Der Artikel OpenAI übernimmt Entwickler-Tool-Firma Pierre für bessere KI-Coding-Werkzeuge erschien zuerst auf The Decoder ."
+    },
+    {
+     "title": "CloudOpsBench testet KI-Modelle bei DevOps und selbst die besten lösen nur 60 Prozent",
+     "url": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/",
+     "date": "2026-11-04T16:15:52.000Z",
+     "text": "CloudOpsBench ist ein neuer Open-Source-Benchmark, der misst, wie gut KI-Agenten typische DevOps-Aufgaben in der Cloud bewältigen: Dienste reparieren, Ressourcen entfernen, Zugriffsrechte einschränken, Updates ausrollen oder Projekte stilllegen. Der Artikel CloudOpsBench testet KI-Modelle bei DevOps und selbst die besten lösen nur 60 Prozent erschien zuerst auf The Decoder ."
+    },
+    {
+     "title": "GPT-6 Astra sieht die Matrix: Für das Sprachmodell sind KI-Gewichte lesbarer Code",
+     "url": "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/",
+     "date": "2026-11-04T15:07:44.000Z",
+     "text": "MIT-Forscher zeigen, dass OpenAIs GPT-6 Astra die Gewichte anderer KI-Modelle lesen und gezielt umschreiben kann – ohne klassisches Training. In einem Experiment steigerte Astra die Mathematik-Trefferquote eines Qwen-Modells von 7,9 auf 48,1 Prozent, indem es nur 0,016 Prozent der Gewichte veränderte. Der Ansatz könnte KI-Optimierung grundlegend vereinfachen, stößt aber noch an klare Grenzen. Der Artikel GPT-6 Astra sieht die Matrix: Für das Sprachmodell sind KI-Gewichte lesbarer Code erschien z"
+    },
+    {
+     "title": "Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet",
+     "url": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/",
+     "date": "2026-11-04T12:28:49.000Z",
+     "text": "Anthropic stellt mit FlashProve einen Forschungsprototyp vor, der kryptografisch nachweisen soll, ob eine KI-Antwort tatsächlich vom behaupteten Modell stammt. Das System hat noch deutliche Einschränkungen. Der Artikel Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet erschien zuerst auf The Decoder ."
+    },
     {
      "title": "Exit-Polls zeigen: KI spielt bei US-Midterms 2026 eine untergeordnete Rolle für Wähler",
      "url": "https://the-decoder.de/exit-polls-zeigen-ki-spielt-bei-us-midterms-2026-eine-untergeordnete-rolle-fuer-waehler/",
@@ -834,42 +851,6 @@
      "url": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
      "date": "2026-11-03T18:19:43.000Z",
      "text": "Stanford-Forscher haben 50 vielzitierte Behauptungen über LLMs an 20 aktuellen Modellen nachgeprüft: 44 Prozent der Befunde sind inzwischen \"abgelaufen\", weitere 34 Prozent deutlich abgeschwächt. Die durchschnittliche Haltbarkeit liegt bei knapp 16 Monaten. Aussagen über Modellschwächen verfallen am schnellsten. Der Artikel Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet erschien zuerst auf The Decoder ."
-    },
-    {
-     "title": "KI-Agenten steuern jetzt ein Teleskop für die Suche nach außerirdischer Intelligenz",
-     "url": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
-     "date": "2026-11-03T16:35:06.000Z",
-     "text": "Das SETI Institute und Breakthrough Listen lassen am Allen Telescope Array nun KI-Agenten das Teleskop steuern und die eingehenden Radiosignale auswerten. Aufgaben, die bisher Wochen dauerten, sollen so in Stunden erledigt werden – erstmals erkannte das System einen Pulsar im Krebsnebel in Echtzeit. Der Artikel KI-Agenten steuern jetzt ein Teleskop für die Suche nach außerirdischer Intelligenz erschien zuerst auf The Decoder ."
-    },
-    {
-     "title": "OpenAI holt früheren US-Heeresminister für Militär- und Geheimdienstgeschäft",
-     "url": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
-     "date": "2026-11-03T14:52:28.000Z",
-     "text": "OpenAI holt mit Dan Driscoll den früheren zivilen Chef der US Army als \"Senior Counselor for National Security Modernization\" an Bord, wohl auch um Regierungsaufträge zu gewinnen und KI-Regeln für Militär und Geheimdienste mitzugestalten. Der Vertraute von Vizepräsident JD Vance, der KI-Projekte der Army vorantrieb, verschafft OpenAI Zugang über Parteigrenzen hinweg. Der Artikel OpenAI holt früheren US-Heeresminister für Militär- und Geheimdienstgeschäft erschien zuerst auf The Decoder ."
-    },
-    {
-     "title": "Anthropic beschleunigt langlaufende KI-Agenten mit neuen \"Message Threads\"",
-     "url": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
-     "date": "2026-11-03T12:20:49.000Z",
-     "text": "Anthropic führt Message Threads für die Messages-API ein. Statt bei jedem Turn die gesamte Konversation erneut zu senden, übermitteln Agenten nur noch neue Nachrichten. Bei Anfragen mit 500.000 bis einer Million Token sinkt die Wartezeit bis zum ersten Token um rund 35 Prozent. Der Artikel Anthropic beschleunigt langlaufende KI-Agenten mit neuen \"Message Threads\" erschien zuerst auf The Decoder ."
-    },
-    {
-     "title": "Nvidia drängt Cloud-Kunden zu weniger China-Geschäft",
-     "url": "https://the-decoder.de/nvidia-draengt-cloud-kunden-zu-weniger-china-geschaeft/",
-     "date": "2026-11-03T12:17:12.000Z",
-     "text": "Nvidia hat einige Cloud-Kunden angewiesen, weniger Geschäft mit chinesischen Unternehmen zu machen. Der Artikel Nvidia drängt Cloud-Kunden zu weniger China-Geschäft erschien zuerst auf The Decoder ."
-    },
-    {
-     "title": "Huawei sagt Kunden, sie sollen Speicherchips für KI-Prozessoren selbst beschaffen",
-     "url": "https://the-decoder.de/huawei-sagt-kunden-sie-sollen-speicherchips-fuer-ki-prozessoren-selbst-beschaffen/",
-     "date": "2026-11-03T11:18:37.000Z",
-     "text": "Huawei kann nicht genug Speicher für seine KI-Chips liefern und schickt Kunden damit auf den Schwarzmarkt. Schmuggler nutzen eine Lücke in den US-Exportregeln: Sie koppeln HBM-Speicher an schwache Prozessoren, verschiffen sie über Hongkong und lösen die Chips in Werkstätten wieder ab. Die Preise für geschmuggelten HBM3E-Speicher sind auf rund 4.000 Dollar pro Einheit gestiegen. Der Artikel Huawei sagt Kunden, sie sollen Speicherchips für KI-Prozessoren selbst beschaffen erschien zuerst auf The D"
-    },
-    {
-     "title": "OpenAI zahlt Sicherheitsforschern mehr und startet neuen Security Sprint",
-     "url": "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/",
-     "date": "2026-11-03T10:35:44.000Z",
-     "text": "OpenAI vervierfacht die Prämien seines Bug-Bounty-Programms und startet einen neuen internen Sicherheitssprint. Der Artikel OpenAI zahlt Sicherheitsforschern mehr und startet neuen Security Sprint erschien zuerst auf The Decoder ."
     }
    ]
   },
@@ -879,22 +860,16 @@
    "ok": true,
    "items": [
     {
-     "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-     "date": "2026-11-03T05:35:00.000Z",
-     "text": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark."
+     "title": "[AINews] It's Swapping Season",
+     "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+     "date": "2026-11-05T06:24:09.000Z",
+     "text": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B."
     },
     {
-     "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-     "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
-     "date": "2026-11-02T23:01:02.000Z",
-     "text": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model"
-    },
-    {
-     "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-     "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-     "date": "2026-11-02T22:54:03.000Z",
-     "text": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies..."
+     "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+     "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+     "date": "2026-11-04T19:17:30.000Z",
+     "text": "November 3, 2026 — A quiet day lets us share some behind the senes."
     }
    ]
   },
@@ -917,34 +892,34 @@
    "ok": true,
    "items": [
     {
+     "title": "datasette-llm 0.1a10",
+     "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+     "date": "2026-11-04T15:26:02.000Z",
+     "text": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm"
+    },
+    {
+     "title": "datasette-apps 0.3a0",
+     "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+     "date": "2026-11-04T00:29:36.000Z",
+     "text": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored "
+    },
+    {
+     "title": "datasette-agent 0.5a0",
+     "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+     "date": "2026-11-03T23:13:45.000Z",
+     "text": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in with your GitHub account to agent.datasette.io . Tags: projects , datasett"
+    },
+    {
+     "title": "llm 0.37.1",
+     "url": "https://simonwillison.net/2026/Nov/3/llm/",
+     "date": "2026-11-03T21:41:42.000Z",
+     "text": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm"
+    },
+    {
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
      "date": "2026-11-03T16:29:48.000Z",
      "text": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing wi"
-    },
-    {
-     "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-     "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-     "date": "2026-11-03T05:32:25.000Z",
-     "text": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy , youtube"
-    },
-    {
-     "title": "October sponsors-only newsletter",
-     "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-     "date": "2026-11-03T05:28:59.000Z",
-     "text": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newslet"
-    },
-    {
-     "title": "llm 0.37",
-     "url": "https://simonwillison.net/2026/Nov/2/llm/",
-     "date": "2026-11-02T23:49:30.000Z",
-     "text": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM's support for embeddi"
-    },
-    {
-     "title": "The U.S. Census Bureau and “Super Intelligence”",
-     "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-     "date": "2026-11-02T13:31:26.000Z",
-     "text": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned t"
     }
    ]
   }
