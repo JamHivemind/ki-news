@@ -1,113 +1,140 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "site": {
     "title": "KI-News",
     "description": "Die wichtigsten Neuigkeiten aus der KI-Welt, jeden Morgen kurz auf Deutsch",
     "lang": "de"
   },
-  "intro": "Ein Tag der Agenten: Anthropic beschleunigt lange Agenten-Läufe, DeepSeek zeigt eine eigene Agenten-Architektur, und ein neuer Test zeigt, wie weit Agenten bei echter Wirtschaftsarbeit noch zurückliegen.",
+  "intro": "OpenAI und Anthropic bringen Funktionen für den Alltag im Büro und im Netz, während der Streit um Rechenzentren und KI an Schulen politischer wird.",
   "top": [
     {
-      "title": "Claude Code verweigert jetzt den Nachbau bekannter Spiele",
-      "text": "Nach einer Welle von Klonen bekannter Videospiele hat Anthropic Claude Code neue Grenzen gesetzt. Nutzer berichten, dass Opus 5.5 zusätzlich manche Reverse-Engineering-Aufgaben ablehnt. Wer Claude Code für Analyse fremder Software nutzt, sollte mit mehr Ablehnungen rechnen.",
-      "url": "https://the-decoder.de/anthropic-reagiert-auf-klon-welle-und-sperrt-spielenachbauten-in-claude-code/",
-      "source": "The Decoder",
+      "title": "Claude zeigt Chefs, wie Mitarbeiter die KI nutzen",
+      "text": "Anthropic bringt „Smart Reports“ für Claude. Unternehmen sehen damit, wofür ihre Teams Claude einsetzen, und können so ihre KI-Kosten besser steuern. Heise weist darauf hin, dass sich damit auch die Leistung einzelner Beschäftigter bewerten lässt. Das ist ein Thema für Betriebsräte und Datenschutz.",
+      "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html",
+      "source": "heise online",
       "category": "Claude & Anthropic"
     },
     {
-      "title": "Anthropic: „Message Threads“ machen lange Agenten-Läufe schneller",
-      "text": "Mit Message Threads schicken Agenten pro Runde nur noch die neuen Nachrichten statt des ganzen Verlaufs an die API. Bei sehr langen Anfragen kommt die erste Antwort laut Anthropic rund 35 Prozent schneller. Das betrifft vor allem Entwickler, die eigene Agenten über die Claude-API bauen.",
-      "url": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
-      "source": "The Decoder",
-      "category": "Claude & Anthropic"
+      "title": "ChatGPT erstellt jetzt animierte GIFs",
+      "text": "OpenAI startet das Bildmodell Images 2.6. Es arbeitet schneller und kann Bilder genauer bearbeiten. Neu ist, dass ChatGPT aus einer Beschreibung oder einem Foto ein animiertes GIF macht. Tempo und einzelne Bilder lassen sich anpassen.",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI News",
+      "category": "Modelle & Releases",
+      "tipp": "Lade ein Foto hoch und bitte ChatGPT, daraus ein kurzes GIF für eine Präsentation oder Chat-Nachricht zu machen."
     },
     {
-      "title": "Neuer Test GDPx: Selbst das beste Modell löst nur 12 Prozent",
-      "text": "SemiAnalysis hat einen Benchmark mit 206 Agenten-Aufgaben aus 11 wirtschaftlich wichtigen Bereichen vorgestellt. Opus 5.5 liegt mit 12 Prozent vorn, Gemini 4 Carbon folgt mit 10,9 Prozent. Der Test zeigt, dass Agenten bei echter, mehrstufiger Facharbeit noch weit von Menschen entfernt sind.",
-      "url": "https://x.com/SemiAnalysis_/status/2117075900575477855",
-      "source": "AINews (Latent Space)",
-      "category": "Modelle & Releases"
+      "title": "Google schaltet KI in Schulprodukten ab 2027 standardmäßig ab",
+      "text": "Schulen sollen künftig selbst entscheiden, ob sie Googles KI-Funktionen nutzen. Wer KI auf Schulgeräten komplett blockiert, verliert laut The Decoder aber auch die Google-Suche, weil beides eng verzahnt ist. Politiker kritisieren das als Druck auf Schulen.",
+      "url": "https://the-decoder.de/wer-googles-ki-in-der-schule-abschaltet-verliert-ab-2027-auch-die-suche/",
+      "source": "The Decoder",
+      "category": "Regulierung & Politik"
     }
   ],
   "entries": [
     {
-      "title": "Qwen bleibt Open Source",
-      "summary": "Die Qwen-Führung hat Gerüchten widersprochen, künftige Modelle gäbe es nur noch per API: Qwen 4.0 und 5.0 sollen offen bleiben.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-      "source": "AINews (Latent Space)",
-      "category": "Modelle & Releases"
+      "title": "Anthropic will KI-Antworten überprüfbar machen",
+      "url": "https://www.heise.de/news/Wer-spricht-da-Anthropic-stellt-Identitaetsnachweis-fuer-KI-Modelle-vor-11511036.html",
+      "source": "heise online",
+      "category": "Claude & Anthropic",
+      "summary": "Mit „FlashProve“ soll sich nachweisen lassen, dass eine Antwort wirklich von dem KI-Modell stammt, das angegeben wird. Die Modelldaten bleiben dabei geheim. Bisher ist es ein Forschungsprototyp."
     },
     {
-      "title": "DeepSeek zeigt Architektur für „Super-Agenten“",
-      "summary": "Ein langlebiger Verteiler gibt Arbeit an mehrere isolierte Helfer parallel ab. Im eigenen Test halbierte sich damit die Laufzeit langer Aufgaben fast.",
-      "url": "https://x.com/DeepSeekHarness/status/2116857257245987236",
-      "source": "AINews (Latent Space)",
-      "category": "Tools & Agenten"
+      "title": "Saudi Aramco übernimmt knapp die Hälfte von Humain",
+      "url": "https://www.heise.de/news/Saudi-Aramco-uebernimmt-knapp-die-Haelfte-des-KI-Unternehmens-Humain-11512647.html",
+      "source": "heise online",
+      "category": "Business & Funding",
+      "summary": "Der Ölkonzern investiert Milliarden in das saudische KI-Unternehmen. Er will damit das KI-Geschäft des Landes stärken und vom hohen Strombedarf der Rechenzentren profitieren."
     },
     {
-      "title": "Karpathy baut in zwei Stunden ein Video-Archiv aus Hacker News",
-      "summary": "Mit Claude Code und Opus 5.5 hat Andrej Karpathy 43 Millionen Kommentare nach oft empfohlenen Videos durchsucht und daraus eine Seite mit rund 6.500 Videos gebaut.",
-      "url": "https://x.com/karpathy/status/2116957135661945283",
-      "source": "AINews (Latent Space)",
+      "title": "EU fördert Chipdesign-Plattform mit 525 Millionen Euro",
+      "url": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html",
+      "source": "heise online",
+      "category": "Regulierung & Politik",
+      "summary": "Das Geld soll neuen europäischen Chipdesign-Firmen helfen. Europa will bei den Chips, die auch KI antreiben, unabhängiger werden."
+    },
+    {
+      "title": "OpenAI übernimmt Pierre Computer",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
       "category": "Tools & Agenten",
-      "tipp": "Gutes Beispiel, wie man große Textmengen mit einem Agenten auswertet: erst filtern lassen, dann das Ergebnis als kleine Webseite bauen."
+      "summary": "Die Firma baut Werkzeuge, mit denen Programmierer Code schreiben, verstehen und prüfen. Sie sollen in OpenAIs Coding-Assistenten Codex einfließen. Heise sieht darin einen Angriff auf GitHub."
     },
     {
-      "title": "Hex: kostenlose Diktier-App für Mac, Windows und Linux",
-      "summary": "Ben's Bites empfiehlt Hex, ein freies Werkzeug, das Sprache direkt in Text umwandelt, in jeder Anwendung.",
-      "url": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
-      "source": "Ben's Bites",
+      "title": "Anthropics Text-Wasserzeichen lässt sich bei älteren Modellen umgehen",
+      "url": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/",
+      "source": "The Decoder",
+      "category": "Claude & Anthropic",
+      "summary": "Anthropic markiert Texte von vier weiteren Claude-Modellen, auch wegen der EU-Regeln ab Dezember. Bei Modellen vor der 4.7-Serie reicht laut Bericht eine kleine Einstellungsänderung, um die Markierung zu entfernen."
+    },
+    {
+      "title": "GPT-6 Astra kann KI-Gewichte lesen und umschreiben",
+      "url": "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/",
+      "source": "The Decoder",
+      "category": "Forschung & Deep Tech",
+      "summary": "MIT-Forscher zeigen, dass das OpenAI-Modell die inneren Einstellungen eines anderen Modells gezielt ändern kann, ohne es neu zu trainieren. Bei einem kleinen Qwen-Modell stieg die Trefferquote bei Matheaufgaben deutlich. Der Ansatz hat noch klare Grenzen."
+    },
+    {
+      "title": "Neuer Test: KI-Agenten scheitern oft bei Cloud-Wartung",
+      "url": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/",
+      "source": "The Decoder",
       "category": "Tools & Agenten",
-      "tipp": "Statt Prompts zu tippen, einfach einsprechen. Gerade lange Anweisungen an Claude werden so oft genauer."
+      "summary": "CloudOpsBench prüft, wie gut KI-Agenten typische Admin-Aufgaben in der Cloud lösen, etwa Dienste reparieren oder Zugriffsrechte einschränken. Selbst die besten Modelle schaffen nur rund 60 Prozent."
     },
     {
-      "title": "Goldman Sachs nimmt Tradern die KI-Coding-Tools wieder weg",
-      "summary": "Claude Code und GitHub Copilot dürfen bei Goldman nur noch Entwickler nutzen. Begründung: Produktivität und Risikokontrolle.",
-      "url": "https://the-decoder.de/goldman-sachs-schraenkt-ki-coding-tools-fuer-trader-und-banker-wieder-ein/",
-      "source": "The Decoder",
-      "category": "Business & Funding"
+      "title": "Fal verdoppelt Bewertung auf 16 Milliarden Dollar",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI",
+      "category": "Business & Funding",
+      "summary": "Das Start-up betreibt Rechenleistung, mit der Firmen KI-Modelle ausführen. Es sammelte 1,3 Milliarden Dollar ein, weil die Nachfrage stark wächst."
     },
     {
-      "title": "OpenAI vervierfacht die Prämien für Sicherheitslücken",
-      "summary": "Wer Schwachstellen meldet, bekommt deutlich mehr Geld. Parallel startet OpenAI intern einen Sicherheits-Sprint.",
-      "url": "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/",
-      "source": "The Decoder",
-      "category": "Business & Funding"
+      "title": "Meta kauft Coding-Start-up Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch AI",
+      "category": "Business & Funding",
+      "summary": "Mit Conductor können Entwickler mehrere KI-Agenten gleichzeitig an einem Projekt arbeiten lassen. Meta baut damit sein Angebot für KI-gestütztes Programmieren aus."
     },
     {
-      "title": "OpenAI holt früheren US-Heeresminister",
-      "summary": "Dan Driscoll wird Berater bei OpenAI und soll vor allem beim Geschäft mit Militär und Geheimdiensten helfen.",
-      "url": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
-      "source": "The Decoder",
-      "category": "Regulierung & Politik"
+      "title": "Uber: Nur vier Fahrten kamen von KI-Agenten",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf",
+      "summary": "Im dritten Quartal buchten externe KI-Agenten gerade vier Fahrten, bei Essensbestellungen waren es etwa 500. Die Zahlen zeigen, dass Agenten im Alltag bisher kaum genutzt werden."
     },
     {
-      "title": "Nvidia drängt Cloud-Kunden zu weniger China-Geschäft",
-      "summary": "Laut Berichten hat Nvidia einige Cloud-Anbieter gebeten, ihre Geschäfte mit chinesischen Firmen zu verringern.",
-      "url": "https://the-decoder.de/nvidia-draengt-cloud-kunden-zu-weniger-china-geschaeft/",
-      "source": "The Decoder",
-      "category": "Regulierung & Politik"
+      "title": "Netflix testet KI-Tab für Empfehlungen nach Stimmung",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf",
+      "summary": "Der neue Bereich „Discover“ schlägt Filme und Serien vor, die zur aktuellen Laune passen. Es ist zunächst eine experimentelle Funktion."
     },
     {
-      "title": "Sprachmodelle verändern direkt die Gewichte anderer Netze",
-      "summary": "Forscher lassen große Modelle die Gewichte eines kleinen Modells gezielt umschreiben. Schon winzige Änderungen hoben dessen Mathe-Ergebnis stark an.",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "source": "AINews (Latent Space)",
-      "category": "Forschung & Deep Tech"
+      "title": "Rechenzentren gehören zu den Verlierern der US-Zwischenwahlen",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "source": "The Verge AI",
+      "category": "Regulierung & Politik",
+      "summary": "Vielerorts wurden Kandidaten gewählt, die Rechenzentren bremsen wollen. Für die KI-Branche könnte der Ausbau damit schwieriger werden."
     },
     {
-      "title": "Stanford: Fast die Hälfte bekannter LLM-Befunde ist veraltet",
-      "summary": "50 oft zitierte Aussagen über Sprachmodelle wurden mit 20 aktuellen Modellen neu getestet. Vor allem Aussagen über Schwächen der Modelle gelten oft nicht mehr.",
-      "url": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
+      "title": "Start-up Tensordyne will KI-Chips sparsamer machen",
+      "url": "https://t3n.de/news/tensordyne-chip-startup-nvidia-konkurrenz-1771073",
+      "source": "t3n",
+      "category": "Forschung & Deep Tech",
+      "summary": "Das deutsch-amerikanische Unternehmen setzt auf einen Rechentrick, um KI-Modelle schneller und günstiger als mit Nvidia-Chips auszuführen."
     },
     {
-      "title": "KI-Agenten steuern ein Teleskop bei der Suche nach Außerirdischen",
-      "summary": "Beim SETI Institute bedienen Agenten das Allen Telescope Array und werten Funksignale aus. Dabei sollen sie erstmals einen Pulsar in Echtzeit erkannt haben.",
-      "url": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
+      "title": "Versteckte KI-Schulden der Tech-Konzerne wachsen auf 3,2 Billionen Dollar",
+      "url": "https://t3n.de/news/ki-schulden-tech-konzerne-1771696",
+      "source": "t3n",
+      "category": "Business & Funding",
+      "summary": "Laut t3n haben sich die nicht direkt in den Bilanzen sichtbaren Verpflichtungen für KI-Infrastruktur in sechs Monaten fast verdoppelt. Die Einnahmen hinken den Investitionen hinterher."
+    },
+    {
+      "title": "Google DeepMind zeigt KI-Agenten für die Wirkstoffsuche",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "Forschung & Deep Tech",
+      "summary": "Das Werkzeug Antigravity soll mit speziellen Fähigkeiten Chemiker bei der Suche nach neuen Medikamenten unterstützen, etwa bei der Recherche nach Verbindungen."
     }
   ]
 }
