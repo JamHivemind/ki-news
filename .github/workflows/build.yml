@@ -3,9 +3,9 @@ on:
   push:
     paths: ['content.json', 'template.html', 'scripts/**', 'assets/**']
   schedule:
-    # Feeds vor dem Morgenlauf der Routine holen (06:30 Berlin im Winter; Routine 07:00).
+    # Feeds vor dem Morgenlauf der Routine holen (05:00 Berlin im Winter; Routine 07:00). GitHub startet geplante Läufe oft bis zu 1 Stunde später, daher viel Vorlauf.
     # Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
-    - cron: '30 5 * * *'
+    - cron: '0 4 * * *'
     # Kennzahlen auch an Tagen ohne neue Ausgabe nachziehen (09:15 Berlin im Winter)
     - cron: '15 8 * * *'
   workflow_dispatch:
