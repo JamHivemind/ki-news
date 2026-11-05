@@ -1070,41 +1070,41 @@
  "hf": [
   {
    "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-   "likes": 3010,
+   "likes": 3026,
    "downloads": 44939,
    "task": "automatic-speech-recognition"
   },
   {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "likes": 666,
+   "downloads": 797,
+   "task": "image-text-to-text"
+  },
+  {
    "id": "speridlabs/idol",
-   "likes": 640,
+   "likes": 655,
    "downloads": 14613,
    "task": "image-to-3d"
   },
   {
    "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "likes": 5294,
+   "likes": 5307,
    "downloads": 221621,
    "task": "image-text-to-text"
   },
   {
-   "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 604,
-   "downloads": 797,
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "likes": 1594,
+   "downloads": 8200,
    "task": "image-text-to-text"
   },
   {
    "id": "LiquidAI/LFM3-1.7B",
-   "likes": 1495,
+   "likes": 1496,
    "downloads": 54959,
    "task": "text-generation"
-  },
-  {
-   "id": "mistralai/Mistral-Large-4-1T-A52B",
-   "likes": 1592,
-   "downloads": 8200,
-   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-05T06:26:16.597Z",
+ "updated": "2026-11-05T09:10:12.493Z",
  "updatedDay": "2026-11-05"
 }
