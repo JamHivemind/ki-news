@@ -3,9 +3,10 @@ on:
   push:
     paths: ['content.json', 'template.html', 'scripts/**', 'assets/**']
   schedule:
-    # Feeds vor dem Morgenlauf der Routine holen (05:00 Berlin im Winter; Routine 07:00). GitHub startet geplante Läufe oft bis zu 1 Stunde später, daher viel Vorlauf.
-    # Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
-    - cron: '0 4 * * *'
+    # Feeds vor dem Morgenlauf der Routine holen (Routine 07:00 Berlin im Winter). GitHub startet geplante Läufe oft 1-2 Stunden später,
+    # daher zwei Läufe mit viel Vorlauf (03:00 und 04:30 Berlin). Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
+    - cron: '0 2 * * *'
+    - cron: '30 3 * * *'
     # Kennzahlen auch an Tagen ohne neue Ausgabe nachziehen (09:15 Berlin im Winter)
     - cron: '15 8 * * *'
   workflow_dispatch:
@@ -22,6 +23,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          # immer den neuesten Stand bauen, nicht den Stand beim Auslösen (sonst Konflikte, wenn mehrere Läufe hintereinander warten)
+          ref: main
 
       - uses: actions/setup-node@v5
         with:
@@ -40,12 +44,19 @@ jobs:
         run: |
           git config user.name "ki-news[bot]"
           git config user.email "ki-news[bot]@users.noreply.github.com"
-          git add index.html archive/ seen.json data/ feeds.json
-          git diff --cached --quiet && exit 0
-          git commit -m "seite: $(node -p 'require("./content.json").date')"
-          # GitHub lehnt Pushes gelegentlich mit "Internal Server Error" ab: bis zu 4 Versuche
-          for i in 1 2 3 4; do
-            git pull --rebase && git push && exit 0
+          commit() { git add index.html archive/ seen.json data/ feeds.json; git diff --cached --quiet && return 1; git commit -q -m "seite: $(node -p 'require("./content.json").date')"; }
+          commit || exit 0
+          # GitHub lehnt Pushes gelegentlich ab (Fehler oder neuer Stand): bis zu 5 Versuche.
+          # Gibt es beim Zusammenführen einen Konflikt in erzeugten Dateien, auf den neuesten Stand setzen und neu bauen.
+          for i in 1 2 3 4 5; do
+            git push origin HEAD:main && exit 0
             sleep $((i * 15))
+            git fetch -q origin main
+            if ! git rebase -q origin/main; then
+              git rebase --abort
+              git reset -q --hard origin/main
+              node scripts/build.mjs
+              commit || exit 0
+            fi
           done
           exit 1
