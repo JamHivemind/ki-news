@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-06",
+      "file": "2026-11-06.html",
+      "headline": "Claude kann jetzt Ihre Finanzen analysieren",
+      "count": 17,
+      "sources": 9,
+      "cats": {
+        "Claude & Anthropic": 3,
+        "Modelle & Releases": 4,
+        "Regulierung & Politik": 2,
+        "Tools & Agenten": 1,
+        "KI im Alltag & Beruf": 2,
+        "Business & Funding": 5
+      },
+      "firms": {
+        "Anthropic": 6,
+        "OpenAI": 4,
+        "Google": 1,
+        "Meta": 2,
+        "Microsoft": 1,
+        "Amazon": 1
+      }
+    },
+    {
       "date": "2026-11-05",
       "file": "2026-11-05.html",
       "headline": "Claude zeigt Chefs, wie Mitarbeiter die KI nutzen",

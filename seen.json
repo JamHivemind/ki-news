@@ -158,5 +158,90 @@
     "title": "Google DeepMind zeigt KI-Agenten für die Wirkstoffsuche",
     "source": "Google DeepMind",
     "first_seen": "2026-11-05"
+  },
+  "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/": {
+    "title": "Claude kann jetzt Ihre Finanzen analysieren",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-06"
+  },
+  "https://openai.com/index/introducing-gpt-6-cyber": {
+    "title": "GPT-6 Cyber: OpenAI-Modell jagt Sicherheitslücken",
+    "source": "OpenAI News",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html": {
+    "title": "Nach US-Wahl: OpenAI will anwohnerfreundlichere Rechenzentren",
+    "source": "heise online",
+    "first_seen": "2026-11-06"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
+    "title": "Gemini Omni 1.2 Flash erzeugt längere Videoclips",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.heise.de/news/Tencent-Hy4-Neues-KI-Modell-schafft-es-in-chinesische-Spitzengruppe-11513555.html": {
+    "title": "Tencent stellt KI-Modell Hy4 vor",
+    "source": "heise online",
+    "first_seen": "2026-11-06"
+  },
+  "https://the-decoder.de/baidu-veroeffentlicht-ernie-5-5-flash-base-mit-280-milliarden-parametern-als-open-source-basismodell/": {
+    "title": "Baidu veröffentlicht ERNIE 5.5 Flash Base als Open Source",
+    "source": "The Decoder",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work": {
+    "title": "Perplexity startet „Teammates“ – KI-Agenten für die Arbeit",
+    "source": "The Verge AI",
+    "first_seen": "2026-11-06"
+  },
+  "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/": {
+    "title": "Airbnb plant KI-Reiseassistenten für 2027",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-06"
+  },
+  "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/": {
+    "title": "Meta: Muse-KI per Video-Chat mit Avatar",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-06"
+  },
+  "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/": {
+    "title": "Anthropic zahlt erstmals für Verlagsinhalte",
+    "source": "The Decoder",
+    "first_seen": "2026-11-06"
+  },
+  "https://t3n.de/news/anthropic-smart-reports-ki-kostenkontrolle-mitarbeiter-1771500": {
+    "title": "Smart Reports: Anthropic-Werkzeug für KI-Kosten im Unternehmen",
+    "source": "t3n",
+    "first_seen": "2026-11-06"
+  },
+  "https://the-decoder.de/openai-holt-sich-anthropics-gruendungs-produktchefin-von-claude-code/": {
+    "title": "Claude-Code-Produktchefin wechselt zu OpenAI",
+    "source": "The Decoder",
+    "first_seen": "2026-11-06"
+  },
+  "https://the-decoder.de/meta-kauft-conductor-ki-startups-fuer-entwickler-tools-sind-heiss-begehrt/": {
+    "title": "Meta kauft Coding-Startup Conductor",
+    "source": "The Decoder",
+    "first_seen": "2026-11-06"
+  },
+  "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/": {
+    "title": "Dropbox übernimmt Tigris Data für 350 Millionen Dollar",
+    "source": "TechCrunch AI",
+    "first_seen": "2026-11-06"
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5": {
+    "title": "Bericht: KI-Gegenwind könnte Anthropic-Börsengang verzögern",
+    "source": "Reuters",
+    "first_seen": "2026-11-06"
+  },
+  "https://t3n.de/news/boerse-nach-den-us-wahlen-big-tech-jubelt-ki-zulieferer-verlieren-1771811": {
+    "title": "Börse nach US-Wahl: Big Tech gewinnt, KI-Zulieferer verlieren",
+    "source": "t3n",
+    "first_seen": "2026-11-06"
+  },
+  "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/": {
+    "title": "Texas als KI-Rechenzentrums-Hotspot wackelt",
+    "source": "MIT Technology Review",
+    "first_seen": "2026-11-06"
   }
 }
