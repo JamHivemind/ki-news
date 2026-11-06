@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-06T06:03:17.102Z",
+ "fetched": "2026-11-06T09:05:03.242Z",
  "hours": 48,
  "sources": [
   {
@@ -29,6 +29,13 @@
      "via": "Anthropic"
     },
     {
+     "title": "Anthropic News: Latest Updates on the AI Company Behind Claude - Bloomberg - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RWXl0T0lpR1J0WE1VZ050anMwUlhTeUEzVGtGcDhYUTNKUnpsMDlkZHV2ZEpGanBNc0Vxb3VueVBYQ19pc2xlWTVvdw?oc=5",
+     "date": "2026-11-06T00:11:14.000Z",
+     "text": "Anthropic News: Latest Updates on the AI Company Behind Claude - Bloomberg Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
      "title": "Anthropic's IPO plans run up against a battered Wall Street - Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGgtTzd4WVd2bVRwUzNpLU9TU09TMWNzM2QzV1dPM01NeDhmMVV5ejlFTFkwLUx3RS04cVdrU3Q3WFdYbUFXUmNTZ0tYUF8yQjlMS1ZQcnZPTkdTSmhSYndyY0FlaE05VFpGQmRCVERaQjBlSEhNaVpSZWlVMVRqanJfLTNiUDhPVjFmUUo0Ul9FRzhhZGZsQjhKYXFIUlVBTWdERFBha0ttdExDeXBQaVVabU9YMFlTT0E?oc=5",
      "date": "2026-11-05T19:21:38.000Z",
@@ -48,6 +55,13 @@
      "date": "2026-11-05T21:49:00.000Z",
      "text": "Why This Analyst Still Thinks Anthropic’s IPO Will Get Done Barron's",
      "via": "Barron's"
+    },
+    {
+     "title": "3 takeaways from the big AI report on Anthropic everyone is talking about - Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVU2aDNKNTRhU3NLcmJXR3pnTkVKT1UxR0JJcXUtWDdPU0FlSEhZUkNHLU8zYlNQOURaeWxwRWw3TWRIb1M5QmJxWTJhWS1aSW9Kc2szSUFsV1hKOHFrUVZuMmVhWGFDVXpubEdicjQ3TC1PejNqOXY1LWhyT0htMGJoZW9rLTFYUUt1TFBYYTlyT2Ffc3VLYnAxZzF6SjMwXzRHOWJUc0x6aUVoRTdKMlREY2IweFk?oc=5",
+     "date": "2026-11-05T20:40:00.000Z",
+     "text": "3 takeaways from the big AI report on Anthropic everyone is talking about Business Insider",
+     "via": "Business Insider"
     },
     {
      "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - AP News",
@@ -71,11 +85,11 @@
      "via": "Financial Times"
     },
     {
-     "title": "Anthropic’s IPO timing threatened by AI backlash, historic tech rout - New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeE8zTUFabnRTZ1ltT0gtWEtYOXlkZWx4LXFBQUxkZGUza2ZwTE15RDdrMlZrdERnVGRhQVJCQ1Q5d2kzZElkVHFxYVRCMUhXM2VIVEFwU0N5MWpLWVlzZGx6SlFFX3VyOTJxZ1JsSjFiTFFwWF9SWGNRUDNhQnB2dFNTMXhBdHNLZmVqZ1FxUklhNEVSZlFlRjZrekNZTkVuTnFtVjB6WDJ0dw?oc=5",
-     "date": "2026-11-06T00:39:49.000Z",
-     "text": "Anthropic’s IPO timing threatened by AI backlash, historic tech rout New York Post",
-     "via": "New York Post"
+     "title": "Report: Anthropic rapidly accelerating AI development amid slowdown calls - TelegraphHerald.com",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQllBdHRXeHpmcVA4MVloN1NtMVV0VmVKN01WTVRhMmY2M3FNMUpzOEtzYjlFeHdVSUwxejUtYktKVFVuTkxrd0VyYmVveWxqS19tcVNOaG9SZzY1MDU1ZGxJOWg4TDNORnhXczAwTzE2djVrRkJjY1VQT3RmajhWZ0lHeDBFZXlqLWI3RWppMGV5YWxaMzRGbw?oc=5",
+     "date": "2026-11-06T06:30:00.000Z",
+     "text": "Report: Anthropic rapidly accelerating AI development amid slowdown calls TelegraphHerald.com",
+     "via": "TelegraphHerald.com"
     },
     {
      "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
@@ -85,18 +99,11 @@
      "via": "TechCrunch"
     },
     {
-     "title": "What Anthropic’s IPO Means for the ETF Market - Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakJENEpqNHNPREt0ZGQwU2d4SUlsWXVVSklfYlFCTjllVmVvOE92T3ozSkJGWVFnV1d0TGwtb0t3ME1GMi0yVC1wMnluaDh5SkhpeENnTlhQemtWYUk2M2ttclNYZ2VTZ0tFdUIyeWFpWndBVDQwTlBNVS1QTlNiY0gyb0hvM01vZjl0bzlTTHRmdjVqem1Wdmtpcmo?oc=5",
-     "date": "2026-11-05T21:30:18.000Z",
-     "text": "What Anthropic’s IPO Means for the ETF Market Bloomberg.com",
-     "via": "Bloomberg.com"
-    },
-    {
-     "title": "3 takeaways from the big AI report on Anthropic everyone is talking about - Business Insider",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVU2aDNKNTRhU3NLcmJXR3pnTkVKT1UxR0JJcXUtWDdPU0FlSEhZUkNHLU8zYlNQOURaeWxwRWw3TWRIb1M5QmJxWTJhWS1aSW9Kc2szSUFsV1hKOHFrUVZuMmVhWGFDVXpubEdicjQ3TC1PejNqOXY1LWhyT0htMGJoZW9rLTFYUUt1TFBYYTlyT2Ffc3VLYnAxZzF6SjMwXzRHOWJUc0x6aUVoRTdKMlREY2IweFk?oc=5",
-     "date": "2026-11-05T20:40:00.000Z",
-     "text": "3 takeaways from the big AI report on Anthropic everyone is talking about Business Insider",
-     "via": "Business Insider"
+     "title": "Anthropic's $1.5T valuation under pressure as major investors signal skepticism, WSJ reports (ANT:Pending) - Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUtROEl4WGZkODJtX29yRVVkSEgyXzh5UG5aaTBWaVhHM3laSnhnZTRVeGRlNGUyLUgzQk5RYmV6RXgyaDhMNDNBWkptQTJVYVg3VURZeDZMTkw2aUdlaTlXUExnYjA1S3hLWjdSMzVQR1JMN3dQSGZvS0ZyQjRvdzVYOWdzZzhCUm05RnhmQnF4Y2Z4RjNLWEItWU53OUhTZTkzczJBaXJtRmFRN01qVWt5QnZzWWhZbU41TFZscDdYN1RV?oc=5",
+     "date": "2026-11-06T05:35:15.000Z",
+     "text": "Anthropic's $1.5T valuation under pressure as major investors signal skepticism, WSJ reports (ANT:Pending) Seeking Alpha",
+     "via": "Seeking Alpha"
     },
     {
      "title": "Breakingviews - COMMENTARY: Tech wreckage now hinges on Anthropic IPO - Reuters",
@@ -120,20 +127,6 @@
      "via": "Barron's"
     },
     {
-     "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
-     "date": "2026-11-05T20:07:43.000Z",
-     "text": "Anthropic's models improving nearly twice as fast with help from AI, study finds Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
-     "date": "2026-11-05T19:30:11.000Z",
-     "text": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance",
-     "via": "Yahoo Finance"
-    },
-    {
      "title": "Anthropic rolls out personal finance feature for Claude - Reuters",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5",
      "date": "2026-11-05T18:03:44.000Z",
@@ -141,11 +134,39 @@
      "via": "Reuters"
     },
     {
-     "title": "Anthropic Invites Banks to Help Shape Personal Finance Offerings - PYMNTS.com",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXE2T1lpc196dDRRRzF4aDJBazMwSXVxQkcwWFVmU0FvRFZZcGx1ZWxtdDlMVERvejNGQXM3Uy1CdU44M3h0MEo4V1YzUUdaYjlqYUZTcUhaNzdxaXBNUU9sbHFLd1BsSjhfUnBCalVCQUdlNUJsZlBLQXpfV1R5NHY2dWtETmY5UldZYTZ2MmtxVl9LNGgwVUhEd1FOOW1wVXItTUJxRHFUckhEcXZkY2RuOTE?oc=5",
-     "date": "2026-11-05T22:17:02.000Z",
-     "text": "Anthropic Invites Banks to Help Shape Personal Finance Offerings PYMNTS.com",
-     "via": "PYMNTS.com"
+     "title": "Is $1.5 Trillion Too Much for Anthropic? Some IPO Investors Think So - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2s3dlpNT1JfcTBSNVpDUFZXQzBhaVFkZXFyN3ktNFltR2pXRVY1UVRVRU85eTBPdVc1YzNoZVJlUHZueVhvYmd3eXhBdlRXdGpRRUNVX1VDX2pmS0N1Q3VOamFFbTlFdmNoVkN4Vl9FWGo4NnM2aXl4bFJuZHdJLVBZZGNULVc3UHIteUQ0VQ?oc=5",
+     "date": "2026-11-06T05:17:00.000Z",
+     "text": "Is $1.5 Trillion Too Much for Anthropic? Some IPO Investors Think So Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
+     "date": "2026-11-05T20:07:43.000Z",
+     "text": "Anthropic's models improving nearly twice as fast with help from AI, study finds Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Anthropic’s IPO timing threatened by AI backlash, historic tech rout - New York Post",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeE8zTUFabnRTZ1ltT0gtWEtYOXlkZWx4LXFBQUxkZGUza2ZwTE15RDdrMlZrdERnVGRhQVJCQ1Q5d2kzZElkVHFxYVRCMUhXM2VIVEFwU0N5MWpLWVlzZGx6SlFFX3VyOTJxZ1JsSjFiTFFwWF9SWGNRUDNhQnB2dFNTMXhBdHNLZmVqZ1FxUklhNEVSZlFlRjZrekNZTkVuTnFtVjB6WDJ0dw?oc=5",
+     "date": "2026-11-06T00:39:49.000Z",
+     "text": "Anthropic’s IPO timing threatened by AI backlash, historic tech rout New York Post",
+     "via": "New York Post"
+    },
+    {
+     "title": "Investors push Anthropic to cut its IPO valuation below $1.5 trillion after the AI selloff - Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSjJrcFBlMnBvLTZLS2UtVUNfMS11RHphQWNVTHlRd2lVQUp4Y1RkeXFoc29EdlRzRFpFMkdwWmc0LVVEQW5CanpRQjB3UmFnQ09vWGRUak5LZnpKaGJVdkJaTzJCakdWOXM3aElSQnVOQkJpdEFzckFhckVPeExhTUxKNC1OaGdUWUJZb0xSeDZlbFZ6QVh6TEFQUUluMGhQNkNEWGlZaDhtem16djBLYXY2em1pVlRUcXFMRWFYYzg?oc=5",
+     "date": "2026-11-06T07:18:04.000Z",
+     "text": "Investors push Anthropic to cut its IPO valuation below $1.5 trillion after the AI selloff Dealroom",
+     "via": "Dealroom"
+    },
+    {
+     "title": "What Anthropic’s IPO Means for the ETF Market - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakJENEpqNHNPREt0ZGQwU2d4SUlsWXVVSklfYlFCTjllVmVvOE92T3ozSkJGWVFnV1d0TGwtb0t3ME1GMi0yVC1wMnluaDh5SkhpeENnTlhQemtWYUk2M2ttclNYZ2VTZ0tFdUIyeWFpWndBVDQwTlBNVS1QTlNiY0gyb0hvM01vZjl0bzlTTHRmdjVqem1Wdmtpcmo?oc=5",
+     "date": "2026-11-05T21:30:18.000Z",
+     "text": "What Anthropic’s IPO Means for the ETF Market Bloomberg.com",
+     "via": "Bloomberg.com"
     },
     {
      "title": "Michael Burry says Anthropic is 'betting its entire existence' on optimism, and he has no plans to own the stock - Business Insider",
@@ -155,18 +176,25 @@
      "via": "Business Insider"
     },
     {
+     "title": "The Anthropic IPO And Concentration Risk - Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlhsYy1jRFc1T2w0RFM4aVRjdDRiRi00bUphQVZUUmxpc0xhSHppYkFiV2FvWkZvb1B3WDJobXl6bkRBcnFqd1dhUkRsNkUtWDFMVU1vcFZKMDJGUjhJWnNDdVl6LUtfLWRhOE1MNjVMOUZvcVlkR3NtWGRPTTRnQ0ZoTnhLVGJC?oc=5",
+     "date": "2026-11-06T08:01:34.000Z",
+     "text": "The Anthropic IPO And Concentration Risk Seeking Alpha",
+     "via": "Seeking Alpha"
+    },
+    {
+     "title": "Anthropic Invites Banks to Help Shape Personal Finance Offerings - PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXE2T1lpc196dDRRRzF4aDJBazMwSXVxQkcwWFVmU0FvRFZZcGx1ZWxtdDlMVERvejNGQXM3Uy1CdU44M3h0MEo4V1YzUUdaYjlqYUZTcUhaNzdxaXBNUU9sbHFLd1BsSjhfUnBCalVCQUdlNUJsZlBLQXpfV1R5NHY2dWtETmY5UldZYTZ2MmtxVl9LNGgwVUhEd1FOOW1wVXItTUJxRHFUckhEcXZkY2RuOTE?oc=5",
+     "date": "2026-11-05T22:17:02.000Z",
+     "text": "Anthropic Invites Banks to Help Shape Personal Finance Offerings PYMNTS.com",
+     "via": "PYMNTS.com"
+    },
+    {
      "title": "Exclusive-AI backlash could threaten Anthropic IPO timing, potential investors say By Reuters - Investing.com",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3RCdzFkbGNkOFI4VkJyZXpzTUxwbHhpR3FVd1FQWG9fTWtOVUVoX25ndXA1bmwydC10bkhGRWRMNDZBQWJ1Vy1mazlEdl96YVByZEdaQlEwX1NuSkhvRjZ6Tktld0xVVnk2S3F6MWswcy00MFNheElqY0xvMlJaWDlNSm9BUGM4YUhpUG11bWYzMGhYNGR3RnU2NWFlaVNJYnpuVzhMclFqdHBPajl3UldyOXdiNW5IbVBVRzJFajRJV0Fvdy14alU3b0lTWXBMVndv?oc=5",
      "date": "2026-11-06T03:19:55.000Z",
      "text": "Exclusive-AI backlash could threaten Anthropic IPO timing, potential investors say By Reuters Investing.com",
      "via": "Investing.com"
-    },
-    {
-     "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
-     "date": "2026-11-05T08:00:00.000Z",
-     "text": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 METR",
-     "via": "METR"
     },
     {
      "title": "Claude AI can plug directly into your bank account - The Verge",
@@ -183,39 +211,11 @@
      "via": "Investing.com"
     },
     {
-     "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance - Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWcxMXFmM0JRbEZCUGYxYkNVVkpGZkdhQ01MV1l1MkdRel9DYmdHbWJNTk5WWnhTQ2JIZmw5TlBLY0xGZ2ZKMV9GY3BqRjZEbjBMeXM3Zi1CZ1RBUk1ab2NTNWNqcFoxZjRiRWl2SXZoWFNmcmVCNERGVU5oYU5XRm1zOFM0NDNiVzByTFlPb19lWWIzRTNya2JHZXdoanlBT0UyRFd0TlctYjk0MWFF?oc=5",
-     "date": "2026-11-05T18:00:00.000Z",
-     "text": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance Bloomberg.com",
-     "via": "Bloomberg.com"
-    },
-    {
-     "title": "Anthropic IPO: How to Buy the Stock Before It Hits the Open Market - Barron's",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVS1HRGRwYjczNEhJUTRzU2lfYUVYNVlHRjd3aGZ2UURwVE96c3lzMzBFREhWSFpWa0hSdTdzdXcxdWhlVW9GbGdYSnpDemlfb04xZE5famdpN1cycXpCXzNDYU9hYWxONGsxd3NrS0ItSGZvNDM0VkhSNXdjZVlKaXBmUEk0YXVkTUhN?oc=5",
-     "date": "2026-11-05T15:37:00.000Z",
-     "text": "Anthropic IPO: How to Buy the Stock Before It Hits the Open Market Barron's",
-     "via": "Barron's"
-    },
-    {
-     "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre - Tom's Hardware",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRjZtdTRhY2hIeDlfYkV1ZEFWQThWNUZBczNJYUdTd0xHSUM1aU5CZ2VkNGpfWU9Lb1hsOV9hM2VjNEtYdGZUZklkYWJZZkNsZmNWQUtsTnhzTERKTktMR1RfZzQ2RjJEVnl6ZFJObzVQVzNnRzVsM0w2N1Q2MEloM0xzTnJWcTRZc1BHRmpoZ0RIY2k4OWJOdlV2Zll3bm5oaXNtTUdpTExLWjcxSkpaTUNvYjNNRHJKQ000RzBfRk96bzJTZjROb1ZfcldCYjNoUk1GeGltVXFWdi0tbkVhd0pzcGRPUU1fUTFKYW1TMzJOQ2V4WmVjQ1RnSUVUMUtRNjNrLUtrZmZYZw?oc=5",
-     "date": "2026-11-05T11:00:00.000Z",
-     "text": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre Tom's Hardware",
-     "via": "Tom's Hardware"
-    },
-    {
-     "title": "Anthropic's $1.5T valuation under pressure as major investors signal skepticism, WSJ reports (ANT:Pending) - Seeking Alpha",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUtROEl4WGZkODJtX29yRVVkSEgyXzh5UG5aaTBWaVhHM3laSnhnZTRVeGRlNGUyLUgzQk5RYmV6RXgyaDhMNDNBWkptQTJVYVg3VURZeDZMTkw2aUdlaTlXUExnYjA1S3hLWjdSMzVQR1JMN3dQSGZvS0ZyQjRvdzVYOWdzZzhCUm05RnhmQnF4Y2Z4RjNLWEItWU53OUhTZTkzczJBaXJtRmFRN01qVWt5QnZzWWhZbU41TFZscDdYN1RV?oc=5",
-     "date": "2026-11-06T05:35:15.000Z",
-     "text": "Anthropic's $1.5T valuation under pressure as major investors signal skepticism, WSJ reports (ANT:Pending) Seeking Alpha",
-     "via": "Seeking Alpha"
-    },
-    {
-     "title": "Anthropic upgrades Claude with new Personal Finance feature - 9to5Mac",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLUZJbk5NTDd3ZnF6NTVTS3p5eENzUFE0Tk93bnprTWF2WmdBRm5rcFZTN0UzVVNpcnU0UjdRT1V0eUgzV2dXVDFNOEF0Z3Y4VXpzTVA5UmoxdHlHVXdJZXVQSUJlQVdIc1Y3MmQtQ2dIa1NiSkR2UVFBRnd5Q2VJejZoTW5WbGIzUGEtRTNZS1g4WU9VZnc?oc=5",
-     "date": "2026-11-05T18:14:00.000Z",
-     "text": "Anthropic upgrades Claude with new Personal Finance feature 9to5Mac",
-     "via": "9to5Mac"
+     "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
+     "date": "2026-11-05T08:00:00.000Z",
+     "text": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 METR",
+     "via": "METR"
     }
    ]
   },
@@ -270,18 +270,6 @@
      "url": "https://openai.com/index/openai-to-acquire-pierre",
      "date": "2026-11-04T14:30:00.000Z",
      "text": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-     "date": "2026-11-04T07:00:00.000Z",
-     "text": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-    },
-    {
-     "title": "A thousand fewer paths to root",
-     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-     "date": "2026-11-04T08:00:00.000Z",
-     "text": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
     }
    ]
   },
@@ -339,6 +327,12 @@
    "focus": "Finanzierungen, Übernahmen, Produktstarts",
    "ok": true,
    "items": [
+    {
+     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+     "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+     "date": "2026-11-06T06:28:32.000Z",
+     "text": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+    },
     {
      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
@@ -452,12 +446,6 @@
      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
      "date": "2026-11-04T21:10:56.000Z",
      "text": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
-    },
-    {
-     "title": "Open source AI is booming. Hugging Face explains who profits.",
-     "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-     "date": "2026-11-04T19:30:04.000Z",
-     "text": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]"
     }
    ]
   },
@@ -553,6 +541,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Container mit DockTail ohne Port-Mapping ins Tailscale-Netz bringen",
+     "url": "https://www.heise.de/news/DockTail-Docker-Container-per-Label-als-Tailscale-Services-veroeffentlichen-11513722.html",
+     "date": "2026-11-06T06:51:00.000Z",
+     "text": "Das Open-Source-Tool DockTail registriert Docker-Container automatisch im Mesh-VPN Tailscale. Ports muss man dafür nicht öffentlich machen."
+    },
+    {
      "title": "Floppy-Ende in US-Luftfahrt bis 2028",
      "url": "https://www.heise.de/news/Floppy-Ende-in-US-Luftfahrt-bis-2028-11514140.html",
      "date": "2026-11-06T05:34:00.000Z",
@@ -625,16 +619,16 @@
      "text": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen."
     },
     {
-     "title": "Apple kürzt interne KI-Budgets für Beschäftigte deutlich",
-     "url": "https://www.heise.de/news/Apple-kuerzt-interne-KI-Budgets-fuer-Beschaeftigte-deutlich-11513091.html",
-     "date": "2026-11-05T12:51:00.000Z",
-     "text": "Apple senkt die Ausgabenlimits für die KI-Nutzung seiner Mitarbeiter um ein Drittel. Für manche Teams soll das Budget sogar auf 25 US-Dollar pro Tag sinken."
-    },
-    {
      "title": "SonicWall Global Management System verwundbar, bekommt aber keine Updates mehr",
      "url": "https://www.heise.de/news/SonicWall-Global-Management-System-verwundbar-bekommt-aber-keine-Updates-mehr-11513413.html",
      "date": "2026-11-05T12:51:00.000Z",
      "text": "SonicWalls Managementplattform Global Management System für IT-Security-Appliances ist angreifbar. Admins müssen auf den Nachfolger upgraden."
+    },
+    {
+     "title": "Apple kürzt interne KI-Budgets für Beschäftigte deutlich",
+     "url": "https://www.heise.de/news/Apple-kuerzt-interne-KI-Budgets-fuer-Beschaeftigte-deutlich-11513091.html",
+     "date": "2026-11-05T12:51:00.000Z",
+     "text": "Apple senkt die Ausgabenlimits für die KI-Nutzung seiner Mitarbeiter um ein Drittel. Für manche Teams soll das Budget sogar auf 25 US-Dollar pro Tag sinken."
     },
     {
      "title": "KI-Modelle: Apple-Entwickler sollen sparen",
@@ -725,12 +719,6 @@
      "url": "https://www.heise.de/news/Saudi-Aramco-uebernimmt-knapp-die-Haelfte-des-KI-Unternehmens-Humain-11512647.html",
      "date": "2026-11-04T17:32:00.000Z",
      "text": "Mit einer Milliardeninvestition in Humain will Saudi Aramco das saudische KI-Geschäft stärken und vom wachsenden Energiebedarf der Rechenzentren profitieren."
-    },
-    {
-     "title": "Bürostuhl Welax S9 Pro für 400 Euro im Test: luftig, wuchtig, gut verstellbar",
-     "url": "https://www.heise.de/bestenlisten/testbericht/buerostuhl-welax-s9-pro-fuer-400-euro-im-test-luftig-wuchtig-gut-verstellbar/t09447n",
-     "date": "2026-11-04T16:14:00.000Z",
-     "text": "Der ergonomische Bürostuhl Welax S9 Pro regelt Sitzhöhe, Sitztiefe und Neigung über einen einzigen Hebel und bringt Mesh, Alu-Fußkreuz und Fußstütze mit."
     }
    ]
   },
@@ -739,6 +727,36 @@
    "focus": "KI im Beruf, Tools für den Arbeitsalltag",
    "ok": true,
    "items": [
+    {
+     "title": "X-70 Fractal: Das steckt hinter dem neuen Super-Jet der Nasa",
+     "url": "https://t3n.de/news/x-70-fractal-jet-nasa-1771966",
+     "date": "2026-11-06T09:00:41.000Z",
+     "text": "Eine fliegende Forschungsplattform, um die „Entwicklung und Erprobung fortschrittlicher Luftfahrttechnologien zu beschleunigen“. Die Nasa stellt mit X-70 Fractal einen neuen experimentellen Jet der X-Reihe vor. Das soll er leisten."
+    },
+    {
+     "title": "Aus der Wirtschaft abgeguckt: Mit diesem System sollen sich KI-Agenten endlich an Regeln halten",
+     "url": "https://t3n.de/news/aus-der-wirtschaft-abgeguckt-mit-diesem-system-sollen-sich-ki-agenten-endlich-an-regeln-halten-1771449",
+     "date": "2026-11-06T08:30:20.000Z",
+     "text": "Es bleibt schwer, das Verhalten von KI-Agenten zu steuern. Sicherheitsexpert:innen bedienen sich daher jetzt an Mechanismen aus ungewöhnlichen Feldern wie den W"
+    },
+    {
+     "title": "Forensight: Mit diesem KI-System jagt NRW künftig Finanzkriminelle",
+     "url": "https://t3n.de/news/forensight-mit-diesem-ki-system-jagt-nrw-kuenftig-finanzkriminelle-1771952",
+     "date": "2026-11-06T07:30:12.000Z",
+     "text": "Riesige Datenberge, aber nur ein Bruchteil davon ist für Ermittler relevant: NRW setzt erstmals ein eigenes KI-System ein, um wichtige Spuren aus Datenbergen zu filtern. Was so erreicht werden kann."
+    },
+    {
+     "title": "Wannsee-Inhalt pro Jahr: So viel Wasser schlucken deutsche Rechenzentren schon heute",
+     "url": "https://t3n.de/news/wannsee-inhalt-pro-jahr-so-viel-wasser-schlucken-deutsche-rechenzentren-schon-heute-1771944",
+     "date": "2026-11-06T07:00:18.000Z",
+     "text": "Der Wasserbedarf deutscher Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Eine Studie des Öko-Instituts bringt Alternativen zum hohen Wasserverbrauch ins Gespräch."
+    },
+    {
+     "title": "Job-Scamming: Wie sich Betrüger die Identitäten echter Recruiter zu eigen machen",
+     "url": "https://t3n.de/news/fake-recuriter-job-scamming-betrug-1769925",
+     "date": "2026-11-06T06:30:47.000Z",
+     "text": "Betrüger sind in der Recruitingbranche ein bekanntes Problem. Jetzt aber greifen sie auch nach den Identitäten echter Personaldienstleister. Wie die Betrüger vo"
+    },
     {
      "title": "Anthropic Smart Reports: Zwischen Kostenkontrolle und Mitarbeiterüberwachung",
      "url": "https://t3n.de/news/anthropic-smart-reports-ki-kostenkontrolle-mitarbeiter-1771500",
@@ -768,36 +786,6 @@
      "url": "https://t3n.de/news/boerse-nach-den-us-wahlen-big-tech-jubelt-ki-zulieferer-verlieren-1771811",
      "date": "2026-11-05T12:30:50.000Z",
      "text": "Der deutliche Wahlsieg der Demokraten sorgt an den US-Börsen für Bewegung. Während Big-Tech-Firmen wie Amazon und Microsoft profitieren, geraten Rechenzentrumsbetreiber und Chipkonzerne unter Druck."
-    },
-    {
-     "title": "Modelmaxxing: So stark kürzt Apple jetzt die KI-Budgets seiner Teams",
-     "url": "https://t3n.de/news/modelmaxxing-so-stark-kuerzt-apple-jetzt-die-ki-budgets-seiner-teams-1771796",
-     "date": "2026-11-05T11:00:55.000Z",
-     "text": "Der iPhone-Hersteller befindet sich in einer Zwickmühle: Einerseits will das Unternehmen effizient arbeiten und Innovationen fördern – andererseits sollen die stark gestiegenen Ausgaben wieder reduziert werden."
-    },
-    {
-     "title": "iOS 27.3: Diese Funktionen könnten mit dem nächsten Update aufs iPhone kommen",
-     "url": "https://t3n.de/news/ios-27-3-beta-iphone-update-1771753",
-     "date": "2026-11-05T09:06:37.000Z",
-     "text": "Apple hat die erste Beta-Version von iOS 27.3 veröffentlicht. Sie bringt ein Feature zurück, das aus der Vorversion gestrichen wurde. Auch das iPhone Duo bekommt neue Funktionen."
-    },
-    {
-     "title": "40 Jahre .de: Deutschlands digitale Adresse im Wandel",
-     "url": "https://t3n.de/news/40-jahre-de-deutschlands-digitale-adresse-im-wandel-1771737",
-     "date": "2026-11-05T08:00:06.000Z",
-     "text": "Für shopping.de wurden fast zwei Millionen Euro gezahlt, heute gibt es mehr als 18 Millionen .de-Domains. Doch Apps und KI verändern, wie wir Adressen im Netz nutzen."
-    },
-    {
-     "title": "Mit Rechentrick aus Quake 3 gegen Nvidia: Wie das Startup Tensordyne KI-Chips sparsamer machen will",
-     "url": "https://t3n.de/news/tensordyne-chip-startup-nvidia-konkurrenz-1771073",
-     "date": "2026-11-05T07:30:31.000Z",
-     "text": "Nvidia dominiert den KI-Chip-Markt. Das deutsch-amerikanische Startup Tensordyne will bei der Modellausführung schneller und günstiger als Nvidia sein – und dam"
-    },
-    {
-     "title": "Zu perfekt zum Reinbeißen: Studie zeigt, warum KI-Essensbilder weniger Appetit machen",
-     "url": "https://t3n.de/news/zu-perfekt-zum-reinbeissen-studie-zeigt-warum-ki-essensbilder-weniger-appetit-machen-1771715",
-     "date": "2026-11-05T07:00:14.000Z",
-     "text": "Einige Restaurants setzen bei ihren Speisekarten gerne auf Künstliche Intelligenz. Manche Bilder wirken aber eher abschreckend, als wirklich ansprechend. Was steckt dahinter?"
     }
    ]
   },
@@ -805,6 +793,12 @@
    "name": "The Decoder",
    "ok": true,
    "items": [
+    {
+     "title": "Anthropic baut Claude zum persönlichen Finanzassistenten aus",
+     "url": "https://the-decoder.de/anthropic-baut-claude-zum-persoenlichen-finanzassistenten-aus/",
+     "date": "2026-11-06T08:56:13.000Z",
+     "text": "Anthropic führt in Claude eine neue Funktion namens Personal Finance ein, mit der Nutzer ihre Bank- und Kartenkonten verbinden und Fragen zu ihren Finanzen stellen können. Der Artikel Anthropic baut Claude zum persönlichen Finanzassistenten aus erschien zuerst auf The Decoder ."
+    },
     {
      "title": "GPT-6 Cyber: OpenAI trainiert KI-Modell gezielt für die Jagd nach Sicherheitslücken",
      "url": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/",
@@ -858,12 +852,6 @@
      "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/",
      "date": "2026-11-05T10:38:05.000Z",
      "text": "Anthropic hat kurz vor den US-Zwischenwahlen seinen ersten Lizenzvertrag mit einem Nachrichtenverlag geschlossen. Der Artikel Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für Verlagsinhalte erschien zuerst auf The Decoder ."
-    },
-    {
-     "title": "OpenAIs GPT-6 Astra bremste die Sicherheitsforschung heimlich aus",
-     "url": "https://the-decoder.de/openais-gpt-6-astra-erfindet-probleme-und-verlangsamt-so-die-eigene-sicherheitsforschung/",
-     "date": "2026-11-05T10:02:22.000Z",
-     "text": "OpenAIs neues Modell GPT-6 Astra sabotierte offenbar gezielt KI-Sicherheitsforschung: Es erfand Hindernisse, verschwieg Lösungen und leistete bei Sicherheitsaufgaben rund 40 Prozent weniger als bei vergleichbaren anderen Aufgaben. Ein fehlerhafter Trainingsdatensatz beseitigte das Problem – doch strategische Motive kann OpenAI nicht vollständig ausschließen. Der Artikel OpenAIs GPT-6 Astra bremste die Sicherheitsforschung heimlich aus erschien zuerst auf The Decoder ."
     }
    ]
   },
