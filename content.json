@@ -1,140 +1,134 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "site": {
     "title": "KI-News",
     "description": "Die wichtigsten Neuigkeiten aus der KI-Welt, jeden Morgen kurz auf Deutsch",
     "lang": "de"
   },
-  "intro": "OpenAI und Anthropic bringen Funktionen für den Alltag im Büro und im Netz, während der Streit um Rechenzentren und KI an Schulen politischer wird.",
+  "intro": "Die US-Wahl wirkt sich auf die KI-Branche aus: Rechenzentren stoßen auf Widerstand. Gleichzeitig drängen KI-Assistenten in Finanzen, Reisen und IT-Sicherheit.",
   "top": [
     {
-      "title": "Claude zeigt Chefs, wie Mitarbeiter die KI nutzen",
-      "text": "Anthropic bringt „Smart Reports“ für Claude. Unternehmen sehen damit, wofür ihre Teams Claude einsetzen, und können so ihre KI-Kosten besser steuern. Heise weist darauf hin, dass sich damit auch die Leistung einzelner Beschäftigter bewerten lässt. Das ist ein Thema für Betriebsräte und Datenschutz.",
-      "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html",
-      "source": "heise online",
-      "category": "Claude & Anthropic"
+      "title": "Claude kann jetzt Ihre Finanzen analysieren",
+      "text": "Anthropic hat für Claude die Funktion „Personal Finance“ gestartet. Nutzer verbinden Bank- und Kartenkonten über den Dienst Plaid und stellen Fragen zu ihren Ausgaben. Das zeigt, wie KI-Assistenten immer tiefer in private Daten greifen – mit Chancen und Datenschutzfragen.",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch AI",
+      "category": "Claude & Anthropic",
+      "tipp": "Wer die Funktion testet, sollte zuerst prüfen, welche Konten verbunden werden und wie sich der Zugriff wieder trennen lässt."
     },
     {
-      "title": "ChatGPT erstellt jetzt animierte GIFs",
-      "text": "OpenAI startet das Bildmodell Images 2.6. Es arbeitet schneller und kann Bilder genauer bearbeiten. Neu ist, dass ChatGPT aus einer Beschreibung oder einem Foto ein animiertes GIF macht. Tempo und einzelne Bilder lassen sich anpassen.",
-      "url": "https://openai.com/index/introducing-images-2-6",
+      "title": "GPT-6 Cyber: OpenAI-Modell jagt Sicherheitslücken",
+      "text": "OpenAI hat GPT-6 Cyber vorgestellt, ein Modell für IT-Sicherheit. Es soll Schwachstellen in Software finden und Korrekturen entwickeln, dabei aber innerhalb des erlaubten Rahmens bleiben. Das hilft Verteidigern, wirft aber die Frage auf, wie gut sich solche Fähigkeiten vor Missbrauch schützen lassen.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "source": "OpenAI News",
-      "category": "Modelle & Releases",
-      "tipp": "Lade ein Foto hoch und bitte ChatGPT, daraus ein kurzes GIF für eine Präsentation oder Chat-Nachricht zu machen."
+      "category": "Modelle & Releases"
     },
     {
-      "title": "Google schaltet KI in Schulprodukten ab 2027 standardmäßig ab",
-      "text": "Schulen sollen künftig selbst entscheiden, ob sie Googles KI-Funktionen nutzen. Wer KI auf Schulgeräten komplett blockiert, verliert laut The Decoder aber auch die Google-Suche, weil beides eng verzahnt ist. Politiker kritisieren das als Druck auf Schulen.",
-      "url": "https://the-decoder.de/wer-googles-ki-in-der-schule-abschaltet-verliert-ab-2027-auch-die-suche/",
-      "source": "The Decoder",
+      "title": "Nach US-Wahl: OpenAI will anwohnerfreundlichere Rechenzentren",
+      "text": "Zwei Tage nach den US-Zwischenwahlen kündigt OpenAI neue Regeln für Rechenzentren an, unter anderem weniger Geheimhaltung gegenüber Anwohnern. Der Widerstand gegen den Ausbau der KI-Infrastruktur ist politisch spürbar geworden und könnte Tempo und Kosten der KI-Entwicklung beeinflussen.",
+      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html",
+      "source": "heise online",
       "category": "Regulierung & Politik"
     }
   ],
   "entries": [
     {
-      "title": "Anthropic will KI-Antworten überprüfbar machen",
-      "url": "https://www.heise.de/news/Wer-spricht-da-Anthropic-stellt-Identitaetsnachweis-fuer-KI-Modelle-vor-11511036.html",
+      "title": "Gemini Omni 1.2 Flash erzeugt längere Videoclips",
+      "summary": "Googles Videomodell erstellt und bearbeitet jetzt Clips von bis zu 15 Sekunden und ist laut Google 30 Prozent günstiger.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI Blog",
+      "category": "Modelle & Releases"
+    },
+    {
+      "title": "Tencent stellt KI-Modell Hy4 vor",
+      "summary": "Das chinesische Modell versteht Bilder und kann Programme bedienen. Unabhängige Tests zeigen laut heise ein gemischtes Bild.",
+      "url": "https://www.heise.de/news/Tencent-Hy4-Neues-KI-Modell-schafft-es-in-chinesische-Spitzengruppe-11513555.html",
       "source": "heise online",
-      "category": "Claude & Anthropic",
-      "summary": "Mit „FlashProve“ soll sich nachweisen lassen, dass eine Antwort wirklich von dem KI-Modell stammt, das angegeben wird. Die Modelldaten bleiben dabei geheim. Bisher ist es ein Forschungsprototyp."
+      "category": "Modelle & Releases"
     },
     {
-      "title": "Saudi Aramco übernimmt knapp die Hälfte von Humain",
-      "url": "https://www.heise.de/news/Saudi-Aramco-uebernimmt-knapp-die-Haelfte-des-KI-Unternehmens-Humain-11512647.html",
-      "source": "heise online",
-      "category": "Business & Funding",
-      "summary": "Der Ölkonzern investiert Milliarden in das saudische KI-Unternehmen. Er will damit das KI-Geschäft des Landes stärken und vom hohen Strombedarf der Rechenzentren profitieren."
-    },
-    {
-      "title": "EU fördert Chipdesign-Plattform mit 525 Millionen Euro",
-      "url": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html",
-      "source": "heise online",
-      "category": "Regulierung & Politik",
-      "summary": "Das Geld soll neuen europäischen Chipdesign-Firmen helfen. Europa will bei den Chips, die auch KI antreiben, unabhängiger werden."
-    },
-    {
-      "title": "OpenAI übernimmt Pierre Computer",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI News",
-      "category": "Tools & Agenten",
-      "summary": "Die Firma baut Werkzeuge, mit denen Programmierer Code schreiben, verstehen und prüfen. Sie sollen in OpenAIs Coding-Assistenten Codex einfließen. Heise sieht darin einen Angriff auf GitHub."
-    },
-    {
-      "title": "Anthropics Text-Wasserzeichen lässt sich bei älteren Modellen umgehen",
-      "url": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/",
+      "title": "Baidu veröffentlicht ERNIE 5.5 Flash Base als Open Source",
+      "summary": "Das frei verfügbare Basismodell hat 280 Milliarden Parameter (Recheneinheiten des Modells). Entwickler können es selbst anpassen.",
+      "url": "https://the-decoder.de/baidu-veroeffentlicht-ernie-5-5-flash-base-mit-280-milliarden-parametern-als-open-source-basismodell/",
       "source": "The Decoder",
-      "category": "Claude & Anthropic",
-      "summary": "Anthropic markiert Texte von vier weiteren Claude-Modellen, auch wegen der EU-Regeln ab Dezember. Bei Modellen vor der 4.7-Serie reicht laut Bericht eine kleine Einstellungsänderung, um die Markierung zu entfernen."
+      "category": "Modelle & Releases"
     },
     {
-      "title": "GPT-6 Astra kann KI-Gewichte lesen und umschreiben",
-      "url": "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech",
-      "summary": "MIT-Forscher zeigen, dass das OpenAI-Modell die inneren Einstellungen eines anderen Modells gezielt ändern kann, ohne es neu zu trainieren. Bei einem kleinen Qwen-Modell stieg die Trefferquote bei Matheaufgaben deutlich. Der Ansatz hat noch klare Grenzen."
-    },
-    {
-      "title": "Neuer Test: KI-Agenten scheitern oft bei Cloud-Wartung",
-      "url": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/",
-      "source": "The Decoder",
-      "category": "Tools & Agenten",
-      "summary": "CloudOpsBench prüft, wie gut KI-Agenten typische Admin-Aufgaben in der Cloud lösen, etwa Dienste reparieren oder Zugriffsrechte einschränken. Selbst die besten Modelle schaffen nur rund 60 Prozent."
-    },
-    {
-      "title": "Fal verdoppelt Bewertung auf 16 Milliarden Dollar",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch AI",
-      "category": "Business & Funding",
-      "summary": "Das Start-up betreibt Rechenleistung, mit der Firmen KI-Modelle ausführen. Es sammelte 1,3 Milliarden Dollar ein, weil die Nachfrage stark wächst."
-    },
-    {
-      "title": "Meta kauft Coding-Start-up Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source": "TechCrunch AI",
-      "category": "Business & Funding",
-      "summary": "Mit Conductor können Entwickler mehrere KI-Agenten gleichzeitig an einem Projekt arbeiten lassen. Meta baut damit sein Angebot für KI-gestütztes Programmieren aus."
-    },
-    {
-      "title": "Uber: Nur vier Fahrten kamen von KI-Agenten",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source": "TechCrunch AI",
-      "category": "KI im Alltag & Beruf",
-      "summary": "Im dritten Quartal buchten externe KI-Agenten gerade vier Fahrten, bei Essensbestellungen waren es etwa 500. Die Zahlen zeigen, dass Agenten im Alltag bisher kaum genutzt werden."
-    },
-    {
-      "title": "Netflix testet KI-Tab für Empfehlungen nach Stimmung",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "source": "TechCrunch AI",
-      "category": "KI im Alltag & Beruf",
-      "summary": "Der neue Bereich „Discover“ schlägt Filme und Serien vor, die zur aktuellen Laune passen. Es ist zunächst eine experimentelle Funktion."
-    },
-    {
-      "title": "Rechenzentren gehören zu den Verlierern der US-Zwischenwahlen",
-      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "title": "Perplexity startet „Teammates“ – KI-Agenten für die Arbeit",
+      "summary": "Die dauerhaft laufenden Agenten übernehmen verschiedene Rollen im Team. Perplexity tritt damit gegen OpenAI und Anthropic an.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
       "source": "The Verge AI",
-      "category": "Regulierung & Politik",
-      "summary": "Vielerorts wurden Kandidaten gewählt, die Rechenzentren bremsen wollen. Für die KI-Branche könnte der Ausbau damit schwieriger werden."
+      "category": "Tools & Agenten",
+      "tipp": "Wer schon Perplexity nutzt, kann prüfen, ob sich wiederkehrende Recherche-Aufgaben an einen Agenten abgeben lassen."
     },
     {
-      "title": "Start-up Tensordyne will KI-Chips sparsamer machen",
-      "url": "https://t3n.de/news/tensordyne-chip-startup-nvidia-konkurrenz-1771073",
+      "title": "Airbnb plant KI-Reiseassistenten für 2027",
+      "summary": "Der Agent soll Reisen planen, Angebote vergleichen und Buchungen verwalten. Start ist laut Airbnb in der ersten Jahreshälfte 2027.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Meta: Muse-KI per Video-Chat mit Avatar",
+      "summary": "Nutzer in den USA können mit Metas KI-Assistent Muse als animiertem Avatar sprechen. Auch ein Sprachmodus ist verfügbar.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Anthropic zahlt erstmals für Verlagsinhalte",
+      "summary": "Kurz vor den US-Zwischenwahlen schloss Anthropic seinen ersten Lizenzvertrag mit einem Nachrichtenverlag. Das ist ein Kurswechsel im Streit um Urheberrechte.",
+      "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/",
+      "source": "The Decoder",
+      "category": "Claude & Anthropic"
+    },
+    {
+      "title": "Smart Reports: Anthropic-Werkzeug für KI-Kosten im Unternehmen",
+      "summary": "Das Tool soll KI-Ausgaben im Griff halten. t3n weist darauf hin, dass es auch zur Überwachung von Mitarbeitern genutzt werden könnte.",
+      "url": "https://t3n.de/news/anthropic-smart-reports-ki-kostenkontrolle-mitarbeiter-1771500",
       "source": "t3n",
-      "category": "Forschung & Deep Tech",
-      "summary": "Das deutsch-amerikanische Unternehmen setzt auf einen Rechentrick, um KI-Modelle schneller und günstiger als mit Nvidia-Chips auszuführen."
+      "category": "Claude & Anthropic"
     },
     {
-      "title": "Versteckte KI-Schulden der Tech-Konzerne wachsen auf 3,2 Billionen Dollar",
-      "url": "https://t3n.de/news/ki-schulden-tech-konzerne-1771696",
+      "title": "Claude-Code-Produktchefin wechselt zu OpenAI",
+      "summary": "Catherine Wu, Gründungs-Produktchefin von Claude Code, verantwortet künftig bei OpenAI das Produktmanagement der „Core Products“.",
+      "url": "https://the-decoder.de/openai-holt-sich-anthropics-gruendungs-produktchefin-von-claude-code/",
+      "source": "The Decoder",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Meta kauft Coding-Startup Conductor",
+      "summary": "Conductor ermöglicht, mehrere KI-Coding-Agenten gleichzeitig zu steuern. Solche Startups sind derzeit gefragt.",
+      "url": "https://the-decoder.de/meta-kauft-conductor-ki-startups-fuer-entwickler-tools-sind-heiss-begehrt/",
+      "source": "The Decoder",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Dropbox übernimmt Tigris Data für 350 Millionen Dollar",
+      "summary": "Der Kauf soll eine neue Speicherplattform für Entwickler von KI-Modellen und Agenten stützen.",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch AI",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Bericht: KI-Gegenwind könnte Anthropic-Börsengang verzögern",
+      "summary": "Laut Reuters sehen mögliche Investoren den Widerstand gegen KI als Risiko für den Zeitplan. Es handelt sich um Berichte, nicht um bestätigte Pläne.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+      "source": "Reuters",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Börse nach US-Wahl: Big Tech gewinnt, KI-Zulieferer verlieren",
+      "summary": "Nach dem Wahlsieg der Demokraten profitieren Amazon und Microsoft, während Anbieter von Rechenzentren unter Druck geraten.",
+      "url": "https://t3n.de/news/boerse-nach-den-us-wahlen-big-tech-jubelt-ki-zulieferer-verlieren-1771811",
       "source": "t3n",
-      "category": "Business & Funding",
-      "summary": "Laut t3n haben sich die nicht direkt in den Bilanzen sichtbaren Verpflichtungen für KI-Infrastruktur in sechs Monaten fast verdoppelt. Die Einnahmen hinken den Investitionen hinterher."
+      "category": "Business & Funding"
     },
     {
-      "title": "Google DeepMind zeigt KI-Agenten für die Wirkstoffsuche",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "category": "Forschung & Deep Tech",
-      "summary": "Das Werkzeug Antigravity soll mit speziellen Fähigkeiten Chemiker bei der Suche nach neuen Medikamenten unterstützen, etwa bei der Recherche nach Verbindungen."
+      "title": "Texas als KI-Rechenzentrums-Hotspot wackelt",
+      "summary": "Nach dem politischen Umschwung in Texas könnte der Ausbau von Rechenzentren dort ins Stocken geraten, berichtet MIT Technology Review.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "category": "Regulierung & Politik"
     }
   ]
 }
