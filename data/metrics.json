@@ -14,10 +14,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-05",
-    219.22
-   ],
-   [
     "2026-08-06",
     218.99
    ],
@@ -272,13 +268,13 @@
    [
     "2026-11-04",
     200.13
+   ],
+   [
+    "2026-11-05",
+    181.6
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-05",
-    487.46
-   ],
    [
     "2026-08-06",
     499.86
@@ -534,13 +530,13 @@
    [
     "2026-11-04",
     555.8
+   ],
+   [
+    "2026-11-05",
+    535.93
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-05",
-    362.43
-   ],
    [
     "2026-08-06",
     357.75
@@ -796,13 +792,13 @@
    [
     "2026-11-04",
     288.93
+   ],
+   [
+    "2026-11-05",
+    282.57
    ]
   ],
   "META": [
-   [
-    "2026-08-05",
-    588.77
-   ],
    [
     "2026-08-06",
     589.9
@@ -1058,6 +1054,10 @@
    [
     "2026-11-04",
     630
+   ],
+   [
+    "2026-11-05",
+    605.08
    ]
   ]
  },
@@ -1070,41 +1070,41 @@
  "hf": [
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 780,
+   "likes": 938,
    "downloads": 11658,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 683,
+   "likes": 785,
    "downloads": 17180,
    "task": "image-to-3d"
   },
   {
-   "id": "mistralai/Mistral-Large-4-1T-A52B",
-   "likes": 1604,
-   "downloads": 9592,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "Pika-Labs/Pika-H3-Flex",
-   "likes": 450,
-   "downloads": 863,
-   "task": "image-to-video"
-  },
-  {
    "id": "Lightricks/LTX-2.5",
-   "likes": 10671,
+   "likes": 10740,
    "downloads": 2561845,
    "task": "image-to-video"
   },
   {
    "id": "ccore/Qwen3.5-4B-3D-Coder",
-   "likes": 678,
+   "likes": 709,
    "downloads": 157157,
    "task": ""
+  },
+  {
+   "id": "Pika-Labs/Pika-H3-Flex",
+   "likes": 475,
+   "downloads": 863,
+   "task": "image-to-video"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "likes": 1615,
+   "downloads": 9592,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-05T14:17:44.404Z",
- "updatedDay": "2026-11-05"
+ "updated": "2026-11-06T02:47:32.276Z",
+ "updatedDay": "2026-11-06"
 }
