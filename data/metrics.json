@@ -1070,41 +1070,41 @@
  "hf": [
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 938,
+   "likes": 947,
    "downloads": 11658,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 785,
+   "likes": 801,
    "downloads": 17180,
    "task": "image-to-3d"
   },
   {
-   "id": "Lightricks/LTX-2.5",
-   "likes": 10740,
-   "downloads": 2561845,
-   "task": "image-to-video"
-  },
-  {
    "id": "ccore/Qwen3.5-4B-3D-Coder",
-   "likes": 709,
+   "likes": 715,
    "downloads": 157157,
    "task": ""
   },
   {
-   "id": "Pika-Labs/Pika-H3-Flex",
-   "likes": 475,
-   "downloads": 863,
+   "id": "Lightricks/LTX-2.5",
+   "likes": 10745,
+   "downloads": 2561845,
    "task": "image-to-video"
   },
   {
+   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "likes": 3060,
+   "downloads": 57297,
+   "task": "automatic-speech-recognition"
+  },
+  {
    "id": "mistralai/Mistral-Large-4-1T-A52B",
-   "likes": 1615,
+   "likes": 1616,
    "downloads": 9592,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-06T02:47:32.276Z",
+ "updated": "2026-11-06T04:26:39.860Z",
  "updatedDay": "2026-11-06"
 }
